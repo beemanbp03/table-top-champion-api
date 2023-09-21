@@ -19,6 +19,6 @@ app.get("/", (req, res) => {
     `);
 })
 
-app.listen(PORT, () => console.log(`server is running on PORT ${PORT}`));
+app.listen(process.env.PORT || PORT, () => console.log(`server is running on PORT ${PORT}`));
 
 
