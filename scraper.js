@@ -1,5 +1,5 @@
 const express = require('express');
-const PORT = 8000;
+//const PORT = 8000;
 const cheerio = require('cheerio');
 const axios = require('axios').default;
 const app = express();
@@ -158,6 +158,6 @@ apiSources.forEach( (source, index, apiSources) => {
 });
 
 ////////////RUN SERVER ON SPECIFIC PORT////////////
-app.listen(process.env.PORT || PORT, () => console.log(`server is running on PORT ${PORT}`));
+app.listen(process.env.PORT, () => console.log(`server is running on PORT ${PORT}`));
 
 
