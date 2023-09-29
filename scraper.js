@@ -7,6 +7,120 @@ const app = express();
 //Set any JSON in a response to be formatted
 app.set('json spaces', 2);
 
+////////////SCRAPE FUNCTIONS////////////
+
+const spaceMarineScrape = async (source) => {
+    console.log("RUNNING spaceMarineScrape function");
+
+    var scrapedContent = await axios.get(`https://wahapedia.ru/wh40k10ed/factions/${source.name}/`).then((response) => {
+        var html = response.data;
+        var $ = cheerio.load(html);
+    
+        //Faction Title and Description
+        var factionTitle = $('.page_header_span').text();
+        var factionDescription = $('[id=wrapper2] [id=wrapper] b:eq(5)').text();
+    
+        //Army Rules
+        var oathOfMomentDescription = $('[id=wrapper] .Columns2 .BreakInsideAvoid:eq(0) p').text();
+        var oathOfMomentRule = $('[id=wrapper] .Columns2 .BreakInsideAvoid:eq(0)').each(function(index, element){
+            $('[id=wrapper] .Columns2 .BreakInsideAvoid:eq(0) h3').remove();
+            $('[id=wrapper] .Columns2 .BreakInsideAvoid:eq(0) p').remove();
+        }).text();
+    
+        /*Console logs*/
+        console.log("Title: " + factionTitle + "\n");
+        console.log("factionDescription: " + factionDescription);
+        console.log("Description: " + oathOfMomentDescription + "\n");
+        console.log("Oath Of Moment: " + oathOfMomentRule + "\n");  
+        
+        //Return page contents as JSON object
+        return {
+            "faction title" : factionTitle,
+            "faction description" : factionDescription,
+            "army-rules" : {
+                "oath-of-moment" : {
+                    "description" : oathOfMomentDescription,
+                    "rule" : oathOfMomentRule,
+                }
+            }
+        };
+    });
+    
+    return scrapedContent;
+};
+
+const tyranidsScrape = async (source) => {
+    console.log("RUNNING tyranidsScrape function");
+
+    var scrapedContent = await axios.get(`https://wahapedia.ru/wh40k10ed/factions/${source.name}/`).then((response) => {
+        var html = response.data;
+        var $ = cheerio.load(html);
+    
+        //Faction Title and Description
+        var factionTitle = $('.page_header_span').text();
+        var factionDescription = $('[id=wrapper2] [id=wrapper] b:eq(4)').text();
+    
+        //Army Rules
+        var synapseDescription = $('[id=wrapper] .Columns2 .BreakInsideAvoid:eq(0) p').text();
+        
+        var synapseRule = $('[id=wrapper] .Columns2 .BreakInsideAvoid:eq(0)').each(function(index, element){
+            $('[id=wrapper] .Columns2 .BreakInsideAvoid:eq(0) h3').remove();
+            $('[id=wrapper] .Columns2 .BreakInsideAvoid:eq(0) p').eq(0).remove();
+        }).text();
+        
+        
+
+        var shadowInTheWarpDescription = $('[id=wrapper] .Columns2 .BreakInsideAvoid:eq(1) p').text();
+        
+        var shadowInTheWarpRule = $('[id=wrapper] .Columns2 .BreakInsideAvoid:eq(1)').each(function(index, element){
+            $('[id=wrapper] .Columns2 .BreakInsideAvoid:eq(1) h3').remove();
+            $('[id=wrapper] .Columns2 .BreakInsideAvoid:eq(1) p').remove();
+        }).text();
+        
+    
+        /*Console logs*/
+        //console.log("Title: " + factionTitle + "\n");
+        //console.log("Description: " + factionDescription + "\n");
+        console.log("Synapse Description: " + synapseDescription + "\n");
+        console.log("Synapse Rule: " + synapseRule + "\n");  
+        console.log("Shadow In The Warp Description: " + shadowInTheWarpDescription + "\n");
+        console.log("Shadow In The Warp Rule: " + shadowInTheWarpRule + "\n");  
+        
+        //Return page contents as JSON object
+        return {
+            "faction title" : factionTitle,
+            "faction description" : factionDescription,
+            "army-rules" : {
+                "synapse" : {
+                    "description" : synapseDescription,
+                    "rule" : synapseRule,
+                },
+                "shadow-in-the-warp" : {
+                    "description" : shadowInTheWarpDescription,
+                    "rule" : shadowInTheWarpRule,
+                }
+            }
+        };
+    });
+
+    return scrapedContent;
+};
+
+
+
+////////////API SOURCES FOR SCRAPING////////////
+const apiSources = [
+    {
+        name : "space-marines",
+        scrapeFunction : spaceMarineScrape,
+    },
+    {
+        name : "tyranids",
+        scrapeFunction: tyranidsScrape,
+    }
+]
+
+////////////API ROUTES////////////
 app.get("/", (req, res) => {
     res.send(`
         <h1>table-top-champion Web Scraping API</h1>
@@ -22,48 +136,15 @@ app.get("/", (req, res) => {
     `);
 });
 
-app.get("/space-marines", async (req, res) => {
-    var spaceMarineContent = {} //Create mutable JSON that will contain all faction information
-
-    await axios.get('https://wahapedia.ru/wh40k10ed/factions/space-marines/').then((response) => {
-        var html = response.data;
-        var $ = cheerio.load(html);
-
-        //Faction Title and Description
-        var factionTitle = $('.page_header_span').text();
-        var factionDescription = $('[id=wrapper] .Columns2 div:first p').text();
-
-        //Army Rules
-        var oathOfMoment = $('[id=wrapper] .Columns2 div:eq(0)').each(function(index, element){
-            var h3ToRemove = $('h3:first').remove();
-            var pToRemove = $('p:first').remove();
-        }).text();
+apiSources.forEach( (source, index, apiSources) => {
+    app.get(`/${source.name}`, async (req, res) => {
+        console.log("Running app.get('/${source.name}') route")
         
-
-        //Add page contents to JSON object
-        spaceMarineContent = {
-            "faction title" : factionTitle,
-            "faction description" : factionDescription,
-            "oath of moment" : oathOfMoment
-        }
-
-
-        /*Console logs*/
-        console.log("Title: " + factionTitle + "\n");
-        console.log("Description: " + factionDescription + "\n");
-        console.log("Oath Of Moment: " + oathOfMoment + "\n");
-        
-    })
-
-    res.json(spaceMarineContent);
+        res.json(await source.scrapeFunction(source));
+    });
 });
 
-app.get("/tyranids", (req, res) => {
-    res.send(`
-        TESTING TESTING TESTING
-    `);
-});
-
+////////////RUN SERVER ON SPECIFIC PORT////////////
 app.listen(process.env.PORT || PORT, () => console.log(`server is running on PORT ${PORT}`));
 
 
