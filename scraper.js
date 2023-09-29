@@ -125,12 +125,23 @@ app.get("/", (req, res) => {
     res.send(`
         <h1>table-top-champion Web Scraping API</h1>
         <p>This is a testing ground for webscraping the following pages of Wahwapedia </p> 
+        <h3>Sources</h3>
         <ol>
             <li>
                 <a href="https://wahapedia.ru/wh40k10ed/factions/space-marines/">Wahwapedia - Space Marines Page</a>
             </li>
             <li>
                 <a href="https://wahapedia.ru/wh40k10ed/factions/tyranids/">Wahwapedia - Tyranids</a>
+            </li>
+        </ol>
+        <br>
+        <h3>API Routes</h3>
+        <ol>
+            <li>
+                <a href="https://table-top-champion-api-41291195a5cd.herokuapp.com/space-marines">/space-marines</a>
+            </li>
+            <li>
+            <a href="https://table-top-champion-api-41291195a5cd.herokuapp.com/tyranids">/tyranids</a>
             </li>
         </ol>
     `);
