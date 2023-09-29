@@ -144,6 +144,7 @@ app.get("/", (req, res) => {
             <a href="https://table-top-champion-api-41291195a5cd.herokuapp.com/tyranids">/tyranids</a>
             </li>
         </ol>
+        <p></p>
     `);
 });
 
