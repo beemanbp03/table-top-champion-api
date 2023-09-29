@@ -1,11 +1,9 @@
 const express = require('express');
-const wwwhisper = require('connect-wwwhisper');
 const PORT = 8000;
 const cheerio = require('cheerio');
 const axios = require('axios').default;
 const app = express();
 
-app.use(wwwhisper());
 
 //Set any JSON in a response to be formatted
 app.set('json spaces', 2);
