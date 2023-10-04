@@ -3,7 +3,7 @@ const PORT = 8000;
 const app = express();
 
 app.get("/", (req, res) => {
-    res.send(`<h1>PDF Scraper For Warhammer Documents</h1>`);
+    res.send(`<h1>API for Warhammer 40,000 10th Edition</h1>`);
 });
 
 
