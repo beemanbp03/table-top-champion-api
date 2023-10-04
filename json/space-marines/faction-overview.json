@@ -1,0 +1,119 @@
+{
+    "faction-name": "Adeptus Astartes",
+    "army-rules": {
+        "description": "In battle, Space Marines swear mighty oaths to destroy the enemies of the Emperor and uphold the honour of their Chapter, and such vows are sacrosanct. When the Angels of Death strike, they do so with the precision of a surgeon and the force of a thunderbolt. Experience and strategic expertise help them to read the shifting shape of the battle with post-human speed and clarity, directing their wrath towards one priority target after another. Command assets are annihilated, leaving the enemy reeling leaderless. Heavy armour, potent artillery and the vaunted elites of the foe's forces are laid waste with horrifying speed, until the Emperor's Angels of Death stand victorious over a field of smouldering wreckage and bolt-riddled corpses, and honour is finally satisfied.",
+        "oath-of-moment": "If your Army Faction is Adeptus Astartes, at the start of your Command phase, select one unit from your opponent's army. Until the start of your next Command phase, each time a model from your army with this ability makes an attack that targets that enemy unit, you can re-roll the Hit roll and you can re-roll the Wound roll.",
+        "space-marine-chapters": {
+            "1": "If an Adeptus Astartes unit has a second Faction keyword on its datasheet, that Faction keyword is the name of that unit's Chapter. For example, Marneus Calgar has both the Adeptus Astartes and Ultramarines Faction keywords, and is therefore from the Ultramarines Chapter.",
+            "2": "You cannot include units from more than one Chapter in your army."
+        }
+    },
+    "army-factions": {
+        "gladius-task-force": {
+            "name": "Gladius Task Force",
+            "usage-rule": "If your army faction is Adeptus Astartes, you can use this Gladius Task Force Detachment Rule",
+            "combat-doctrines": {
+                "description": "The Codex Astartes has proven its worth as a superb treatise on warfare over countless battlefields, and has remained so even after ten thousand years. Many Space Marines hold its wisdom in awe, and exemplify its teachings, employing a flexible set of combat doctrines to eliminate their enemy. Few opponents can withstand the fury of such an onslaught. ",
+                "rule": "At the start of your Command phase, you can select one of the Combat Doctrines listed below. Until the start of your next Command phase, that Combat Doctrine is active and its effects apply to all Adeptus Astartes units from your army with this ability. You can only select each Combat Doctrine once per battle",
+                "doctrines": {
+                    "1":{
+                        "name": "Devastator Doctrine",
+                        "description": "The Codex Astartes explains in detail the strategic value of overwhelming firepower applied to key targets while advancing into position in order to eliminate threats and create tactical openings.",
+                        "rule": "This unit is eligible to shoot in a turn in which it Advanced."
+                    },
+                    "2":{
+                        "name": "Tactical Doctrine",
+                        "description": "As the warring armies close upon one another and vicious fire-fights erupt, the Codex lays out strategies for swiftly seizing the initiative and combining versatility with firepower",
+                        "rule": "This unit is eligible to shoot and declare a charge in a turn in which it Fell Back."
+                    },
+                    "3":{
+                        "name": "Assult Doctrine",
+                        "description": "The Codex Astartes leaves no doubt that the killing blow in most engagements must be delivered with a decisive close-quarters strike. It presents plentiful tactical means to achieve this end.",
+                        "rule": "This unit is eligible to declare a charge in a turn in which it Advanced."
+                    }
+                }
+            },
+            "stratagems": {
+                "rule": "If you are using the Gladius Task Force Detachment rule, you can use these Gladius Task Force Stratagems.",
+                "1": {
+                    "name": "ONLY IN DEATH DOES DUTY END",
+                    "type": "EPIC DEED STRATAGEM",
+                    "description": "Imminent death does not prevent a Space Marine from enacting his final justice upon the enemies of the Imperium",
+                    "when": "Fight phase, just after an enemy unit has selected its targets",
+                    "target": "One Adeptus Astartes unit from your army that was selected as thetarget of one or more of the attacking unit's attacks",
+                    "effect": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, do not remove it from play. The destroyed model can fight after the attacking model’s unit has finished making its attacks, and is then removed from play.",
+                    "cp": 2
+                },
+                "2": {
+                    "name": "ARMOUR OF CONTEMPT",
+                    "type": "BATTLE TACTIC STRATAGEM",
+                    "description": "The belligerency of the Adeptus Astartes, combined with their transhuman physiology, makes them unyielding foes to face.",
+                    "when": " Your opponent's Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
+                    "target": " One Adeptus Astartes unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
+                    "effect": "Until the end of the phase, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1.",
+                    "cp": 1
+                },
+                "3": {
+                    "name": "HONOUR THE CHAPTER",
+                    "type": "BATTLE TACTIC STRATAGEM",
+                    "description": "Every Chapter has forged its own tales of heroism, and none of its battle-brothers would see that noble record besmirched.",
+                    "when": "Fight phase.",
+                    "target": "One Adeptus Astartes unit from your army.",
+                    "effect": "Until the end of the phase, melee weapons equipped by models in your unit have the [LANCE] ability. If your unit is under the effects of the Assault Doctrine, until the end of the phase, improve the Armour Penetration characteristic of such weapons by 1 as well. ",
+                    "cp": 1
+                },
+                "4": {
+                    "name": "ADAPTIVE STRATEGY",
+                    "type": "STRATEGIC PLOY STRATAGEM",
+                    "description": "The tenets of the Codex Astartes allow for unorthodox use of combat tactics and the employment of divergent strategic doctrines if doing so will lead to victory.",
+                    "when": "Your Command phase.",
+                    "target": " One Adeptus Astartes unit from your army.",
+                    "effect": "Select the Devastator Doctrine, Tactical Doctrine or Assault Doctrine. Until the start of your next Command phase, that Combat Doctrine is active for that unit instead of any other Combat Doctrine that is active for your army, even if you have already selected that doctrine this battle. ",
+                    "cp": 1
+                },
+                "5": {
+                    "name": "SQUAD TACTICS",
+                    "type": "STRATEGIC PLOY STRATAGEM",
+                    "description": "Space Marines know precisely when to give ground in order to leave their enemies floundering, before surging back into the fight and driving them from the field in disarray.",
+                    "when": "Your opponent's Movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move.",
+                    "target": "One Adeptus Astartes Infantry or Adeptus Astartes Mounted unit from your army that is within 9\" of the enemy unit that just ended that move.",
+                    "effect": "Your unit can make a Normal move of up to D6\", or a Normal move of up to 6\" instead if it is under the effects of the Tactical Doctrine.",
+                    "restrictions": "You cannot select a unit that is within Engagement Range of one or more enemy units.",
+                    "cp": 1
+                },
+                "6": {
+                    "name": "STORM OF FIRE",
+                    "type": "BATTLE TACTIC STRATAGEM",
+                    "description": "There is no escaping the wrath of the Space Marines, and they use their weapons to bring swift death to their foes wherever they may hide, expertly placing their shots to wreak maximum damage.",
+                    "when": "Your Shooting phase",
+                    "target": "One Adeptus Astartes unit from your army.",
+                    "effect": "Until the end of the phase, ranged weapons equipped by models in your unit have the [IGNORES COVER] ability. If your unit is under the effects of the Devastator Doctrine, until the end of the phase, improve the Armour Penetration characteristic of such weapons by 1 as well. ",
+                    "cp": 1
+                }
+            },
+            "enhancements": {
+                "rule": "If you are using the Gladius Task Force Detachment rule, you can use these Gladius Task Force Enhancements.",
+                "1": {
+                    "name": "Artificer Armour",
+                    "description": "Crafted by the finest artificers of the Chapter, these ornately detailed suits of armour provide superior protective capabilities that rival even Terminator plate. All who set eyes upon the wearer know that an honoured champion of the Imperium stands before them.",
+                    "rule": "Adeptus Astartes model only. The bearer has a Save characteristic of 2+ and the Feel No Pain 5+ ability."
+                },
+                "2": {
+                    "name": "Adept of the Codex",
+                    "description": "The commanders of Space Marine strike forces epitomise the tactical genius of the Codex Astartes, its wisdom guiding them to measured strategic responses even amidst the fiercest flames of battle.",
+                    "rule": "Captain model only. At the start of your Command phase, if the bearer is on the battlefield, instead of selecting a Combat Doctrine to be active for your army, you can select the Tactical Doctrine. If you do, until the start of your next Command phase, that doctrine is active for the bearer's unit only, even if you have already selected that doctrine to be active for your army this battle."
+                },
+                "3": {
+                    "name": "The Honour Vehement",
+                    "description": "A single stanza of script, the original of which was said to have been penned by the Emperor himself, the Honour Vehement is inscribed on thrice-blessed parchment and affixed with a purity seal upon its bearer's weaponry. So potent is the inspirational value of the Emperor's own evocation that those who bear it are driven to heroic acts of martial prowess.",
+                    "rule": "model only. Add 1 to the Attacks and Strength characteristics of the bearer's melee weapons. While the bearer is under the effects of the Assault Doctrine, add 2 to the Attacks and Strength characteristics of the bearer's melee weapons instead."
+                },
+                "4": {
+                    "name": "Bolster Discipline",
+                    "description": "To a Space Marine, the boltgun is more than a weapon; it is an instrument of Mankind's divinity, the bringer of death to his foes. This commander has drilled his warriors relentlessly, and when combined with the Adeptus Astartes' superhuman reflexes, his warriors can produce a devastating rate of fire.",
+                    "rule": "Adeptus Astartes model only. While the bearer is leading a unit, ranged weapons equipped by models in that unit have the [SUSTAINED HITS 1] ability. In addition, while the bearer's unit is under the effects of the Devastator Doctrine, each time a model in that unit makes a ranged attack, a successful unmodified Hit roll of 5+ scores a Critical Hit."
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,62 @@
+[
+    {
+        "name": "",
+        "profiles": {
+            "M": "",
+            "T": "",
+            "SV": "",
+            "W": "",
+            "LD": "",
+            "OC": ""
+        },
+        "abilities": {
+
+        },
+        "wargear abilities": {
+
+        },
+        "invulnerable-save": "",
+        "weapons": {
+            "ranged-weapons": {},
+            "melee-weapons": {}
+        },
+        "wargear-options": {
+            "1": {
+                "description": "",
+                "option1": "",
+                "option2": ""
+            },
+            "2": {
+                "description": "",
+                "option1": "",
+                "option2": ""
+            }
+        },
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "",
+                "2": ""
+            },
+            "default-weapons": ""
+        },
+        "keywords": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+        },
+        "faction-keywords": {
+            "1": "",
+            "2": ""
+        }
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+]
