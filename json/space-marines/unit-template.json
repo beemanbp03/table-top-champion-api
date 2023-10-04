@@ -1,5 +1,6 @@
 {
-    "name": "",
+    "unit-name": "",
+    "unit-description": "",
     "profiles": {
         "M": "",
         "T": "",
@@ -9,15 +10,39 @@
         "OC": ""
     },
     "abilities": {
-
+        "core": "",
+        "faction": "",
+        "1": "",
+        "2": ""
     },
     "wargear abilities": {
-
+        "1": "",
+        "2": ""
     },
     "invulnerable-save": "",
     "weapons": {
-        "ranged-weapons": {},
-        "melee-weapons": {}
+        "ranged-weapons": {
+            "1": {
+                "name": "",
+                "range": "",
+                "A": "",
+                "BS": "",
+                "S": "",
+                "AP": "",
+                "D": ""
+            }
+        },
+        "melee-weapons": {
+            "1": {
+                "name": "",
+                "range": "",
+                "A": "",
+                "WS": "",
+                "S": "",
+                "AP": "",
+                "D": ""
+            }
+        }
     },
     "wargear-options": {
         "1": {

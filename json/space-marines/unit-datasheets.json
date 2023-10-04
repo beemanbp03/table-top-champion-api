@@ -1,43 +1,132 @@
 [
     {
-        "name": "",
+        "unit-name": "Primaris Captain",
+        "unit-description": "Leading strike forces of Space Marines from the front lines, Captains exemplify the strength and skill of the warriors under their command. They are paragons of strategic genius with centuries of battlefield experience, and their great deeds are often rewarded with ancient artefacts drawn from the Chapter's vaults.",
         "profiles": {
-            "M": "",
-            "T": "",
-            "SV": "",
-            "W": "",
-            "LD": "",
-            "OC": ""
+            "M": "6\"",
+            "T": "4",
+            "SV": "3+",
+            "W": "5",
+            "LD": "6+",
+            "OC": "1"
         },
         "abilities": {
-
+            "core": "Leader",
+            "faction": "Oath of Moment",
+            "1": "Rites of Battle: Once per battle round, one unit from your army with this ability can be targeted by a Stratagem for 0CP, even if another unit from your army has already been targeted by that Stratagem this phase.",
+            "2": "Finest Hour: Once per battle, at the start of the Fight phase, this model can use this ability. If it does, until the end of the phase, add 3 to the Attacks characteristic of melee weapons equipped by this model and those weapons have the [DEVASTATING WOUNDS] ability."
         },
         "wargear abilities": {
-
+            "1": "Relic Shield: The bearer has a Wounds characteristic of 6"
         },
-        "invulnerable-save": "",
+        "invulnerable-save": "4+",
         "weapons": {
-            "ranged-weapons": {},
-            "melee-weapons": {}
+            "ranged-weapons": {
+                "1": {
+                    "name": "Bolt Pistol",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "2+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1"
+                },
+                "2": {
+                    "name": "Heavy bolt pistol",
+                    "range": "18\"",
+                    "A": "1",
+                    "BS": "2+",
+                    "S": "4",
+                    "AP": "-1",
+                    "D": "1"
+                },
+                "3": {
+                    "name": "Master-crafted bolt rifle",
+                    "range": "24\"",
+                    "A": "2",
+                    "BS": "2+",
+                    "S": "4",
+                    "AP": "-1",
+                    "D": "2"
+                },
+                "4": {
+                    "name": "Plasma pistol - standard",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "2+",
+                    "S": "7",
+                    "AP": "-2",
+                    "D": "1"
+                },
+                "5": {
+                    "name": "Plasma Pistol - supercharge",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "2+",
+                    "S": "8",
+                    "AP": "-3",
+                    "D": "2"
+                }
+            },
+            "melee-weapons": {
+                "1": {
+                    "name": "Close combat weapon",
+                    "range": "Melee",
+                    "A": "6",
+                    "WS": "2+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1"
+                },
+                "2": {
+                    "name": "Master-crafted power weapon",
+                    "range": "Melee",
+                    "A": "6",
+                    "WS": "2+",
+                    "S": "5",
+                    "AP": "-2",
+                    "D": "2"
+                },
+                "3": {
+                    "name": "Power fist",
+                    "range": "Melee",
+                    "A": "5",
+                    "WS": "2+",
+                    "S": "8",
+                    "AP": "-2",
+                    "D": "2"
+                }
+            }
         },
         "wargear-options": {
             "1": {
-                "description": "",
-                "option1": "",
-                "option2": ""
+                "description": "This model's bolt pistol, master-crafted bolt rifle and close combat weapon can be replaced with one of the following:",
+                "option1": "1 plasma pistol and 1 power fist",
+                "option2": "1 heavy bolt pistol, 1 master-crafted power weapon and 1 relic shield"
             },
             "2": {
-                "description": "",
-                "option1": "",
-                "option2": ""
+                "description": "This model's close combat weapon can be replaced with one of the following:",
+                "option1": "1 master-crafted power weapon",
+                "option2": "1 power fist"
             }
         },
         "unit-composition": {
             "model-types-and-numbers": {
-                "1": "",
-                "2": ""
+                "1": "1 Primaris Captain"
             },
-            "default-weapons": ""
+            "default-weapons": "This model is equipped with: bolt pistol; master-crafted bolt rifle; close combat weapon."
+        },
+        "leader": {
+            "rule": "This model can be attached to the following units:",
+            "special-rules": {
+                "1": ""
+            },
+            "units": {
+                "1": "Assault Intercessor Squad",
+                "2": "Bladeguard Veteran Squad",
+                "3": "",
+                "4": ""
+            }
         },
         "keywords": {
             "1": "",
@@ -51,12 +140,5 @@
             "1": "",
             "2": ""
         }
-    },
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {}
+    }
 ]
