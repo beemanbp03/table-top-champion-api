@@ -1,6 +1,7 @@
 [
     {
         "unit-name": "Primaris Captain",
+        "uri-name": "primaris-captain",
         "unit-description": "Leading strike forces of Space Marines from the front lines, Captains exemplify the strength and skill of the warriors under their command. They are paragons of strategic genius with centuries of battlefield experience, and their great deeds are often rewarded with ancient artefacts drawn from the Chapter's vaults.",
         "profiles": {
             "M": "6\"",
@@ -23,22 +24,24 @@
         "weapons": {
             "ranged-weapons": {
                 "1": {
-                    "name": "Bolt Pistol",
+                    "name": "Bolt Pistol [PISTOL]",
                     "range": "12\"",
                     "A": "1",
                     "BS": "2+",
                     "S": "4",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 },
                 "2": {
-                    "name": "Heavy bolt pistol",
+                    "name": "Heavy bolt pistol [PISTOL]",
                     "range": "18\"",
                     "A": "1",
                     "BS": "2+",
                     "S": "4",
                     "AP": "-1",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 },
                 "3": {
                     "name": "Master-crafted bolt rifle",
@@ -47,25 +50,28 @@
                     "BS": "2+",
                     "S": "4",
                     "AP": "-1",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 },
                 "4": {
-                    "name": "Plasma pistol - standard",
+                    "name": "Plasma pistol - standard [PISTOL]",
                     "range": "12\"",
                     "A": "1",
                     "BS": "2+",
                     "S": "7",
                     "AP": "-2",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
                 },
                 "5": {
-                    "name": "Plasma Pistol - supercharge",
+                    "name": "Plasma Pistol - supercharge [HAZARDOUS, PISTOL]",
                     "range": "12\"",
                     "A": "1",
                     "BS": "2+",
                     "S": "8",
                     "AP": "-3",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
                 }
             },
             "melee-weapons": {
@@ -118,27 +124,1841 @@
         },
         "leader": {
             "rule": "This model can be attached to the following units:",
-            "special-rules": {
-                "1": ""
-            },
+            "special-rule": "This model cannot be attached to a Bladeguard Veteran Squad unless it is equipped with a relic shield, and cannot be attached to a Hellblaster Squad unless it is equipped with a plasma pistol.",
             "units": {
                 "1": "Assault Intercessor Squad",
-                "2": "Bladeguard Veteran Squad",
-                "3": "",
-                "4": ""
+                "2": "Bladeguard Veteran Squad*",
+                "3": "Hellblaster Squad*",
+                "4": "Infernus Squad",
+                "5": "Intercessor Squad",
+                "6": "Sternguard Veteran Squad"
             }
         },
         "keywords": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": ""
+            "1": "Infantry",
+            "2": "Character",
+            "3": "Grenades",
+            "4": "Imperium",
+            "5": "Tacticus",
+            "6": "Primaris",
+            "7": "Captain"
         },
         "faction-keywords": {
+            "1": "Adeptus Astartes"
+        }
+    },
+    {
+        "unit-name": "Captain - In Gravis Armour",
+        "uri-name": "captain-in-gravis-armour",
+        "unit-description": "Clad in a suit of indomitable Gravis armour, a Space Marine Captain can fearlessly stride into the very fiercest battlefield firestorms. To don Gravis armour is to demonstrate the greatest determination to crush the enemy, no matter how deeply they are entrenched.",
+        "profiles": {
+            "M": "5\"",
+            "T": "6",
+            "SV": "3+",
+            "W": "6",
+            "LD": "6+",
+            "OC": "1"
+        },
+        "abilities": {
+            "faction": "Leader, Oath of Moment",
+            "1": "Rites of Battle: Once per battle round, one unit from your army with this ability can be targeted by a Stratagem for 0CP, even if another unit from your army has already been targeted by that Stratagem this phase.",
+            "2": "Refuse to Yield: Each time an attack is allocated to this model, halve the Damage characteristic of that attack."
+        },
+        "wargear abilities": {
+        },
+        "invulnerable-save": "4+",
+        "weapons": {
+            "ranged-weapons": {
+                "1": {
+                    "name": "Boltstorm gauntlet",
+                    "range": "12\"",
+                    "A": "3",
+                    "BS": "2+",
+                    "S": "4",
+                    "AP": "-1",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "2": {
+                    "name": "Master-crafted heavy bolt rifle",
+                    "range": "30\"",
+                    "A": "2",
+                    "BS": "2+",
+                    "S": "5",
+                    "AP": "-1",
+                    "D": "2",
+                    "profile-selection": ""
+                }
+
+            },
+            "melee-weapons": {
+                "1": {
+                    "name": "Master-crafted power weapon",
+                    "range": "Melee",
+                    "A": "6",
+                    "WS": "2+",
+                    "S": "5",
+                    "AP": "-2",
+                    "D": "2"
+                },
+                "2": {
+                    "name": "Power fist",
+                    "range": "Melee",
+                    "A": "5",
+                    "WS": "2+",
+                    "S": "8",
+                    "AP": "-2",
+                    "D": "2"
+                },
+                "3": {
+                    "name": "Relic blade [EXTRA ATTACKS]",
+                    "range": "Melee",
+                    "A": "2",
+                    "WS": "2+",
+                    "S": "5",
+                    "AP": "-2",
+                    "D": "2"
+                },
+                "4": {
+                    "name": "Relic chainsword [EXTRA ATTACKS]",
+                    "range": "Melee",
+                    "A": "3",
+                    "WS": "2+",
+                    "S": "4",
+                    "AP": "-1",
+                    "D": "2"
+                },
+                "5": {
+                    "name": "Relic fist [EXTRA ATTACKS]",
+                    "range": "Melee",
+                    "A": "1",
+                    "WS": "2+",
+                    "S": "8",
+                    "AP": "-2",
+                    "D": "2"
+                }
+            }
+        },
+        "wargear-options": {
+            "1": {
+                "description": "This model's master-crafted heavy bolt rifle and master-crafted power weapon can be replaced with:",
+                "option1": "1 boltstorm gauntlet, 1 power fist and 1 relic chainsword",
+                "option2": "1 boltstorm gauntlet, 1 power fist and 1 relic blade",
+                "option3": "1 boltstorm gauntlet, 1 power fist and 1 relic fist"
+            }
+        },
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "1 Captain in Gravis Armour"
+            },
+            "default-weapons": "This model is equipped with: master-crafted heavy bolt rifle; master-crafted power weapon."
+        },
+        "leader": {
+            "rule": "This model can be attached to the following units:",
+            "special-rule": "",
+            "units": {
+                "1": "Aggressor Squad",
+                "2": "Eradicator Squad",
+                "3": "Heavy Intercessor Squad"
+            }
+        },
+        "keywords": {
+            "1": "Infantry",
+            "2": "Character",
+            "3": "Grenades",
+            "4": "Imperium",
+            "5": "Gravis",
+            "6": "Captain"
+        },
+        "faction-keywords": {
+            "1": "Adeptus Astartes"
+        }
+    },
+    {
+        "unit-name": "Captain - In Phobos Armour",
+        "uri-name": "captain-in-phobos-armour",
+        "unit-description": "All Primaris Space Marines are trained in reconnaissance, stealth and sabotage while in the 10th Company. Donning his Phobos armour, a Captain will combine these skills with his incredible martial prowess and hard-won strategic expertise to lead strike forces of Vanguard warriors on dangerous covert missions.",
+        "profiles": {
+            "M": "6\"",
+            "T": "4",
+            "SV": "3+",
+            "W": "5",
+            "LD": "6+",
+            "OC": "1"
+        },
+        "abilities": {
+            "core": "Infiltrators, Leader, Stealth",
+            "faction": "Oath of Moment",
+            "1": "Rites of Battle: Once per battle round, one unit from your army with this ability can be targeted by a Stratagem for 0CP, even if another unit from your army has already been targeted by that Stratagem this phase.",
+            "2": "Master of Deceit: After both players have deployed their armies and determined who has the first turn, if your army includes one or more models with this ability, you can select up to three friendly Adeptus Astartes Phobos, Adeptus Astartes Scout Squad or Adeptus Astartes Scout Sniper Squad units and redeploy all of those units. When doing so, any of those units can be placed into Strategic Reserves, regardless of how many units are already in Strategic Reserves. "
+        },
+        "wargear abilities": {
             "1": "",
             "2": ""
+        },
+        "invulnerable-save": "4+",
+        "weapons": {
+            "ranged-weapons": {
+                "1": {
+                    "name": "Bolt pistol [PISTOL]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "2+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "2": {
+                    "name": "Instigator bolt carbine [PRECISION]",
+                    "range": "24\"",
+                    "A": "1",
+                    "BS": "2+",
+                    "S": "4",
+                    "AP": "-2",
+                    "D": "2",
+                    "profile-selection": ""
+                }
+            },
+            "melee-weapons": {
+                "1": {
+                    "name": "Combat knife",
+                    "range": "Melee",
+                    "A": "6",
+                    "WS": "2+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1"
+                }
+            }
+        },
+        "wargear-options": {
+        },
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "Captain in Phobos Armour"
+            },
+            "default-weapons": "This model is equipped with: bolt pistol; instigator bolt carbine; combat knife."
+        },
+        "leader": {
+            "rule": "This model can be attached to the following units:",
+            "special-rule": "",
+            "units": {
+                "1": "Eliminator Squad",
+                "2": "Incursor Squad",
+                "3": "Infiltrator Squad",
+                "4": "Reiver Squad",
+                "5": "Scout Squad",
+                "6": "Scout Sniper Squad"
+            }
+        },
+        "keywords": {
+            "1": "Infantry",
+            "2": "Character",
+            "3": "Grenades",
+            "4": "Imperium",
+            "5": "Phobos",
+            "6": "Captain"
+        },
+        "faction-keywords": {
+            "1": "Adeptus Astartes"
+        }
+    },
+    {
+        "unit-name": "Captain - In Terminator Armour",
+        "uri-name": "captain-in-terminator-armour",
+        "unit-description": "Space Marine Captains are expected to fight from the front, and few kinds of armour enable them to do so as effectively as Terminator plate. Formidably resilient, such a suit protects the Captain against all but the most devastating enemy fire and enables him to deploy by teleport strike right into the heart of the foe.",
+        "profiles": {
+            "M": "5\"",
+            "T": "5",
+            "SV": "2+",
+            "W": "6",
+            "LD": "6+",
+            "OC": "1"
+        },
+        "abilities": {
+            "core": "Deep Strike, Leader",
+            "faction": "Oath of Moment",
+            "1": "Rites of Battle: Once per battle round, one unit from your army with this ability can be targeted by a Stratagem for 0CP, even if another unit from your army has already been targeted by that Stratagem this phase.",
+            "2": "The Imperium's Sword: You can re-roll Charge rolls made for this model's unit."
+        },
+        "wargear abilities": {
+            "1": "Auxiliary Grenade Launcher: The bearer has the Grenades keyword.",
+            "2": "Relic Shield: The bearer has a Wounds characteristic of 7."
+        },
+        "invulnerable-save": "4+",
+        "weapons": {
+            "ranged-weapons": {
+                "1": {
+                    "name": "Combi-weapon [ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]",
+                    "range": "24\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "2": {
+                    "name": "Storm bolter [RAPID FIRE 2]",
+                    "range": "24\"",
+                    "A": "2",
+                    "BS": "2+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                }
+            },
+            "melee-weapons": {
+                "1": {
+                    "name": "Chainfist [ANTI-VEHICLE 3+]",
+                    "range": "Melee",
+                    "A": "5",
+                    "WS": "3+",
+                    "S": "8",
+                    "AP": "-2",
+                    "D": "2"
+                },
+                "2": {
+                    "name": "Power fist",
+                    "range": "Melee",
+                    "A": "5",
+                    "WS": "2+",
+                    "S": "8",
+                    "AP": "-2",
+                    "D": "2"
+                },
+                "3": {
+                    "name": "Relic weapon",
+                    "range": "Melee",
+                    "A": "6",
+                    "WS": "2+",
+                    "S": "5",
+                    "AP": "-2",
+                    "D": "2"
+                },
+                "4": {
+                    "name": "Thunder hammer [DEVASTATING WOUNDS]",
+                    "range": "Melee",
+                    "A": "5",
+                    "WS": "3+",
+                    "S": "8",
+                    "AP": "-2",
+                    "D": "1"
+                },
+                "5": {
+                    "name": "Twin lightning claws [TWIN-LINKED]",
+                    "range": "Melee",
+                    "A": "7",
+                    "WS": "2+",
+                    "S": "5",
+                    "AP": "-2",
+                    "D": "1"
+                }
+            }
+        },
+        "wargear-options": {
+            "1": {
+                "description": "This model's storm bolter can be replaced with one of the following:",
+                "option1": "1 combi-weapon",
+                "option2": "1 power fist",
+                "option3": "1 relic shield [MAXIMUM ONE PER MODEL]",
+                "option4": "1 relic weapon",
+                "option5": "1 thunder hammer"
+            },
+            "2": {
+                "description": "This model's relic weapon can be replaced with one of the following:",
+                "option1": "1 chainfist",
+                "option2": "1 power fist",
+                "option3": "1 relic shield [MAXIMUM ONE PER MODEL]",
+                "option4": "1 thunder hammer"
+            },
+            "3": {
+                "description": "This model's storm bolter and relic weapon can be replaced with 1 twin lightning claws."
+            },
+            "4": {
+                "description": "If this model is equipped with a power fist, it can be equipped with 1 auxiliary grenade launcher."
+            }
+        },
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "1 Captain in Terminator Armour"
+            },
+            "default-weapons": "This model is equipped with: storm bolter; relic weapon."
+        },
+        "leader": {
+            "rule": "This model can be attached to the following units:",
+            "special-rule": "",
+            "units": {
+                "1": "Relic Terminator Squad",
+                "2": "Terminator Assault Squad",
+                "3": "Terminator Squad"
+            }
+        },
+        "keywords": {
+            "1": "Infantry",
+            "2": "Character",
+            "3": "Imperium",
+            "4": "Terminator",
+            "5": "Captain"
+        },
+        "faction-keywords": {
+            "1": "Adeptus Astartes"
+        }
+    },
+    {
+        "unit-name": "Captain",
+        "uri-name": "captain",
+        "unit-description": "Space Marine Captains have spent centuries with their Chapter. They expect nothing but utter dedication from those they command. Each Space Marine lives up to this standard willingly, knowing there is no sacrifice their Captains haven't made, no enemy they have not slain and no hardship they have not endured.",
+        "profiles": {
+            "M": "6\"",
+            "T": "4",
+            "SV": "3+",
+            "W": "5",
+            "LD": "6+",
+            "OC": "1"
+        },
+        "abilities": {
+            "core": "Leader",
+            "faction": "Oath of Moment",
+            "1": "Rites of Battle: Once per battle round, one unit from your army with this ability can be targeted by a Stratagem for 0CP, even if another unit from your army has already been targeted by that Stratagem this phase.",
+            "2": "Finest Hour: Once per battle, at the start of the Fight phase, this model can use this ability. If it does, until the end of the phase, add 3 to the Attacks characteristic of melee weapons equipped by this model and those weapons have the [DEVASTATING WOUNDS] ability."
+        },
+        "wargear abilities": {
+            "1": "Relic Shield: The bearer has a Wounds characteristic of 6."
+        },
+        "invulnerable-save": "4+",
+        "weapons": {
+            "ranged-weapons": {
+                "1": {
+                    "name": "Bolt Pistol [PISTOL]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "2+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "2": {
+                    "name": "Grav-pistol [ANTI-VEHICLE 2+, PISTOL]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "2+",
+                    "S": "4",
+                    "AP": "-1",
+                    "D": "2",
+                    "profile-selection": ""
+                },
+                "3": {
+                    "name": "Hand flamer [IGNORES COVER, PISTOL, TORRENT]",
+                    "range": "12\"",
+                    "A": "D6",
+                    "BS": "n/a",
+                    "S": "3",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "4": {
+                    "name": "Inferno pistol [MELTA 2, PISTOL]",
+                    "range": "6\"",
+                    "A": "1",
+                    "BS": "2+",
+                    "S": "8",
+                    "AP": "-4",
+                    "D": "D3",
+                    "profile-selection": ""
+                },
+                "5": {
+                    "name": "Master-crafted boltgun",
+                    "range": "24\"",
+                    "A": "2",
+                    "BS": "2+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "2",
+                    "profile-selection": ""
+                },
+                "6": {
+                    "name": "Plasma pistol - standard [PISTOL]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "2+",
+                    "S": "7",
+                    "AP": "-2",
+                    "D": "1",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with"
+                },
+                "7": {
+                    "name": "Plasma pistal - supercharge [HAZARDOUS, PISTOL]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "2+",
+                    "S": "8",
+                    "AP": "-3",
+                    "D": "2",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with"
+                }
+            },
+            "melee-weapons": {
+                "1": {
+                    "name": "Astartes chainsword",
+                    "range": "Melee",
+                    "A": "7",
+                    "WS": "2+",
+                    "S": "4",
+                    "AP": "-1",
+                    "D": "1"
+                },
+                "2": {
+                    "name": "Close combat weapon",
+                    "range": "Melee",
+                    "A": "6",
+                    "WS": "2+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1"
+                },
+                "3": {
+                    "name": "Power fist",
+                    "range": "Melee",
+                    "A": "5",
+                    "WS": "2+",
+                    "S": "8",
+                    "AP": "-2",
+                    "D": "2"
+                },
+                "4": {
+                    "name": "Relic weapon",
+                    "range": "Melee",
+                    "A": "6",
+                    "WS": "2+",
+                    "S": "5",
+                    "AP": "-2",
+                    "D": "2"
+                },
+                "5": {
+                    "name": "Thunder hammer [DEVASTATING WOUNDS]",
+                    "range": "Melee",
+                    "A": "5",
+                    "WS": "3+",
+                    "S": "8",
+                    "AP": "-2",
+                    "D": "2"
+                },
+                "6": {
+                    "name": "Twin lightning claws [TWIN-LINKED]",
+                    "range": "Melee",
+                    "A": "7",
+                    "WS": "2+",
+                    "S": "5",
+                    "AP": "-2",
+                    "D": "1"
+                }
+            }
+        },
+        "wargear-options": {
+            "1": {
+                "description": "This model's master-crafted boltgun can be replaced with one of the following:",
+                "option1": "1 combi-weapon [The profile for this weapon can be found on the Adeptus Astartes Armoury card.]",
+                "option2": "1 grav-pistol",
+                "option3": "1 hand flamer",
+                "option4": "1 inferno pistol",
+                "option5": "1 plasma pistol",
+                "option6": "1 storm bolter [The profile for this weapon can be found on the Adeptus Astartes Armoury card.]",
+                "option7": "1 power fist",
+                "option8": "1 relic shield [Maximum one per model.]",
+                "option9": "1 relic weapon",
+                "option10": "1 thunder hammer"
+            },
+            "2": {
+                "description": "This model's Astartes chainsword can be replaced with one of the following:",
+                "option1": "1 close combat weapon and 1 relic shield [Maximum one per model.]",
+                "option2": "1 power fist",
+                "option3": "1 relic weapon",
+                "option4": "1 thunder hammer"
+            }
+        },
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "1 Captain"
+            },
+            "default-weapons": "This model is equipped with: bolt pistol; master-crafted boltgun; Astartes chainsword."
+        },
+        "leader": {
+            "rule": "This model can be attached to the following units:",
+            "special-rule": "",
+            "units": {
+                "1": "Assault Squad",
+                "2": "Command Squad",
+                "3": "Tactical Squad",
+                "4": "Vanguard Veteran Squad"
+            }
+        },
+        "keywords": {
+            "1": "Infantry",
+            "2": "Character",
+            "3": "Grenades",
+            "4": "Imperium",
+            "5": "Captain"
+        },
+        "faction-keywords": {
+            "1": "Adeptus Astartes"
+        }
+    },
+    {
+        "unit-name": "Captain - With Jump Pack",
+        "uri-name": "captain-with-jump-pack",
+        "unit-description": "Many a Space Marine Captain favours fury and speed, and devises ingenious strategies to use these to devastating effect against their enemies. Being superlative warriors and inspiring leaders, they have no place but at the very forefront of battle. With a jump pack, Captains can lead their warriors as speartips for their assaults.",
+        "profiles": {
+            "M": "12\"",
+            "T": "4",
+            "SV": "3+",
+            "W": "5",
+            "LD": "6+",
+            "OC": "1"
+        },
+        "abilities": {
+            "core": "Deep Strike, Leader",
+            "faction": "Oath of Moment",
+            "1": "Angel's Wrath: While this model is leading a unit, each time that unit ends a Charge move, until the end of the turn, add 1 to the Strength characteristic of melee weapons equipped by models in that unit.",
+            "2": "Rites of Battle: Once per battle round, one unit from your army with this ability can be targeted by a Stratagem for 0CP, even if another unit from your army has already been targeted by that Stratagem this phase."
+        },
+        "wargear abilities": {
+            "1": "Relic Shield: The bearer has a Wounds characteristic of 6."
+        },
+        "invulnerable-save": "4+",
+        "weapons": {
+            "ranged-weapons": {
+                "1": {
+                    "name": "Bolt Pistol [PISTOL]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "2+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "2": {
+                    "name": "Grav-pistol [ANTI-VEHICLE 2+, PISTOL]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "2+",
+                    "S": "4",
+                    "AP": "-1",
+                    "D": "2",
+                    "profile-selection": ""
+                },
+                "3": {
+                    "name": "Hand flamer [IGNORES COVER, PISTOL, TORRENT]",
+                    "range": "12\"",
+                    "A": "D6",
+                    "BS": "n/a",
+                    "S": "3",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "4": {
+                    "name": "Inferno pistol [MELTA 2, PISTOL]",
+                    "range": "6\"",
+                    "A": "1",
+                    "BS": "2+",
+                    "S": "8",
+                    "AP": "-4",
+                    "D": "D3",
+                    "profile-selection": ""
+                },
+                "5": {
+                    "name": "Master-crafted boltgun",
+                    "range": "24\"",
+                    "A": "2",
+                    "BS": "2+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "2",
+                    "profile-selection": ""
+                },
+                "6": {
+                    "name": "Plasma pistol - standard [PISTOL]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "2+",
+                    "S": "7",
+                    "AP": "-2",
+                    "D": "1",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+                },
+                "7": {
+                    "name": "Plasma Pistol - supercharge [HAZARDOUS, PISTOL]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "2+",
+                    "S": "8",
+                    "AP": "-3",
+                    "D": "2",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+                }
+            },
+            "melee-weapons": {
+                "1": {
+                    "name": "Astartes chainsword",
+                    "range": "Melee",
+                    "A": "7",
+                    "WS": "2+",
+                    "S": "4",
+                    "AP": "-1",
+                    "D": "1"
+                },
+                "2": {
+                    "name": "Close combat weapon",
+                    "range": "Melee",
+                    "A": "6",
+                    "WS": "2+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1"
+                },
+                "3": {
+                    "name": "Power fist",
+                    "range": "Melee",
+                    "A": "5",
+                    "WS": "2+",
+                    "S": "8",
+                    "AP": "-2",
+                    "D": "2"
+                },
+                "4": {
+                    "name": "Relic weapon",
+                    "range": "Melee",
+                    "A": "6",
+                    "WS": "2+",
+                    "S": "5",
+                    "AP": "-2",
+                    "D": "2"
+                },
+                "5": {
+                    "name": "Thunder hammer [DEVASTATING WOUNDS]",
+                    "range": "Melee",
+                    "A": "5",
+                    "WS": "3+",
+                    "S": "8",
+                    "AP": "-2",
+                    "D": "2"
+                },
+                "6": {
+                    "name": "Twin lightning claws [TWIN-LINKED]",
+                    "range": "Melee",
+                    "A": "7",
+                    "WS": "2+",
+                    "S": "5",
+                    "AP": "-2",
+                    "D": "1"
+                }
+            }
+        },
+        "wargear-options": {
+            "1": {
+                "description": "This model's master-crafted boltgun can be replaced with one of the following:",
+                "option1": "1 combi-weapon [The profile for this weapon can be found on the Adeptus Astartes Armoury card.]",
+                "option2": "1 grav-pistol",
+                "option3": "1 hand flamer",
+                "option4": "1 inferno pistol",
+                "option5": "1 plasma pistol",
+                "option6": "1 storm bolter [The profile for this weapon can be found on the Adeptus Astartes Armoury card.]",
+                "option7": "1 power fist",
+                "option8": "1 relic shield [Maximum one per model.]",
+                "option9": "1 relic weapon",
+                "option10": "1 thunder hammer"
+            },
+            "2": {
+                "description": "This model's Astartes chainsword can be replaced with one of the following:",
+                "option1": "1 close combat weapon and 1 relic shield [Maximum one per model.]",
+                "option2": "1 power fist",
+                "option3": "1 relic weapon",
+                "option4": "1 thunder hammer"
+            },
+            "3": {
+                "description": "This model's master-crafted boltgun and Astartes chainsword can be replaced with 1 twin lightning claws"
+            }
+        },
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "1 Captain with Jump Pack"
+            },
+            "default-weapons": "This model is equipped with: bolt pistol; master-crafted boltgun; Astartes chainsword."
+        },
+        "leader": {
+            "rule": "This model can be attached to the following units:",
+            "special-rules": "",
+            "units": {
+                "1": "Assault Squad with Jump Packs",
+                "2": "Vanguard Veteran Squad with Jump Packs"
+            }
+        },
+        "keywords": {
+            "1": "Infantry",
+            "2": "Character",
+            "3": "Jump Pack",
+            "4": "Fly",
+            "5": "Grenades",
+            "6": "Imperium",
+            "7": "Captain"
+        },
+        "faction-keywords": {
+            "1": "Adeptus Astartes"
+        }
+    },
+    {
+        "unit-name": "Captain - On Bike",
+        "uri-name": "captain-on-bike",
+        "unit-description": "When a Captain thunders to war on a Space Marine bike, he can race to the most critical locations on the battlefield. He smashes foes aside, cuts down countless fleeing enemies, or joins his Outriders to carry out reconnaissance missions in person so as to best develop his battle plans with first-hand knowledge.",
+        "profiles": {
+            "M": "12\"",
+            "T": "5",
+            "SV": "3+",
+            "W": "6",
+            "LD": "6+",
+            "OC": "2"
+        },
+        "abilities": {
+            "core": "Leader",
+            "faction": "Oath of Moment",
+            "1": "Swift Assault: While this model is leading a unit, ranged weapons equipped by models in that unit have the [ASSAULT] ability.",
+            "2": "Rites of Battle: Once per battle round, one unit from your army with this ability can be targeted by a Stratagem for 0CP, even if another unit from your army has already been targeted by that Stratagem this phase."
+        },
+        "wargear abilities": {
+            "1": "Relic Shield: The bearer has a Wounds characteristic of 7"
+        },
+        "invulnerable-save": "4+",
+        "weapons": {
+            "ranged-weapons": {
+                "1": {
+                    "name": "Bolt Pistol [PISTOL]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "2+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "2": {
+                    "name": "Grav-pistol [ANTI-VEHICLE 2+, PISTOL]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "2+",
+                    "S": "4",
+                    "AP": "-1",
+                    "D": "2",
+                    "profile-selection": ""
+                },
+                "3": {
+                    "name": "Hand flamer [IGNORES COVER, PISTOL, TORRENT]",
+                    "range": "12\"",
+                    "A": "D6",
+                    "BS": "n/a",
+                    "S": "3",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "4": {
+                    "name": "Inferno pistol [MELTA 2, PISTOL]",
+                    "range": "6\"",
+                    "A": "1",
+                    "BS": "2+",
+                    "S": "8",
+                    "AP": "-4",
+                    "D": "D3",
+                    "profile-selection": ""
+                },
+                "5": {
+                    "name": "Master-crafted boltgun",
+                    "range": "24\"",
+                    "A": "2",
+                    "BS": "2+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "2",
+                    "profile-selection": ""
+                },
+                "6": {
+                    "name": "Plasma pistol - standard [PISTOL]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "2+",
+                    "S": "7",
+                    "AP": "-2",
+                    "D": "1",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+                },
+                "7": {
+                    "name": "Plasma pistal - supercharge [HAZARDOUS, PISTOL]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "2+",
+                    "S": "8",
+                    "AP": "-3",
+                    "D": "2",
+                    "profile-selection": " Before selecting targets for this weapon, select one of its profiles to make attacks with."
+                },
+                "8": {
+                    "name": "Twin boltgun [TWIN-LINKED]",
+                    "range": "24\"",
+                    "A": "2",
+                    "BS": "2+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                }
+            },
+            "melee-weapons": {
+                "1": {
+                    "name": "Astartes chainsword",
+                    "range": "Melee",
+                    "A": "7",
+                    "WS": "2+",
+                    "S": "4",
+                    "AP": "-1",
+                    "D": "1"
+                },
+                "2": {
+                    "name": "Close combat weapon",
+                    "range": "Melee",
+                    "A": "6",
+                    "WS": "2+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1"
+                },
+                "3": {
+                    "name": "Power fist",
+                    "range": "Melee",
+                    "A": "5",
+                    "WS": "2+",
+                    "S": "8",
+                    "AP": "-2",
+                    "D": "2"
+                },
+                "4": {
+                    "name": "Relic weapon",
+                    "range": "Melee",
+                    "A": "6",
+                    "WS": "2+",
+                    "S": "5",
+                    "AP": "-2",
+                    "D": "2"
+                },
+                "5": {
+                    "name": "Thunder hammer [DEVASTATING WOUNDS]",
+                    "range": "Melee",
+                    "A": "5",
+                    "WS": "3+",
+                    "S": "8",
+                    "AP": "-2",
+                    "D": "2"
+                },
+                "6": {
+                    "name": "Twin lightning claws [TWIN-LINKED]",
+                    "range": "Melee",
+                    "A": "7",
+                    "WS": "2+",
+                    "S": "5",
+                    "AP": "-2",
+                    "D": "1"
+                }
+            }
+        },
+        "wargear-options": {
+            "1": {
+                "description": "This model's bolt pistol can be replaced with one of the following: ",
+                "option1": "1 combi-weapon [The profile for this weapon can be found on the Adeptus Astartes Armoury card.]",
+                "option2": "1 hand flamer",
+                "option3": "1 inferno pistol",
+                "option4": "1 master-crafted boltgun",
+                "option5": "1 plasma pistol",
+                "option6": "1 storm bolter [The profile for this weapon can be found on the Adeptus Astartes Armoury card.]",
+                "option7": "1 relic shield [Maximum one per model.]",
+                "option8": "1 relic weapon",
+                "option9": "1 power fist",
+                "option10": "1 thunder hammer"
+            },
+            "2": {
+                "description": "This model's Astartes chainsword can be replaced with one of the following:",
+                "option1": "1 close combat weapon and 1 relic shield [Maximum one per model.]",
+                "option2": "1 power fist",
+                "option3": "1 relic weapon"
+            }
+        },
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "1 Captain on Bike"
+            },
+            "default-weapons": "This model is equipped with: bolt pistol; twin boltgun; Astartes chainsword."
+        },
+        "leader": {
+            "rule": "This model can be attached to the following units:",
+            "special-rule": "",
+            "units": {
+                "1": "Bike Squad",
+                "2": "Outrider Squad"
+            }
+        },
+        "keywords": {
+            "1": "Mounter",
+            "2": "Character",
+            "3": "Grenades",
+            "4": "Imperium",
+            "5": "Captain"
+        },
+        "faction-keywords": {
+            "1": "Adeptus Astartes"
+        }
+    },
+    {
+        "unit-name": "Primaris Lieutenant",
+        "uri-name": "primaris-lieutenant",
+        "unit-description": "Primaris Lieutenants, in addition to being extremely able tacticians and strategists, are highly skilled warriors. Experts in all the lethal firearms of the Intercessors they so often command and fight alongside, they lay down impressive volleys of bolts even as they bellow orders and coordinate their brothers' fire.",
+        "profiles": {
+            "M": "6\"",
+            "T": "4",
+            "SV": "3+",
+            "W": "4",
+            "LD": "6+",
+            "OC": "1"
+        },
+        "abilities": {
+            "core": "Leader",
+            "faction": "Oath of Moment",
+            "1": "Tactical Precision: While this model is leading a unit, weapons equipped by models in that unit have the [LETHAL HITS] ability",
+            "2": "Target Priority: This model's unit is eligible to shoot and declare a charge in a turn in which it Fell Back."
+        },
+        "wargear abilities": {
+            "1": "Storm Shield: The bearer has a 4+ invulnerable save."
+        },
+        "invulnerable-save": "",
+        "weapons": {
+            "ranged-weapons": {
+                "1": {
+                    "name": "Bolt Pistol [PISTOL]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "2+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "2": {
+                    "name": "Heavy bolt pistol [PISTOL]",
+                    "range": "18\"",
+                    "A": "1",
+                    "BS": "2+",
+                    "S": "4",
+                    "AP": "-1",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "3": {
+                    "name": "Master-crafted bolt rifle",
+                    "range": "24\"",
+                    "A": "2",
+                    "BS": "2+",
+                    "S": "4",
+                    "AP": "-1",
+                    "D": "2",
+                    "profile-selection": ""
+                },
+                "4": {
+                    "name": "Neo-volkite pistol [DEVASTATING WOUNDS, PISTOL]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "2+",
+                    "S": "5",
+                    "AP": "0",
+                    "D": "2",
+                    "profile-selection": ""
+                },
+                "5": {
+                    "name": "Plasma pistol - standard [PISTOL]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "2+",
+                    "S": "7",
+                    "AP": "-2",
+                    "D": "1",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+                },
+                "6": {
+                    "name": "Plasma pistal - supercharge [HAZARDOUS, PISTOL]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "2+",
+                    "S": "8",
+                    "AP": "-3",
+                    "D": "2",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+                }
+            },
+            "melee-weapons": {
+                "1": {
+                    "name": "Close combat weapon",
+                    "range": "Melee",
+                    "A": "5",
+                    "WS": "2+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1"
+                },
+                "2": {
+                    "name": "Master-crafted power weapon",
+                    "range": "Melee",
+                    "A": "5",
+                    "WS": "2+",
+                    "S": "5",
+                    "AP": "-2",
+                    "D": "2"
+                },
+                "3": {
+                    "name": "Power fist",
+                    "range": "Melee",
+                    "A": "4",
+                    "WS": "2+",
+                    "S": "8",
+                    "AP": "-2",
+                    "D": "2"
+                }
+            }
+        },
+        "wargear-options": {
+            "1": {
+                "description": "This model's master-crafted bolt rifle can be replaced with one of the following:",
+                "option1": "1 plasma pistol",
+                "option2": "1 master-crafted power weapon",
+                "option3": "1 power fist"
+            },
+            "2": {
+                "description": "This model's bolt pistol, master-crafted bolt rifle and close combat weapon can be replaced with 1 neo-volkite pistol, 1 master-crafted power weapon and 1 storm shield."
+            },
+            "3": {
+                "description": "This model's bolt pistol can be replaced with 1 heavy bolt pistol."
+            },
+            "4": {
+                "description": "This model's close combat weapon can be replaced with one of the following:",
+                "option1": "1 master-crafted power weapon",
+                "option2": "1 power fist"
+            }
+        },
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "1 Primaris Lieutenant"
+            },
+            "default-weapons": "This model is equipped with: bolt pistol; master-crafted bolt rifle; close combat weapon."
+        },
+        "leader": {
+            "rule": "This model can be attached to the following units:",
+            "special-rule": "You can attach this model to one of the above units even if one Captain or Chapter Master model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths.",
+            "units": {
+                "1": "Assault Intercessor Squad",
+                "2": "Bladeguard Veteran Squad",
+                "3": "Hellblaster Squad",
+                "4": "Infernus Squad",
+                "5": "Intercessor Squad",
+                "6": "Sternguard Veteran Squad"
+            }
+        },
+        "keywords": {
+            "1": "Infantry",
+            "2": "Character",
+            "3": "Grenades",
+            "4": "Imperium",
+            "5": "Tacticus",
+            "6": "Primaris Lieutenant"
+        },
+        "faction-keywords": {
+            "1": "Adeptus Astartes"
+        }
+    },
+    {
+        "unit-name": "Lieutenant - In Reiver Armour",
+        "uri-name": "lieutenant-in-reiver-armour",
+        "unit-description": "When a Space Marine commander needs the enemy broken in terror, he unleashes detachments led by Lieutenants clad in the wargear of the Reiver Squads. With the masterful leadership of the Lieutenant, these forces become more powerful than the sum of their parts, and drive contingents of the foe to flight.",
+        "profiles": {
+            "M": "6\"",
+            "T": "4",
+            "SV": "3+",
+            "W": "4",
+            "LD": "6+",
+            "OC": "1"
+        },
+        "abilities": {
+            "core": "Leader, Scouts 6\"",
+            "faction": "Oath of Moment",
+            "1": "Tactical Precision: While this model is leading a unit, weapons equipped by models in that unit have the [LETHAL HITS] ability.",
+            "2": "Deadly Terror: While this model is leading a unit, increase the range of that unit's Terror Troops ability by 3\"."
+        },
+        "wargear abilities": {
+        },
+        "invulnerable-save": "",
+        "weapons": {
+            "ranged-weapons": {
+                "1": {
+                    "name": "Master-crafted special issue bolt pistol",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "2+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "2",
+                    "profile-selection": ""
+                }
+            },
+            "melee-weapons": {
+                "1": {
+                    "name": "Combat knife [PRECISION]",
+                    "range": "Melee",
+                    "A": "6",
+                    "WS": "2+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1"
+                }
+            }
+        },
+        "wargear-options": {
+        },
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "1 Lieutenant in Reiver Armour"
+            },
+            "default-weapons": "This model is equipped with: master-crafted special issue bolt pistol; combat knife."
+        },
+        "leader": {
+            "rule": "This model can be attached to the following unit: ",
+            "special-rule": "You can attach this model to the above unit even if one Captain or Chapter Master model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths.",
+            "units": {
+                "1": "Reiver Squad"
+            }
+        },
+        "keywords": {
+            "1": "Infantry",
+            "2": "Character",
+            "3": "Smoke",
+            "4": "Grenades",
+            "5": "Imperium",
+            "6": "Phobos",
+            "7": "Lieutenant In Reiver Armour"
+        },
+        "faction-keywords": {
+            "1": "Adeptus Astartes"
+        }
+    },
+    {
+        "unit-name": "Lieutenant - In Phobos Armour",
+        "uri-name": "lieutenant-in-phobos-armour",
+        "unit-description": "Highly capable combat commanders, Lieutenants can lead independent reconnaissance, sabotage and assassination forces far beyond Imperial lines. They are deadly warriors, and the last sensation of countless foes has been the cold press of a Space Marine Lieutenant's knife to their neck.",
+        "profiles": {
+            "M": "6\"",
+            "T": "4",
+            "SV": "3+",
+            "W": "4",
+            "LD": "6+",
+            "OC": "1"
+        },
+        "abilities": {
+            "core": "Deep Strike, Infiltrators, Leader, Scouts 6\"",
+            "faction": "Oath of Moment",
+            "1": "Tactical Precision: While this model is leading a unit, weapons equipped by models in that unit have the [LETHAL HITS] ability.",
+            "2": "Shoot and Fade: In your Shooting phase, after this model's unit has shot, if it is not within Engagement Range of any enemy models, it can make a Normal move of up to D6\"."
+        },
+        "wargear abilities": {
+        },
+        "invulnerable-save": "",
+        "weapons": {
+            "ranged-weapons": {
+                "1": {
+                    "name": "Bolt Pistol [PISTOL]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "2+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "2": {
+                    "name": "Master-crafted scoped bolt carbine",
+                    "range": "24\"",
+                    "A": "2",
+                    "BS": "2+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "2",
+                    "profile-selection": ""
+                }
+            },
+            "melee-weapons": {
+                "1": {
+                    "name": "Paired combat blades [SUSTAINED HITS 1]",
+                    "range": "Melee",
+                    "A": "5",
+                    "WS": "2+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1"
+                }
+            }
+        },
+        "wargear-options": {
+        },
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "1 Lieutenant in Phobos Armour"
+            },
+            "default-weapons": "This model is equipped with: bolt pistol; master-crafted scoped bolt carbine; paired combat blades."
+        },
+        "leader": {
+            "rule": "This model can be attached to the following units:",
+            "special-rule": "You can attach this model to one of the above units even if one Captain or Chapter Master model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths.",
+            "units": {
+                "1": "Incursor Squad",
+                "2": "Infiltrator Squad",
+                "3": "Reiver Squad"
+            }
+        },
+        "keywords": {
+            "1": "Infantry",
+            "2": "Character",
+            "3": "Grenades",
+            "4": "Imperium",
+            "5": "Phobos",
+            "6": "Lieutenant"
+        },
+        "faction-keywords": {
+            "1": "Adeptus Astartes"
+        }
+    },
+    {
+        "unit-name": "Lieutenant",
+        "uri-name": "lieutenant",
+        "unit-description": "Lieutenants constitute a supporting layer of leadership and strategic implementation within Space Marine strike forces. In addition to their own formidable combat prowess, they act as a force multiplier, their tactical capabilities allowing their warriors to adapt far more fluidly to changing situations.",
+        "profiles": {
+            "M": "6\"",
+            "T": "4",
+            "SV": "3+",
+            "W": "4",
+            "LD": "6+",
+            "OC": "1"
+        },
+        "abilities": {
+            "core": "Leader",
+            "faction": "Oath of Moment",
+            "1": "Tactical Precision: While this model is leading a unit, weapons equipped by models in that unit have the [LETHAL HITS] ability.",
+            "2": "Target Priority: This model's unit is eligible to shoot and declare a charge in a turn in which it Fell Back."
+        },
+        "wargear abilities": {
+            "1": "Storm Shield: The bearer has a 4+ invulnerable save"
+        },
+        "invulnerable-save": "",
+        "weapons": {
+            "ranged-weapons": {
+                "1": {
+                    "name": "Bolt Pistol [PISTOL]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "2+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "2": {
+                    "name": "Grav-pistol [ANTI-VEHICLE 2+, PISTOL]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "2+",
+                    "S": "4",
+                    "AP": "-1",
+                    "D": "2",
+                    "profile-selection": ""
+                },
+                "3": {
+                    "name": "Hand flamer [IGNORES COVER, PISTOL, TORRENT]",
+                    "range": "12\"",
+                    "A": "D6",
+                    "BS": "n/a",
+                    "S": "3",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "4": {
+                    "name": "Inferno pistol [MELTA 2, PISTOL]",
+                    "range": "6\"",
+                    "A": "1",
+                    "BS": "2+",
+                    "S": "8",
+                    "AP": "-4",
+                    "D": "D3",
+                    "profile-selection": ""
+                },
+                "5": {
+                    "name": "Master-crafted boltgun",
+                    "range": "24\"",
+                    "A": "2",
+                    "BS": "2+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "2",
+                    "profile-selection": ""
+                },
+                "6": {
+                    "name": "Plasma pistol - standard [PISTOL]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "2+",
+                    "S": "7",
+                    "AP": "-2",
+                    "D": "1",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+                },
+                "7": {
+                    "name": "Plasma pistal - supercharge [HAZARDOUS, PISTOL]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "2+",
+                    "S": "8",
+                    "AP": "-3",
+                    "D": "2",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+                },
+                "8": {
+                    "name": "Storm bolter [RAPID FIRE 2]",
+                    "range": "24\"",
+                    "A": "2",
+                    "BS": "2+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                }
+
+            },
+            "melee-weapons": {
+                "1": {
+                    "name": "Astartes chainsword",
+                    "range": "Melee",
+                    "A": "6",
+                    "WS": "2+",
+                    "S": "4",
+                    "AP": "-1",
+                    "D": "1"
+                },
+                "2": {
+                    "name": "Close combat weapon",
+                    "range": "Melee",
+                    "A": "5",
+                    "WS": "2+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1"
+                },
+                "3": {
+                    "name": "Power fist",
+                    "range": "Melee",
+                    "A": "4",
+                    "WS": "2+",
+                    "S": "8",
+                    "AP": "-2",
+                    "D": "2"
+                },
+                "4": {
+                    "name": "Power weapon",
+                    "range": "Melee",
+                    "A": "5",
+                    "WS": "2+",
+                    "S": "5",
+                    "AP": "-2",
+                    "D": "1"
+                },
+                "5": {
+                    "name": "Thunder hammer [DEVASTATING WOUNDS]",
+                    "range": "Melee",
+                    "A": "4",
+                    "WS": "3+",
+                    "S": "8",
+                    "AP": "-2",
+                    "D": "2"
+                },
+                "6": {
+                    "name": "Twin lightning claws [TWIN-LINKED]",
+                    "range": "Melee",
+                    "A": "6",
+                    "WS": "2+",
+                    "S": "5",
+                    "AP": "-2",
+                    "D": "1"
+                }
+            }
+        },
+        "wargear-options": {
+            "1": {
+                "description": "This model's master-crafted boltgun can be replaced with one of the following:",
+                "option1": "1 combi-weapon [The profile for this weapon can be found on the Adeptus Astartes Armoury card.]",
+                "option2": "1 hand flamer",
+                "option3": "1 grav-pistol",
+                "option4": "1 inferno pistol",
+                "option5": "1 plasma pistol",
+                "option6": "1 storm bolter",
+                "option7": "1 power fist",
+                "option8": "1 power weapon",
+                "option9": "1 storm shield [Maximum one per model]"
+            },
+            "2": {
+                "description": "This model's Astartes chainsword can be replaced with one of the following:",
+                "option1": "1 close combat weapon and 1 storm shield [Maximum one per model]",
+                "option2": "1 power fist"
+            },
+            "3": {
+                "description": "This model's master-crafted boltgun and Astartes chainsword can be replaced with 1 twin lightning claws"
+            }
+        },
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "1 Lieutenant"
+            },
+            "default-weapons": "This model is equipped with: bolt pistol; master-crafted boltgun; Astartes chainsword."
+        },
+        "leader": {
+            "rule": "This model can be attached to the following units:",
+            "special-rule": "You can attach this model to one of the above units even if one Captain or Chapter Master model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths.",
+            "units": {
+                "1": "Assault Squad",
+                "2": "Command Squad",
+                "3": "Tactical Squad",
+                "4": "Vanguard Veteran Squad"
+            }
+        },
+        "keywords": {
+            "1": "Infantry",
+            "2": "Character",
+            "3": "Grenades",
+            "4": "Imperium",
+            "5": "Lieutenant"
+        },
+        "faction-keywords": {
+            "1": "Adeptus Astartes"
+        }
+    },
+    {
+        "unit-name": "Primaris Librarian",
+        "uri-name": "primaris-librarian",
+        "unit-description": "The physical improvements granted by Primaris implants greatly benefit Librarians. Immense strength and endurance enables them to sustain their furious psychic powers for longer, and in battle their entire bodies crackle with mind-melting energies that they launch at their foes.",
+        "profiles": {
+            "M": "6\"",
+            "T": "4",
+            "SV": "3+",
+            "W": "4",
+            "LD": "6+",
+            "OC": "1"
+        },
+        "abilities": {
+            "core": "Leader",
+            "faction": "Oath of Moment",
+            "1": "Psychic Hood: While this model is leading a unit, models in that unit have the Feel No Pain 4+ ability against Psychic Attacks.",
+            "2": "Mental Fortress (Psychic): While this model is leading a unit, models in that unit have a 4+ invulnerable save."
+        },
+        "wargear abilities": {
+        },
+        "invulnerable-save": "",
+        "weapons": {
+            "ranged-weapons": {
+                "1": {
+                    "name": "Bolt Pistol [PISTOL]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "2": {
+                    "name": "Smite - witchfire [Psychic]",
+                    "range": "24\"",
+                    "A": "D6",
+                    "BS": "3+",
+                    "S": "5",
+                    "AP": "-1",
+                    "D": "D3",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+                },
+                "3": {
+                    "name": "Smite - focused witchfire [DEVASTATING WOUNDS, HAZARDOUS, PSYCHIC]",
+                    "range": "24\"",
+                    "A": "D6",
+                    "BS": "3+",
+                    "S": "6",
+                    "AP": "-2",
+                    "D": "D3",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+                }
+            },
+            "melee-weapons": {
+                "1": {
+                    "name": "Force weapon [PSYCHIC]",
+                    "range": "Melee",
+                    "A": "4",
+                    "WS": "3+",
+                    "S": "6",
+                    "AP": "-1",
+                    "D": "D3"
+                }
+            }
+        },
+        "wargear-options": {
+        },
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "1 Primaris Librarian"
+            },
+            "default-weapons": "This model is equipped with: bolt pistol; Smite; force weapon."
+        },
+        "leader": {
+            "rule": "This model can be attached to the following units:",
+            "special-rule": "",
+            "units": {
+                "1": "Assault Intercessor Squad",
+                "2": "Desolation Squad",
+                "3": "Hellblaster Squad",
+                "4": "Infernus Squad",
+                "5": "Intercessor Squad",
+                "6": "Sternguard Veteran Squad"
+            }
+        },
+        "keywords": {
+            "1": "Infantry",
+            "2": "Character",
+            "3": "Grenades",
+            "4": "Psyker",
+            "5": "Imperium",
+            "6": "Tacticus",
+            "7": "Primaris Librarian"
+        },
+        "faction-keywords": {
+            "1": "Adeptus Astartes"
+        }
+    },
+    {
+        "unit-name": "Librarian - In Phobos Armour",
+        "uri-name": "librarian-in-phobos-armour",
+        "unit-description": "Many Librarians learn the arcane arts of obscuration and illusion as part of their long and dangerous training. Donning Phobos armour, they take to the field and use these skills to fog the minds of their enemies, prise vital battle plans from their foes' minds and turn the enemy's shadows against them.",
+        "profiles": {
+            "M": "6\"",
+            "T": "4",
+            "SV": "3+",
+            "W": "4",
+            "LD": "6+",
+            "OC": "1"
+        },
+        "abilities": {
+            "core": "Infiltrators, Leader",
+            "faction": "Oath of Moment",
+            "1": "Psychic Hood: While this model is leading a unit, models in that unit have the Feel No Pain 4+ ability against Psychic Attacks",
+            "2": "Shrouding (Psychic): While this model is leading a unit, models in that unit have the Stealth ability and that unit cannot be targeted by ranged attacks unless the attacking model is within 12\"."
+        },
+        "wargear abilities": {
+        },
+        "invulnerable-save": "",
+        "weapons": {
+            "ranged-weapons": {
+                "1": {
+                    "name": "Bolt Pistol [PISTOL]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "2": {
+                    "name": "Smite - witchfire [Psychic]",
+                    "range": "24\"",
+                    "A": "D6",
+                    "BS": "3+",
+                    "S": "5",
+                    "AP": "-1",
+                    "D": "D3",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+                },
+                "3": {
+                    "name": "Smite - focused witchfire [DEVASTATING WOUNDS, HAZARDOUS, PSYCHIC]",
+                    "range": "24\"",
+                    "A": "D6",
+                    "BS": "3+",
+                    "S": "6",
+                    "AP": "-2",
+                    "D": "D3",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+                }
+            },
+            "melee-weapons": {
+                "1": {
+                    "name": "Force weapon [PSYCHIC]",
+                    "range": "Melee",
+                    "A": "4",
+                    "WS": "3+",
+                    "S": "6",
+                    "AP": "-1",
+                    "D": "D3"
+                }
+            }
+        },
+        "wargear-options": {
+        },
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "1 Librarian in Phobos Armour"
+            },
+            "default-weapons": "This model is equipped with: bolt pistol; Smite; force weapon."
+        },
+        "leader": {
+            "rule": "This model can be attached to the following units:",
+            "special-rule": "",
+            "units": {
+                "1": "Eliminator Squad",
+                "2": "Incursor Squad",
+                "3": "Infiltrator Squad",
+                "4": "Reiver Squad"
+            }
+        },
+        "keywords": {
+            "1": "Infantry",
+            "2": "Character",
+            "3": "Grenades",
+            "4": "Psyker",
+            "5": "Imperium",
+            "6": "Phobos",
+            "7": "Librarian"
+        },
+        "faction-keywords": {
+            "1": "Adeptus Astartes"
+        }
+    },
+    {
+        "unit-name": "Librarian - In Terminator Armour",
+        "uri-name": "librarian-in-terminator-armour",
+        "unit-description": "The powers of a Chapter's Librarians lend a lethal psychic edge to its elite infantry spearheads. Whether it be gruelling boarding actions, ferocious urban combat or on the front line against overwhelming enemy numbers, Librarians in Terminator armour blast at the foe with their powerful psychic energies.",
+        "profiles": {
+            "M": "5\"",
+            "T": "5",
+            "SV": "2+",
+            "W": "5",
+            "LD": "6+",
+            "OC": "1"
+        },
+        "abilities": {
+            "core": "Deep Strike, Leader",
+            "faction": "Oath of Moment",
+            "1": "Psychic Hood: While this model is leading a unit, models in that unit have the Feel No Pain 4+ ability against Psychic Attacks.",
+            "2": "Veil of Time (Psychic): While this model is leading a unit, weapons equipped by models in that unit have the [SUSTAINED HITS 1] ability."
+        },
+        "wargear abilities": {
+        },
+        "invulnerable-save": "4+",
+        "weapons": {
+            "ranged-weapons": {
+                "1": {
+                    "name": "Combi-weapon [ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]",
+                    "range": "24\"",
+                    "A": "1",
+                    "BS": "4+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "2": {
+                    "name": "Smite - witchfire [Psychic]",
+                    "range": "24\"",
+                    "A": "D6",
+                    "BS": "3+",
+                    "S": "5",
+                    "AP": "-1",
+                    "D": "D3",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+                },
+                "3": {
+                    "name": "Smite - focused witchfire [DEVASTATING WOUNDS, HAZARDOUS, PSYCHIC]",
+                    "range": "24\"",
+                    "A": "D6",
+                    "BS": "3+",
+                    "S": "6",
+                    "AP": "-2",
+                    "D": "D3",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with"
+                },
+                "4": {
+                    "name": "Storm bolter [RAPID FIRE 2]",
+                    "range": "24\"",
+                    "A": "2",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                }
+            },
+            "melee-weapons": {
+                "1": {
+                    "name": "Force weapon [PSYCHIC]",
+                    "range": "Melee",
+                    "A": "4",
+                    "WS": "3+",
+                    "S": "6",
+                    "AP": "-1",
+                    "D": "D3"
+                }
+            }
+        },
+        "wargear-options": {
+            "1": {
+                "description": "This model can be equipped with one of the following:",
+                "option1": "1 combi-weapon",
+                "option2": "1 storm bolter"
+            }
+        },
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "1 Librarian in Terminator Armour"
+            },
+            "default-weapons": "This model is equipped with: Smite; force weapon"
+        },
+        "leader": {
+            "rule": "This model can be attached to the following units:",
+            "special-rule": "",
+            "units": {
+                "1": "Relic Terminator Squad",
+                "2": "Terminator Assault Squad",
+                "3": "Terminator Squad"
+            }
+        },
+        "keywords": {
+            "1": "Infantry",
+            "2": "Character",
+            "3": "Psyker",
+            "4": "Imperium",
+            "5": "Terminator",
+            "6": "Librarian"
+        },
+        "faction-keywords": {
+            "1": "Adeptus Astartes"
         }
     }
 ]
