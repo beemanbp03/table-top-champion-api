@@ -4525,5 +4525,354 @@
         "faction-keywords": {
             "1": "Adeptus Astartes"
         }
+    },
+    {
+        "unit-name": "Scout Sniper Squad",
+        "uri-name": "scout-sniper-squad",
+        "unit-description": "Combining their skills in covert operations and infiltration with advanced marksmanship taught to them by wise Veteran Sergeants, Scout Squads equipped with sniper rifles are capable battlefield assassins. With precision fire they can kill opposing commanders or detonate vehicle fuel cells to wreak havoc amongst the enemy.",
+        "profiles": {
+            "M": "6\"",
+            "T": "4",
+            "SV": "4+",
+            "W": "2",
+            "LD": "6+",
+            "OC": "1"
+        },
+        "abilities": {
+            "core": "Infiltrators, Stealth",
+            "faction": "Oath of Moment",
+            "1": "Concealed Positions: This unit can only be selected as the target of a ranged attack if the attacking model is within 12\"."
+        },
+        "wargear abilities": {
+        },
+        "invulnerable-save": "",
+        "weapons": {
+            "ranged-weapons": {
+                "1": {
+                    "name": "Bolt Pistol [PISTOL]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "2": {
+                    "name": "Missile launcher - frag [BLAST, HEAVY]",
+                    "range": "48\"",
+                    "A": "D6",
+                    "BS": "4+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+                },
+                "3": {
+                    "name": "Missile Launcher - krak [HEAVY]",
+                    "range": "48\"",
+                    "A": "1",
+                    "BS": "4+",
+                    "S": "9",
+                    "AP": "-2",
+                    "D": "D6",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+                },
+                "4": {
+                    "name": "Scout sniper rifle [HEAVY, PRECISION]",
+                    "range": "36\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "-2",
+                    "D": "2",
+                    "profile-selection": ""
+                }
+            },
+            "melee-weapons": {
+                "1": {
+                    "name": "Close combat weapon",
+                    "range": "Melee",
+                    "A": "2",
+                    "WS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1"
+                }
+            }
+        },
+        "wargear-options": {
+            "1": {
+                "description": "1 Scout Sniper’s scout sniper rifle can be replaced with 1 missile launcher"
+            }
+        },
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "1 Scout Sniper Sergeant",
+                "2": "4-9 Scout Snipers"
+            },
+            "default-weapons": "Every model is equipped with: bolt pistol; sniper rifle; close combat weapon."
+        },
+        "leader": {
+            "rule": "",
+            "special-rule": "",
+            "units": {
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+            }
+        },
+        "keywords": {
+            "1": "Infantry",
+            "2": "Grenades",
+            "3": "Smoke",
+            "4": "Imperium",
+            "5": "Scout Sniper Squad"
+        },
+        "faction-keywords": {
+            "1": "Adeptus Astartes"
+        }
+    },
+    {
+        "unit-name": "Primaris Company Champion",
+        "uri-name": "primaris-company-champion",
+        "unit-description": "Tasked with upholding the martial honour of their battle-brothers, Primaris Company Champions are bladesmen supreme. They are veteran combatants and peerless duellists, cleaving apart lesser foes to reach the enemy's greatest champions face to face, there to humble them.",
+        "profiles": {
+            "M": "6\"",
+            "T": "4",
+            "SV": "3+",
+            "W": "4",
+            "LD": "6+",
+            "OC": "1"
+        },
+        "abilities": {
+            "core": "Leader",
+            "faction": "Oath of Moment",
+            "1": "Honour or Death: While this model is leading a unit, add 1 to Advance and Charge rolls made for that unit and you can target that unit with the Heroic Intervention Stratagem for 0CP, even if you have already used that Stratagem on a different unit this phase.",
+            "2": "Martial Superiority: Each time this model makes a melee attack that targets a Character unit, you can re-roll the Hit roll and you can re-roll the Wound roll."
+        },
+        "wargear abilities": {
+        },
+        "invulnerable-save": "",
+        "weapons": {
+            "ranged-weapons": {
+                "1": {
+                    "name": "Bolt Pistol [PISTOL]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                }
+            },
+            "melee-weapons": {
+                "1": {
+                    "name": "Master-crafted power weapon",
+                    "range": "Melee",
+                    "A": "5",
+                    "WS": "2+",
+                    "S": "5",
+                    "AP": "-2",
+                    "D": "2"
+                }
+            }
+        },
+        "wargear-options": {
+        },
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "1 Primaris Company Champion"
+            },
+            "default-weapons": "This model is equipped with: bolt pistol; master-crafted power weapon."
+        },
+        "leader": {
+            "rule": "This model can be attached to the following units:",
+            "special-rule": "",
+            "units": {
+                "1": "Assault Intercessor Squad",
+                "2": "Bladeguard Veteran Squad",
+                "3": "Infernus Squad",
+                "4": "Intercessor Squad",
+                "5": "Sternguard Veteran Squad"
+            }
+        },
+        "keywords": {
+            "1": "Infantry",
+            "2": "Character",
+            "3": "Grenades",
+            "4": "Imperium",
+            "5": "Tacticus",
+            "6": "Primaris Company Champion"
+        },
+        "faction-keywords": {
+            "1": "Adeptus Astartes"
+        }
+    },
+    {
+        "unit-name": "Primaris Apothecary",
+        "uri-name": "primaris-apothecary",
+        "unit-description": "In addition to battlefield surgery, it is the Apothecary's duty to recover the gene-seed of the fallen, and thus preserve the Chapter for later generations. For this task the Primaris Apothecary is equipped to bring peace to those too wounded to save, and efficiently extract their precious progenoid glands.",
+        "profiles": {
+            "M": "6\"",
+            "T": "4",
+            "SV": "3+",
+            "W": "4",
+            "LD": "6+",
+            "OC": "1"
+        },
+        "abilities": {
+            "core": "Leader",
+            "faction": "Oath of Moment",
+            "1": "Narthecium: While this model is leading a unit, in your Command phase, you can return 1 destroyed model (excluding Character models) to that unit.",
+            "2": "Gene-seed Recovery: When this model's Bodyguard unit is destroyed, roll one D6: on a 2+, you gain 1CP."
+        },
+        "wargear abilities": {
+        },
+        "invulnerable-save": "",
+        "weapons": {
+            "ranged-weapons": {
+                "1": {
+                    "name": "Absolvor bolt pistol [PISTOL]",
+                    "range": "18\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "5",
+                    "AP": "-1",
+                    "D": "2",
+                    "profile-selection": ""
+                },
+                "2": {
+                    "name": "Reductor pistol [PISTOL]",
+                    "range": "3\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "-4",
+                    "D": "2",
+                    "profile-selection": ""
+                }
+            },
+            "melee-weapons": {
+                "1": {
+                    "name": "Close combat weapon",
+                    "range": "Melee",
+                    "A": "4",
+                    "WS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1"
+                }
+            }
+        },
+        "wargear-options": {
+        },
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "1 Primaris Apothecary"
+            },
+            "default-weapons": "This model is equipped with: absolvor bolt pistol; reductor pistol; close combat weapon."
+        },
+        "leader": {
+            "rule": "This model can be attached to the following units:",
+            "special-rule": "You can attach this model to one of the above units even if one Captain, Chapter Master or Lieutenant model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths.",
+            "units": {
+                "1": "Assault Intercessor Squad",
+                "2": "Desolation Squad",
+                "3": "Hellblaster Squad",
+                "4": "Infernus Squad",
+                "5": "Intercessor Squad",
+                "6": "Sternguard Veteran Squad"
+            }
+        },
+        "keywords": {
+            "1": "Infantry",
+            "2": "Character",
+            "3": "Grenades",
+            "4": "Imperium",
+            "5": "Tacticus",
+            "6": "Primaris Apothecary"
+        },
+        "faction-keywords": {
+            "1": "Adeptus Astartes"
+        }
+    },
+    {
+        "unit-name": "Apothecary Biologis",
+        "uri-name": "apothecary-biologis",
+        "unit-description": "Clad in Gravis armour, the Apothecary Biologis can advance through storms of enemy fire, vivispectrum at the ready to take bio-material samples for later analysis, whether that be xenos flesh, viral weapons casings or esoteric gene-tech.",
+        "profiles": {
+            "M": "5\"",
+            "T": "6",
+            "SV": "3+",
+            "W": "5",
+            "LD": "6+",
+            "OC": "3"
+        },
+        "abilities": {
+            "core": "Leader",
+            "faction": "Oath of Moment",
+            "1": "Surgical Precision: While this model is leading a unit, weapons equipped by models in that unit have the [LETHAL HITS] ability.",
+            "2": "Vivispectrum: If this model’s unit destroys an enemy unit as the result of a melee attack, until the end of the battle, this model has an Objective Control characteristic of 9."
+        },
+        "wargear abilities": {
+        },
+        "invulnerable-save": "",
+        "weapons": {
+            "ranged-weapons": {
+                "1": {
+                    "name": "Absolver bolt pistol [PISTOL]",
+                    "range": "18\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "5",
+                    "AP": "-1",
+                    "D": "2",
+                    "profile-selection": ""
+                }
+            },
+            "melee-weapons": {
+                "1": {
+                    "name": "Close combat weapon",
+                    "range": "Melee",
+                    "A": "4",
+                    "WS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1"
+                }
+            }
+        },
+        "wargear-options": {
+        },
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "1 Apothecary Biologis"
+            },
+            "default-weapons": "This model is equipped with: absolvor bolt pistol; close combat weapon."
+        },
+        "leader": {
+            "rule": "This model can be attached to the following units:",
+            "special-rule": "You can attach this model to one of the above units even if one Captain or Chapter Master model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths.",
+            "units": {
+                "1": "Aggressor Squad",
+                "2": "Eradicator Squad",
+                "3": "Heavy Intercessor Squad"
+            }
+        },
+        "keywords": {
+            "1": "Infantry",
+            "2": "Character",
+            "3": "Imperium",
+            "4": "Gravis",
+            "5": "Apothecary biologis"
+        },
+        "faction-keywords": {
+            "1": "Adeptus Astartes"
+        }
     }
 ]
