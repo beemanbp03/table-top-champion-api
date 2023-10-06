@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "nodemon pdfScraper.js"
+    "start": "nodemon app.js"
   },
   "dependencies": {
     "axios": "^1.5.0",
