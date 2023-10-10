@@ -120,7 +120,9 @@
             "model-types-and-numbers": {
                 "1": "1 Primaris Captain"
             },
-            "default-weapons": "This model is equipped with: bolt pistol; master-crafted bolt rifle; close combat weapon."
+            "default-weapons": {
+                "1": "This model is equipped with: bolt pistol; master-crafted bolt rifle; close combat weapon."
+            }
         },
         "leader": {
             "rule": "This model can be attached to the following units:",
@@ -251,7 +253,9 @@
             "model-types-and-numbers": {
                 "1": "1 Captain in Gravis Armour"
             },
-            "default-weapons": "This model is equipped with: master-crafted heavy bolt rifle; master-crafted power weapon."
+            "default-weapons": {
+                "1": "This model is equipped with: master-crafted heavy bolt rifle; master-crafted power weapon."
+            }
         },
         "leader": {
             "rule": "This model can be attached to the following units:",
@@ -338,7 +342,9 @@
             "model-types-and-numbers": {
                 "1": "Captain in Phobos Armour"
             },
-            "default-weapons": "This model is equipped with: bolt pistol; instigator bolt carbine; combat knife."
+            "default-weapons": {
+                "1": "This model is equipped with: bolt pistol; instigator bolt carbine; combat knife."
+            }
         },
         "leader": {
             "rule": "This model can be attached to the following units:",
@@ -485,7 +491,9 @@
             "model-types-and-numbers": {
                 "1": "1 Captain in Terminator Armour"
             },
-            "default-weapons": "This model is equipped with: storm bolter; relic weapon."
+            "default-weapons": {
+                "1": "This model is equipped with: storm bolter; relic weapon."
+            }
         },
         "leader": {
             "rule": "This model can be attached to the following units:",
@@ -685,7 +693,9 @@
             "model-types-and-numbers": {
                 "1": "1 Captain"
             },
-            "default-weapons": "This model is equipped with: bolt pistol; master-crafted boltgun; Astartes chainsword."
+            "default-weapons": {
+                "1": "This model is equipped with: bolt pistol; master-crafted boltgun; Astartes chainsword."
+            }
         },
         "leader": {
             "rule": "This model can be attached to the following units:",
@@ -889,7 +899,9 @@
             "model-types-and-numbers": {
                 "1": "1 Captain with Jump Pack"
             },
-            "default-weapons": "This model is equipped with: bolt pistol; master-crafted boltgun; Astartes chainsword."
+            "default-weapons": {
+                "1": "This model is equipped with: bolt pistol; master-crafted boltgun; Astartes chainsword."
+            }
         },
         "leader": {
             "rule": "This model can be attached to the following units:",
@@ -1099,7 +1111,9 @@
             "model-types-and-numbers": {
                 "1": "1 Captain on Bike"
             },
-            "default-weapons": "This model is equipped with: bolt pistol; twin boltgun; Astartes chainsword."
+            "default-weapons": {
+                "1": "This model is equipped with: bolt pistol; twin boltgun; Astartes chainsword."
+            }
         },
         "leader": {
             "rule": "This model can be attached to the following units:",
@@ -1258,7 +1272,9 @@
             "model-types-and-numbers": {
                 "1": "1 Primaris Lieutenant"
             },
-            "default-weapons": "This model is equipped with: bolt pistol; master-crafted bolt rifle; close combat weapon."
+            "default-weapons": {
+                "1": "This model is equipped with: bolt pistol; master-crafted bolt rifle; close combat weapon."
+            }
         },
         "leader": {
             "rule": "This model can be attached to the following units:",
@@ -1336,7 +1352,9 @@
             "model-types-and-numbers": {
                 "1": "1 Lieutenant in Reiver Armour"
             },
-            "default-weapons": "This model is equipped with: master-crafted special issue bolt pistol; combat knife."
+            "default-weapons": {
+                "1": "This model is equipped with: master-crafted special issue bolt pistol; combat knife."
+            }
         },
         "leader": {
             "rule": "This model can be attached to the following unit: ",
@@ -1420,7 +1438,9 @@
             "model-types-and-numbers": {
                 "1": "1 Lieutenant in Phobos Armour"
             },
-            "default-weapons": "This model is equipped with: bolt pistol; master-crafted scoped bolt carbine; paired combat blades."
+            "default-weapons": {
+                "1": "This model is equipped with: bolt pistol; master-crafted scoped bolt carbine; paired combat blades."
+            }
         },
         "leader": {
             "rule": "This model can be attached to the following units:",
@@ -1632,7 +1652,9 @@
             "model-types-and-numbers": {
                 "1": "1 Lieutenant"
             },
-            "default-weapons": "This model is equipped with: bolt pistol; master-crafted boltgun; Astartes chainsword."
+            "default-weapons": {
+                "1": "This model is equipped with: bolt pistol; master-crafted boltgun; Astartes chainsword."
+            }
         },
         "leader": {
             "rule": "This model can be attached to the following units:",
@@ -1727,7 +1749,9 @@
             "model-types-and-numbers": {
                 "1": "1 Primaris Librarian"
             },
-            "default-weapons": "This model is equipped with: bolt pistol; Smite; force weapon."
+            "default-weapons": {
+                "1": "This model is equipped with: bolt pistol; Smite; force weapon."
+            }
         },
         "leader": {
             "rule": "This model can be attached to the following units:",
@@ -1826,7 +1850,9 @@
             "model-types-and-numbers": {
                 "1": "1 Librarian in Phobos Armour"
             },
-            "default-weapons": "This model is equipped with: bolt pistol; Smite; force weapon."
+            "default-weapons": {
+                "1": "This model is equipped with: bolt pistol; Smite; force weapon."
+            }
         },
         "leader": {
             "rule": "This model can be attached to the following units:",
@@ -1938,7 +1964,9 @@
             "model-types-and-numbers": {
                 "1": "1 Librarian in Terminator Armour"
             },
-            "default-weapons": "This model is equipped with: Smite; force weapon"
+            "default-weapons": {
+                "1": "This model is equipped with: Smite; force weapon"
+            }
         },
         "leader": {
             "rule": "This model can be attached to the following units:",
@@ -2123,7 +2151,9 @@
             "model-types-and-numbers": {
                 "1": "1 Librarian"
             },
-            "default-weapons": "This model is equipped with: bolt pistol; Smite; force weapon."
+            "default-weapons": {
+                "1": "This model is equipped with: bolt pistol; Smite; force weapon."
+            }
         },
         "leader": {
             "rule": "This model can be attached to the following units:",
@@ -2199,7 +2229,9 @@
             "model-types-and-numbers": {
                 "1": "1 Primaris Chaplain"
             },
-            "default-weapons": "This model is equipped with: absolvor bolt pistol; crozius arcanum."
+            "default-weapons": {
+                "1": "This model is equipped with: absolvor bolt pistol; crozius arcanum."
+            }
         },
         "leader": {
             "rule": "This model can be attached to the following units: ",
@@ -2290,7 +2322,9 @@
             "model-types-and-numbers": {
                 "1": "1 Chaplain in Terminator Armour"
             },
-            "default-weapons": "This model is equipped with: storm bolter; crozius arcanum."
+            "default-weapons": {
+                "1": "This model is equipped with: storm bolter; crozius arcanum."
+            }
         },
         "leader": {
             "rule": "This model can be attached to the following units:",
@@ -2374,7 +2408,9 @@
             "model-types-and-numbers": {
                 "1": "1 Chaplain on Bike"
             },
-            "default-weapons": "This model is equipped with: absolvor bolt pistol; twin bolt rifle; crozius arcanum."
+            "default-weapons": {
+                "1": "This model is equipped with: absolvor bolt pistol; twin bolt rifle; crozius arcanum."
+            }
         },
         "leader": {
             "rule": "This model can be attached to the following units:",
@@ -2547,7 +2583,9 @@
             "model-types-and-numbers": {
                 "1": "1 Chaplain"
             },
-            "default-weapons": "This model is equipped with: bolt pistol; crozius arcanum."
+            "default-weapons": {
+                "1": "This model is equipped with: bolt pistol; crozius arcanum."
+            }
         },
         "leader": {
             "rule": "This model can be attached to the following units: ",
@@ -2722,7 +2760,9 @@
             "model-types-and-numbers": {
                 "1": "1 Chaplain with Jump Pack"
             },
-            "default-weapons": "This model is equipped with: bolt pistol; crozius arcanum."
+            "default-weapons": {
+                "1": "This model is equipped with: bolt pistol; crozius arcanum."
+            }
         },
         "leader": {
             "rule": "This model can be attached to the following units:",
@@ -2816,7 +2856,9 @@
             "model-types-and-numbers": {
                 "1": "1 Primaris Techmarine"
             },
-            "default-weapons": "This model is equipped with: forge bolter; grav-pistol; Omnissian power axe; servo-arm."
+            "default-weapons": {
+                "1": "This model is equipped with: forge bolter; grav-pistol; Omnissian power axe; servo-arm."
+            }
         },
         "leader": {
             "rule": "This model can be attached to the following units:",
@@ -3026,7 +3068,9 @@
             "model-types-and-numbers": {
                 "1": "1 Techmarine"
             },
-            "default-weapons": "This model is equipped with: bolt pistol; Omnissian power axe; servo-arm."
+            "default-weapons": {
+                "1": "This model is equipped with: bolt pistol; Omnissian power axe; servo-arm."
+            }
         },
         "leader": {
             "rule": "This model can be attached to the following units:",
@@ -3143,7 +3187,9 @@
             "model-types-and-numbers": {
                 "1": "4 Astartes Servitors"
             },
-            "default-weapons": "Every model is equipped with: Servitor servo-arm."
+            "default-weapons": {
+                "1": "Every model is equipped with: Servitor servo-arm."
+            }
         },
         "servitor retinue": "At the start of the Declare Battle Formations step, this unit can join one other unit from your army that is being led by a Techmarine. If it does, until the end of the battle, every model in this unit counts as being part of that Bodyguard unit, and that Bodyguard unit's Starting Strength is increased accordingly.",
         "keywords": {
@@ -3321,13 +3367,14 @@
                 "1": "1 Intercessor Sergeant",
                 "2": "4-9 Intercessors"
             },
-            "default-weapons": "Every model is equipped with: bolt pistol; bolt rifle; close combat weapon."
+            "default-weapons": {
+                "1": "Every model is equipped with: bolt pistol; bolt rifle; close combat weapon."
+            }
         },
         "leader": {
             "rule": "",
             "special-rule": "",
-            "units": {
-            }
+            "units": {}
         },
         "keywords": {
             "1": "Infantry",
@@ -3403,13 +3450,14 @@
                 "1": "1 Infernus Sergeant",
                 "2": "4-9 Infernus Marines"
             },
-            "default-weapons": "Every model is equipped with: bolt pistol; pyreblaster; close combat weapon."
+            "default-weapons": {
+                "1": "Every model is equipped with: bolt pistol; pyreblaster; close combat weapon."
+            }
         },
         "leader": {
             "rule": "",
             "special-rule": "",
-            "units": {
-            }
+            "units": {}
         },
         "keywords": {
             "1": "Infantry",
@@ -3542,13 +3590,14 @@
                 "1": "1 Assault Intercessor Sergeant",
                 "2": "4-9 Assault Intercessors"
             },
-            "default-weapons": "Every model is equipped with: heavy bolt pistol; Astartes chainsword."
+            "default-weapons": {
+                "1": "Every model is equipped with: heavy bolt pistol; Astartes chainsword."
+            }
         },
         "leader": {
             "rule": "",
             "special-rule": "",
-            "units": {
-            }
+            "units": {}
         },
         "keywords": {
             "1": "Infantry",
@@ -3724,7 +3773,9 @@
             "model-types-and-numbers": {
                 "1": "1 Librarian with Jump Pack"
             },
-            "default-weapons": "This model is equipped with: bolt pistol; Smite; force weapon."
+            "default-weapons": {
+                "1": "This model is equipped with: bolt pistol; Smite; force weapon."
+            }
         },
         "leader": {
             "rule": "This model can be attached to the following units:",
@@ -3800,14 +3851,15 @@
             "model-types-and-numbers": {
                 "1": "1 Lieutenant with Combi-weapon"
             },
-            "default-weapons": "This model is equipped with: combi-weapon; paired combat blades."
+            "default-weapons": {
+                "1": "This model is equipped with: combi-weapon; paired combat blades."
+            }
         },
         "last-survivor": "This model cannot be selected as your Warlord.",
         "leader": {
             "rule": "",
             "special-rule": "",
-            "units": {
-            }
+            "units": {}
         },
         "keywords": {
             "1": "Infantry",
@@ -3897,19 +3949,14 @@
                 "1": "1 Heavy Intercessor Sergeant",
                 "2": "4-9 Heavy Intercessors"
             },
-            "default-weapons": "Every model is equipped with: bolt pistol; heavy bolt rifle; close combat weapon."
+            "default-weapons": {
+                "1": "Every model is equipped with: bolt pistol; heavy bolt rifle; close combat weapon."
+            }
         },
         "leader": {
             "rule": "",
             "special-rule": "",
-            "units": {
-                "1": "",
-                "2": "",
-                "3": "",
-                "4": "",
-                "5": "",
-                "6": ""
-            }
+            "units": {}
         },
         "keywords": {
             "1": "Infantry",
@@ -3993,19 +4040,14 @@
                 "1": "1 Infiltrator Sergeant",
                 "2": "4-9 Infiltrators"
             },
-            "default-weapons": "Every model is equipped with: bolt pistol; marksman bolt carbine; close combat weapon."
+            "default-weapons": {
+                "1": "Every model is equipped with: bolt pistol; marksman bolt carbine; close combat weapon."
+            }
         },
         "leader": {
             "rule": "",
             "special-rule": "",
-            "units": {
-                "1": "",
-                "2": "",
-                "3": "",
-                "4": "",
-                "5": "",
-                "6": ""
-            }
+            "units": {}
         },
         "keywords": {
             "1": "Infantry",
@@ -4085,19 +4127,14 @@
                 "1": "1 Incursor Sergeant",
                 "2": "4-9 Incursors"
             },
-            "default-weapons": "Every model is equipped with: bolt pistol; occulus bolt carbine; paired combat blades."
+            "default-weapons": {
+                "1": "Every model is equipped with: bolt pistol; occulus bolt carbine; paired combat blades."
+            }
         },
         "leader": {
             "rule": "",
             "special-rule": "",
-            "units": {
-                "1": "",
-                "2": "",
-                "3": "",
-                "4": "",
-                "5": "",
-                "6": ""
-            }
+            "units": {}
         },
         "keywords": {
             "1": "Infantry",
@@ -4304,19 +4341,14 @@
                 "1": "1 Tactical Sergeant",
                 "2": "9 Tactical Marines"
             },
-            "default-weapons": "Every model is equipped with: bolt pistol; boltgun; close combat weapon."
+            "default-weapons": {
+                "1": "Every model is equipped with: bolt pistol; boltgun; close combat weapon."
+            }
         },
         "leader": {
             "rule": "",
             "special-rule": "",
-            "units": {
-                "1": "",
-                "2": "",
-                "3": "",
-                "4": "",
-                "5": "",
-                "6": ""
-            }
+            "units": {}
         },
         "keywords": {
             "1": "Infantry",
@@ -4501,19 +4533,14 @@
                 "1": "1 Scout Sergeant",
                 "2": "4-9 Scouts"
             },
-            "default-weapons": "Every model is equipped with: bolt pistol; boltgun; close combat weapon."
+            "default-weapons": {
+                "1": "Every model is equipped with: bolt pistol; boltgun; close combat weapon."
+            }
         },
         "leader": {
             "rule": "",
             "special-rule": "",
-            "units": {
-                "1": "",
-                "2": "",
-                "3": "",
-                "4": "",
-                "5": "",
-                "6": ""
-            }
+            "units": {}
         },
         "keywords": {
             "1": "Infantry",
@@ -4611,19 +4638,14 @@
                 "1": "1 Scout Sniper Sergeant",
                 "2": "4-9 Scout Snipers"
             },
-            "default-weapons": "Every model is equipped with: bolt pistol; sniper rifle; close combat weapon."
+            "default-weapons": {
+                "1": "Every model is equipped with: bolt pistol; sniper rifle; close combat weapon."
+            }
         },
         "leader": {
             "rule": "",
             "special-rule": "",
-            "units": {
-                "1": "",
-                "2": "",
-                "3": "",
-                "4": "",
-                "5": "",
-                "6": ""
-            }
+            "units": {}
         },
         "keywords": {
             "1": "Infantry",
@@ -4688,7 +4710,9 @@
             "model-types-and-numbers": {
                 "1": "1 Primaris Company Champion"
             },
-            "default-weapons": "This model is equipped with: bolt pistol; master-crafted power weapon."
+            "default-weapons": {
+                "1": "This model is equipped with: bolt pistol; master-crafted power weapon."
+            }
         },
         "leader": {
             "rule": "This model can be attached to the following units:",
@@ -4775,7 +4799,9 @@
             "model-types-and-numbers": {
                 "1": "1 Primaris Apothecary"
             },
-            "default-weapons": "This model is equipped with: absolvor bolt pistol; reductor pistol; close combat weapon."
+            "default-weapons": {
+                "1": "This model is equipped with: absolvor bolt pistol; reductor pistol; close combat weapon."
+            }
         },
         "leader": {
             "rule": "This model can be attached to the following units:",
@@ -4853,7 +4879,9 @@
             "model-types-and-numbers": {
                 "1": "1 Apothecary Biologis"
             },
-            "default-weapons": "This model is equipped with: absolvor bolt pistol; close combat weapon."
+            "default-weapons": {
+                "1": "This model is equipped with: absolvor bolt pistol; close combat weapon."
+            }
         },
         "leader": {
             "rule": "This model can be attached to the following units:",
@@ -4873,6 +4901,4062 @@
         },
         "faction-keywords": {
             "1": "Adeptus Astartes"
+        }
+    },
+    {
+        "unit-name": "Primaris Ancient",
+        "uri-name": "primaris-ancient",
+        "unit-description": "Ancients bear the Chapter's precious standards. These glorious relics have been present in some of the Chapter's most notable battles, their finely worked designs commemorating countless campaigns and heroic deeds. They are symbols of selfless commitment and the unbreakable loyalty of brothers.",
+        "profiles": {
+            "M": "6\"",
+            "T": "4",
+            "SV": "3+",
+            "W": "4",
+            "LD": "6+",
+            "OC": "1"
+        },
+        "abilities": {
+            "core": "Leader",
+            "faction": "Oath of Moment",
+            "1": "Astartes Banner: While this model is leading a unit, add 1 to the Objective Control characteristic of models in that unit.",
+            "2": "Unbreakable Duty: While this model is within range of an objective marker and/or within 6\" of the centre of the battlefield, this model has the Feel No Pain 4+ ability."
+        },
+        "wargear abilities": {
+        },
+        "invulnerable-save": "",
+        "weapons": {
+            "ranged-weapons": {
+                "1": {
+                    "name": "Bolt Pistol [PISTOL]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "2": {
+                    "name": "Bolt rifle [ASSULT, HEAVY]",
+                    "range": "24\"",
+                    "A": "2",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "-1",
+                    "D": "1",
+                    "profile-selection": ""
+                }
+            },
+            "melee-weapons": {
+                "1": {
+                    "name": "Close combat weapon",
+                    "range": "Melee",
+                    "A": "5",
+                    "WS": "2+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1"
+                },
+                "": {
+                    "name": "Power weapon",
+                    "range": "Melee",
+                    "A": "5",
+                    "WS": "2+",
+                    "S": "5",
+                    "AP": "-2",
+                    "D": "1"
+                }
+            }
+        },
+        "wargear-options": {
+            "1": {
+                "description": "This model’s bolt rifle and close combat weapon can be replaced with 1 power weapon."
+            }
+        },
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "1 Primaris Ancient"
+            },
+            "default-weapons": {
+                "1": "This model is equipped with: bolt pistol; bolt rifle; close combat weapon."
+            }
+        },
+        "leader": {
+            "rule": "This model can be attached to the following units:",
+            "special-rule": "You can attach this model to one of the above units even if one Captain, Chapter Master or Lieutenant model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths.",
+            "units": {
+                "1": "Assault Intercessor Squad",
+                "2": "Hellblaster Squad",
+                "3": "Infernus Squad",
+                "4": "Intercessor Squad",
+                "5": "Sternguard Veteran Squad",
+                "6": "Desolation Squad"
+            }
+        },
+        "keywords": {
+            "1": "Infantry",
+            "2": "Character",
+            "3": "Grenades",
+            "4": "Imperium",
+            "5": "Tacticus",
+            "6": "Primaris Ancient"
+        },
+        "faction-keywords": {
+            "1": "Adeptus Astartes"
+        }
+    },
+    {
+        "unit-name": "Bladegaurd Ancient",
+        "uri-name": "bladegaurd-ancient",
+        "unit-description": "Bladeguard Ancients bear the honour of carrying their Chapter's precious standards into battle. The most revered of these incorporate the remains of fallen heroes of the Chapter; in their presence, battle-brothers are inspired to emulate the legendary deeds of these paragons of old.",
+        "profiles": {
+            "M": "6\"",
+            "T": "4",
+            "SV": "3+",
+            "W": "4",
+            "LD": "6+",
+            "OC": "1"
+        },
+        "abilities": {
+            "core": "Leader",
+            "faction": "Oath of Moment",
+            "1": "Astartes Banner: While this model is leading a unit, add 1 to the Objective Control characteristic of models in that unit.",
+            "2": "Deeds of Heroism: Once per battle, when this model is selected to fight, it can use this ability. If it does, until the end of the phase, add 1 to the Attacks characteristic of melee weapons equipped by models in this model's unit."
+        },
+        "wargear abilities": {
+        },
+        "invulnerable-save": "4+",
+        "weapons": {
+            "ranged-weapons": {
+                "1": {
+                    "name": "Heavy bolt pistol [PISTOL]",
+                    "range": "18\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "-1",
+                    "D": "1",
+                    "profile-selection": ""
+                }
+            },
+            "melee-weapons": {
+                "1": {
+                    "name": "Close combat weapon",
+                    "range": "Melee",
+                    "A": "5",
+                    "WS": "2+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1"
+                }
+            }
+        },
+        "wargear-options": {
+        },
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "1 Bladeguard Ancient",
+                "2": ""
+            },
+            "default-weapons": {
+                "1": "This model is equipped with: heavy bolt pistol; close combat weapon."
+            }
+        },
+        "leader": {
+            "rule": "This model can be attached to the following unit:",
+            "special-rule": "You can attach this model to the above unit even if one Captain, Chapter Master or Lieutenant model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths.",
+            "units": {
+                "1": "Bladeguard Veteran Squad"
+            }
+        },
+        "keywords": {
+            "1": "Infantry",
+            "2": "Character",
+            "3": "Grenades",
+            "4": "Imperium",
+            "5": "Tacticus",
+            "6": "Bladegaurd Ancient"
+        },
+        "faction-keywords": {
+            "1": "Adeptus Astartes"
+        }
+    },
+    {
+        "unit-name": "Ancient - In Terminator Armour",
+        "uri-name": "ancient-in-terminator-armour",
+        "unit-description": "Carrying the Space Marines' sacred banners is a most vital task. Symbols of the Chapter's might, Space Marines will gladly die to preserve them. This makes Ancients frequent targets. Clad in Terminator armour, they are near impervious to enemy fire, ensuring the standard always flies proud.",
+        "profiles": {
+            "M": "5\"",
+            "T": "5",
+            "SV": "2+",
+            "W": "5",
+            "LD": "6+",
+            "OC": "1"
+        },
+        "abilities": {
+            "core": "Deep Strike, Leader",
+            "faction": "Oath of Moment",
+            "1": "Astartes Banner: While this model is leading a unit, add 1 to the Objective Control characteristic of models in that unit.",
+            "2": "Keep the Banner High: While this model is leading a unit, each time a model in that unit makes an attack, add 1 to the Hit roll if that unit is below its Starting Strength, and add 1 to the Wound roll as well if that unit is Below Half-strength."
+        },
+        "wargear abilities": {
+            "1": "Terminator Storm Shield: The bearer has a Wounds characteristic of 6."
+        },
+        "invulnerable-save": "4+",
+        "weapons": {
+            "ranged-weapons": {
+                "1": {
+                    "name": "Storm bolter [RAPID FIRE 2]",
+                    "range": "24\"",
+                    "A": "2",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                }
+            },
+            "melee-weapons": {
+                "1": {
+                    "name": "Chainfist [ANTI-VEHICLE 3+]",
+                    "range": "Melee",
+                    "A": "4",
+                    "WS": "3+",
+                    "S": "8",
+                    "AP": "-2",
+                    "D": "2"
+                },
+                "2": {
+                    "name": "Close combat weapon",
+                    "range": "Melee",
+                    "A": "5",
+                    "WS": "2+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1"
+                },
+                "3": {
+                    "name": "Power fist",
+                    "range": "Melee",
+                    "A": "5",
+                    "WS": "2+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1"
+                },
+                "4": {
+                    "name": "Power weapon",
+                    "range": "Melee",
+                    "A": "5",
+                    "WS": "2+",
+                    "S": "5",
+                    "AP": "-2",
+                    "D": "1"
+                },
+                "5": {
+                    "name": "Thunder hammer [DEVASTATING WOUNDS]",
+                    "range": "Melee",
+                    "A": "4",
+                    "WS": "3+",
+                    "S": "8",
+                    "AP": "-2",
+                    "D": "2"
+                },
+                "6": {
+                    "name": "Twin lightning claws [TWIN-LINKED]",
+                    "range": "Melee",
+                    "A": "6",
+                    "WS": "2+",
+                    "S": "5",
+                    "AP": "-2",
+                    "D": "1"
+                }
+            }
+        },
+        "wargear-options": {
+            "1": {
+                "description": "This model's power fist can be replaced with one of the following:",
+                "option1": "1 chainfist",
+                "option2": "1 close combat weapon",
+                "option3": "1 power weapon",
+                "option4": "1 thunder hammer"
+            },
+            "2": {
+                "description": "This model's storm bolter and power fist can be replaced with one of the following:",
+                "option1": "1 twin lightning claws",
+                "option2": "1 thunder hammer and 1 Terminator storm shield"
+            }
+        },
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "1 Ancient in Terminator Armour"
+            },
+            "default-weapons": {
+                "1": "This model is equipped with: storm bolter; power fist."
+            }
+        },
+        "leader": {
+            "rule": "This model can be attached to the following units:",
+            "special-rule": "You can attach this model to one of the above units even if one Captain, Chapter Master or Lieutenant model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths.",
+            "units": {
+                "1": "Relic Terminator Squad",
+                "2": "Terminator Squad",
+                "3": "Terminator Assault Squad"
+            }
+        },
+        "keywords": {
+            "1": "Infantry",
+            "2": "Character",
+            "3": "Imperium",
+            "4": "Terminator",
+            "5": "Ancient"
+        },
+        "faction-keywords": {
+            "1": "Adeptus Astartes"
+        }
+    },
+    {
+        "unit-name": "Bladegaurd Veteran Squad",
+        "uri-name": "bladegaurd-veteran-squad",
+        "unit-description": "Bladeguard Veterans are inexorable warriors, advancing relentlessly with blades held high - the very image of noble knights of myth. Members of their Chapter's elite 1st Company of Veterans, each of these vastly experienced Space Marines has fought to preserve the Imperium across uncounted worlds.",
+        "profiles": {
+            "M": "6\"",
+            "T": "4",
+            "SV": "3+",
+            "W": "3",
+            "LD": "6+",
+            "OC": "1"
+        },
+        "abilities": {
+            "core": "",
+            "faction": "Oath of Moment",
+            "1": "Bladeguard: At the start of the Fight phase, you can select one of the following abilities to apply to models in this unit until the end of the phase:\nSwords of the Imperium: Each time a model in this unit makes a melee attack, re-roll a Hit roll of 1.\nShields of the Imperium: Each time an invulnerable saving throw is made for a model in this unit, re-roll a saving throw of 1."
+        },
+        "wargear abilities": {
+        },
+        "invulnerable-save": "4+",
+        "weapons": {
+            "ranged-weapons": {
+                "1": {
+                    "name": "Heavy bolt pistol [PISTOL]",
+                    "range": "18\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "-1",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "2": {
+                    "name": "Neo-volkite pistol [DEVASTATING WOUNDS, PISTOL]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "5",
+                    "AP": "0",
+                    "D": "2",
+                    "profile-selection": ""
+                },
+                "3": {
+                    "name": "Plasma pistol - standard [PISTOL]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "7",
+                    "AP": "-2",
+                    "D": "1",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+                },
+                "4": {
+                    "name": "Plasma Pistol - supercharge [HAZARDOUS, PISTOL]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "8",
+                    "AP": "-3",
+                    "D": "2",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+                }
+            },
+            "melee-weapons": {
+                "1": {
+                    "name": "Master-crafted power weapon",
+                    "range": "Melee",
+                    "A": "4",
+                    "WS": "3+",
+                    "S": "5",
+                    "AP": "-2",
+                    "D": "2"
+                }
+            }
+        },
+        "wargear-options": {
+            "1": {
+                "description": "The Bladeguard Veteran Sergeant’s heavy bolt pistol can be replaced with one of the following:",
+                "option1": "1 neo-volkite pistol",
+                "option2": "1 plasma pistol"
+            }
+        },
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "1 Bladeguard Veteran Sergeant",
+                "2": "2-5 Bladeguard Veterans"
+            },
+            "default-weapons": {
+                "1": "Every model is equipped with: heavy bolt pistol; master-crafted power weapon."
+            }
+        },
+        "leader": {
+            "rule": "",
+            "special-rule": "",
+            "units": {
+            }
+        },
+        "keywords": {
+            "1": "Infantry",
+            "2": "Grenades",
+            "3": "Imperium",
+            "4": "Tacticus",
+            "5": "Bladegaurd Veteran Squad"
+        },
+        "faction-keywords": {
+            "1": "Adeptus Astartes"
+        }
+    },
+    {
+        "unit-name": "Command Squad",
+        "uri-name": "command-squad",
+        "unit-description": "Command Squads accompany a Chapter's high-ranking officers. These veterans and specialists serve as honour guards and provide vital support to a commander. Champions defend their Company with martial excellence, Ancients guard its inspirational relic banners and Apothecaries tend to injuries or preserve the gene-seed of the fallen.",
+        "profiles": {
+            "M": "6\"",
+            "T": "4",
+            "SV": "3+",
+            "W": "3",
+            "LD": "6+",
+            "OC": "1"
+        },
+        "abilities": {
+            "core": "",
+            "faction": "Oath of Moment",
+            "1": "Narthecium: While this unit contains an Apothecary, in your Command phase, you can return 1 destroyed model (excluding Character models) to this unit.",
+            "2": "Astartes Banner: While this unit contains a Company Ancient, add 1 to the Objective Control characteristic of models in this unit.",
+            "3": "Honour or Death: While this unit contains a Company Champion, add 1 to Advance and Charge rolls made for this unit and you can target this unit with the Heroic Intervention Stratagem for 0CP, even if you have already used that Stratagem on a different unit this phase."
+        },
+        "wargear abilities": {
+            "1": "Astartes Shield: The bearer has a 4+ invulnerable save."
+        },
+        "invulnerable-save": "",
+        "weapons": {
+            "ranged-weapons": {
+                "1": {
+                    "name": "Bolt Pistol [PISTOL]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "2": {
+                    "name": "Boltgun",
+                    "range": "24\"",
+                    "A": "2",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "3": {
+                    "name": "Flamer [IGNORES COVER, TORRENT]",
+                    "range": "12\"",
+                    "A": "D6",
+                    "BS": "n/a",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "4": {
+                    "name": "Grav-gun [ANTI-VEHICLE 2+]",
+                    "range": "18\"",
+                    "A": "2",
+                    "BS": "3+",
+                    "S": "5",
+                    "AP": "-1",
+                    "D": "2",
+                    "profile-selection": ""
+                },
+                "5": {
+                    "name": "Meltagun [MELTA 2]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "9",
+                    "AP": "-4",
+                    "D": "D6",
+                    "profile-selection": ""
+                },
+                "6": {
+                    "name": "Plasma gun - standard [RAPID FIRE 1]",
+                    "range": "24\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "7",
+                    "AP": "-2",
+                    "D": "1",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+                },
+                "7": {
+                    "name": "Plasma gun - supercharge [HAZARDOUS, RAPID FIRE 1]",
+                    "range": "24\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "8",
+                    "AP": "-3",
+                    "D": "2",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+                }
+            },
+            "melee-weapons": {
+                "1": {
+                    "name": "Astartes chainsword",
+                    "range": "Melee",
+                    "A": "4",
+                    "WS": "3+",
+                    "S": "4",
+                    "AP": "-1",
+                    "D": "1"
+                },
+                "2": {
+                    "name": "Close combat weapon",
+                    "range": "Melee",
+                    "A": "3",
+                    "WS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1"
+                },
+                "3": {
+                    "name": "Champion's blade [PRECISION]",
+                    "range": "Melee",
+                    "A": "4",
+                    "WS": "3+",
+                    "S": "5",
+                    "AP": "-2",
+                    "D": "2"
+                },
+                "4": {
+                    "name": "Power fist",
+                    "range": "Melee",
+                    "A": "2",
+                    "WS": "3+",
+                    "S": "8",
+                    "AP": "-2",
+                    "D": "2"
+                },
+                "5": {
+                    "name": "Power weapon",
+                    "range": "Melee",
+                    "A": "3",
+                    "WS": "3+",
+                    "S": "5",
+                    "AP": "-2",
+                    "D": "1"
+                },
+                "6": {
+                    "name": "Thunder hammer [DEVASTATING WOUNDS]",
+                    "range": "Melee",
+                    "A": "2",
+                    "WS": "4+",
+                    "S": "8",
+                    "AP": "-2",
+                    "D": "2"
+                },
+                "7": {
+                    "name": "Twin lightning claws [TWIN-LINKED]",
+                    "range": "Melee",
+                    "A": "4",
+                    "WS": "3+",
+                    "S": "4",
+                    "AP": "-2",
+                    "D": "1"
+                }
+            }
+        },
+        "wargear-options": {
+            "1": {
+                "description": "Any number of models can each have their bolt pistol replaced with one of the following:",
+                "option1": "1 hand flamer [The profile for this weapon can be found on the Adeptus Astartes Armoury card.]",
+                "option2": "1 grav-pistol [The profile for this weapon can be found on the Adeptus Astartes Armoury card.]",
+                "option3": "1 inferno pistol [The profile for this weapon can be found on the Adeptus Astartes Armoury card.]",
+                "option4": "1 plasma pistol [The profile for this weapon can be found on the Adeptus Astartes Armoury card.]"
+            },
+            "2": {
+                "description": "Any number of Company Veterans can each have their bolt pistol replaced with 1 Astartes shield."
+            },
+            "3": {
+                "description": "Any number of Company Veterans can each have their bolt pistol and boltgun replaced with 1 twin lightning claws"
+            },
+            "4": {
+                "description": "The Company Ancient's bolt pistol can be replaced with one of the following:",
+                "option1": "1 boltgun",
+                "option2": "1 combi-weapon [The profile for this weapon can be found on the Adeptus Astartes Armoury card.]"
+            },
+            "5": {
+                "description": "Any number of Company Veterans can each have their boltgun replaced with one of the following: ",
+                "option1": "1 Astartes chainsword",
+                "option2": "1 Astartes shield",
+                "option3": "1 combi-weapon [The profile for this weapon can be found on the Adeptus Astartes Armoury card.]",
+                "option4": "1 flamer",
+                "option5": "1 heavy bolter [The profile for this weapon can be found on the Adeptus Astartes Armoury card.]",
+                "option6": "1 heavy flamer [The profile for this weapon can be found on the Adeptus Astartes Armoury card.]",
+                "option7": "1 grav-cannon [The profile for this weapon can be found on the Adeptus Astartes Armoury card.]",
+                "option8": "1 grav-gun",
+                "option9": "1 lascannon [The profile for this weapon can be found on the Adeptus Astartes Armoury card.]",
+                "option10": "1 meltagun",
+                "option11": "1 missile launcher [The profile for this weapon can be found on the Adeptus Astartes Armoury card.]",
+                "option12": "1 multi-melta [The profile for this weapon can be found on the Adeptus Astartes Armoury card.]",
+                "option13": "1 plasma cannon [The profile for this weapon can be found on the Adeptus Astartes Armoury card.]",
+                "option14": "1 plasma gun",
+                "option15": "1 storm bolter [The profile for this weapon can be found on the Adeptus Astartes Armoury card.]",
+                "option16": "1 power fist",
+                "option17": "1 power weapon",
+                "option18": "1 thunder hammer"
+            }
+        },
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "1 Apothecary",
+                "2": "1 Company Ancient",
+                "3": "1 Company Champion",
+                "4": "2 Company Veterans"
+            },
+            "default-weapons": {
+                "1": "The Apothecary is equipped with: bolt pistol; Astartes chainsword.",
+                "2": "The Company Ancient is equipped with: bolt pistol; close combat weapon.",
+                "3": "The Company Champion is equipped with: bolt pistol; Champion's blade; Astartes shield.",
+                "4": "Each Company Veteran is equipped with: bolt pistol; boltgun, close combat weapon."
+            }
+        },
+        "leader": {
+            "rule": "",
+            "special-rule": "",
+            "units": {}
+        },
+        "keywords": {
+            "1": "Infantry",
+            "2": "Grenades",
+            "3": "Imperium",
+            "4": "Command Squad"
+        },
+        "faction-keywords": {
+            "1": "Adeptus Astartes"
+        }
+    },
+    {
+        "unit-name": "Vangaurd Veteran Squad",
+        "uri-name": "vagaurd-veteran-squad",
+        "unit-description": "Vanguard Veterans are close combat experts with decades of experience. They arm themselves with the finest melee weapons from their Chapter's armouries. Their peerless skills and armaments make them some of the most fearsome assault specialists in the Imperium.",
+        "profiles": {
+            "M": "6\"",
+            "T": "4",
+            "SV": "3+",
+            "W": "2",
+            "LD": "6+",
+            "OC": "1"
+        },
+        "abilities": {
+            "core": "Scouts 6\"",
+            "faction": "Oath of Moment",
+            "1": "Vanguard Assault: Each time this unit ends a Charge move, until the end of the turn, melee weapons equipped by models in this unit have the [LETHAL HITS] ability."
+        },
+        "wargear abilities": {
+            "1": "Storm Shield: The bearer has a 4+ invulnerable save."
+        },
+        "invulnerable-save": "",
+        "weapons": {
+            "ranged-weapons": {
+                "1": {
+                    "name": "Bolt Pistol [PISTOL]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "2": {
+                    "name": "Grav-pistol [ANTI-VEHICLE 2+, PISTOL]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "-1",
+                    "D": "2",
+                    "profile-selection": ""
+                },
+                "3": {
+                    "name": "Hand flamer [IGNORES COVER, PISTOL, TORRENT]",
+                    "range": "12\"",
+                    "A": "D6",
+                    "BS": "n/a",
+                    "S": "3",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "4": {
+                    "name": "Inferno pistol [MELTA 2, PISTOL]",
+                    "range": "6\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "8",
+                    "AP": "-4",
+                    "D": "D3",
+                    "profile-selection": ""
+                },
+                "5": {
+                    "name": "Plasma pistol - standard [PISTOL]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "7",
+                    "AP": "-2",
+                    "D": "1",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+                },
+                "6": {
+                    "name": "Plasma cannon - supercharge [BLAST, HAZARDOUS, HEAVY]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "8",
+                    "AP": "-3",
+                    "D": "2",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+                }
+            },
+            "melee-weapons": {
+                "1": {
+                    "name": "Heirloom weapon",
+                    "range": "Melee",
+                    "A": "4",
+                    "WS": "3+",
+                    "S": "5",
+                    "AP": "-1",
+                    "D": "1"
+                }
+            }
+        },
+        "wargear-options": {
+            "1": {
+                "description": "Any number of models can each have their bolt pistol replaced one of the following:",
+                "option1": "1 storm shield",
+                "option2": "1 grav-pistol",
+                "option3": "1 hand flamer",
+                "option4": "1 inferno pistol",
+                "option5": "1 plasma pistol"
+            }
+        },
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "1 Vanguard Veteran Sergeant",
+                "2": "4-9 Vanguard Veterans"
+            },
+            "default-weapons": {
+                "1": "Every model is equipped with: bolt pistol; heirloom weapon."
+            }
+        },
+        "leader": {
+            "rule": "",
+            "special-rule": "",
+            "units": {}
+        },
+        "keywords": {
+            "1": "Infantry",
+            "2": "Grenades",
+            "3": "Imperium",
+            "4": "Vanguard Veteran Squad"
+        },
+        "faction-keywords": {
+            "1": "Adeptus Astartes"
+        }
+    },
+    {
+        "unit-name": "Vangaurd Veteran Squad - With Jump Packs",
+        "uri-name": "vangaurd-veteran-squad-with-jump-packs",
+        "unit-description": "On the battlefield, Vanguard Veteran Squads with jump packs are peerless rapidresponse troops as well as line-breakers. With great plumes of fire extending behind them they can arrive at the perfect time and place to ensure the decisiveness of an assault or utterly break an enemy incursion.",
+        "profiles": {
+            "M": "12\"",
+            "T": "4",
+            "SV": "3+",
+            "W": "2",
+            "LD": "6+",
+            "OC": "1"
+        },
+        "abilities": {
+            "core": "Deep Strike",
+            "faction": "Oath of Moment",
+            "1": "Vanguard Assault: Each time this unit ends a Charge move, until the end of the turn, melee weapons equipped by models in this unit have the [LETHAL HITS] ability."
+        },
+        "wargear abilities": {
+            "1": "Storm Shield: The bearer has a 4+ invulnerable save."
+        },
+        "invulnerable-save": "",
+        "weapons": {
+            "ranged-weapons": {
+                "1": {
+                    "name": "Bolt Pistol [PISTOL]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "2": {
+                    "name": "Grav-pistol [ANTI-VEHICLE 2+, PISTOL]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "-1",
+                    "D": "2",
+                    "profile-selection": ""
+                },
+                "3": {
+                    "name": "Hand flamer [IGNORES COVER, PISTOL, TORRENT]",
+                    "range": "12\"",
+                    "A": "D6",
+                    "BS": "n/a",
+                    "S": "3",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "4": {
+                    "name": "Inferno pistol [MELTA 2, PISTOL]",
+                    "range": "6\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "8",
+                    "AP": "-4",
+                    "D": "D3",
+                    "profile-selection": ""
+                },
+                "5": {
+                    "name": "Plasma pistol - standard [PISTOL]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "7",
+                    "AP": "-2",
+                    "D": "1",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+                },
+                "6": {
+                    "name": "Plasma cannon - supercharge [BLAST, HAZARDOUS, HEAVY]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "8",
+                    "AP": "-3",
+                    "D": "2",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+                }
+            },
+            "melee-weapons": {
+                "1": {
+                    "name": "Heirloom weapon",
+                    "range": "Melee",
+                    "A": "4",
+                    "WS": "3+",
+                    "S": "5",
+                    "AP": "-1",
+                    "D": "1"
+                }
+            }
+        },
+        "wargear-options": {
+            "1": {
+                "description": "Any number of models can each have their bolt pistol replaced one of the following: ",
+                "option1": "1 storm shield",
+                "option2": "1 grav-pistol",
+                "option3": "1 hand flamer",
+                "option4": "1 inferno pistol",
+                "option5": "1 plasma pistol"
+            }
+        },
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "1 Vanguard Veteran Sergeant with Jump Pack",
+                "2": "4-9 Vanguard Veterans with Jump Packs"
+            },
+            "default-weapons": {
+                "1": "Every model is equipped with: bolt pistol; heirloom weapon."
+            }
+        },
+        "leader": {
+            "rule": "",
+            "special-rule": "",
+            "units": {}
+        },
+        "keywords": {
+            "1": "Infantry",
+            "2": "Grenades",
+            "3": "Jump Pack",
+            "4": "Fly",
+            "5": "Imperium",
+            "6": "Vangaurd Veteran Squad With Jump Packs"
+        },
+        "faction-keywords": {
+            "1": "Adeptus Astartes"
+        }
+    },
+    {
+        "unit-name": "Sterngaurd Veteran Squad",
+        "uri-name": "sterngaurd-veteran-squad",
+        "unit-description": "Sternguard Veterans are possessed of an unshakeable calm, and are renowned amongst their brothers for their exemplary marksmanship in the fiercest battles. Proficient in all of the Chapter's ranged weaponry, they can always be found where their pinpoint volleys will best shatter the foe.",
+        "profiles": {
+            "M": "6\"",
+            "T": "4",
+            "SV": "3+",
+            "W": "2",
+            "LD": "6+",
+            "OC": "1"
+        },
+        "abilities": {
+            "core": "",
+            "faction": "Oath of Moment",
+            "1": "Bolter Drill: Once per battle, in your Shooting phase, after this unit has shot, if one or more enemy units were destroyed as a result of those attacks, this unit can shoot again."
+        },
+        "wargear abilities": {
+        },
+        "invulnerable-save": "",
+        "weapons": {
+            "ranged-weapons": {
+                "1": {
+                    "name": "Combi-weapon [ANTI-INFANTRY 4+, DEVASTATING WOUNDS, RAPID FIRE 1]",
+                    "range": "24\"",
+                    "A": "1",
+                    "BS": "4+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "2": {
+                    "name": "Sterngaurd bolt pistol [DEVASTATING WOUNDS, PISTOL]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "3": {
+                    "name": "Sterngaurd bolt rifle [ASSAULT, DEVASTATING WOUNDS, HEAVY, RAPID FIRE 1]",
+                    "range": "24\"",
+                    "A": "2",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "-1",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "4": {
+                    "name": "Sterngaurd heavy bolter [DEVASTATING WOUNDS, HEAVY, SUSTAINED HITS 1]",
+                    "range": "36\"",
+                    "A": "3",
+                    "BS": "4+",
+                    "S": "5",
+                    "AP": "-1",
+                    "D": "2",
+                    "profile-selection": ""
+                }
+            },
+            "melee-weapons": {
+                "1": {
+                    "name": "Close combat weapon",
+                    "range": "Melee",
+                    "A": "4",
+                    "WS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1"
+                }
+            }
+        },
+        "wargear-options": {
+            "1": {
+                "description": "Any number of models can each have their Sternguard bolt rifle replaced with 1 combi-weapon."
+            },
+            "2": {
+                "description": "For every 5 models in this unit, 1 Sternguard Veteran's Sternguard bolt rifle can be replaced with 1 Sternguard heavy bolter."
+            }
+        },
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "1 Sternguard Veteran Sergeant",
+                "2": "4-9 Sternguard Veterans"
+            },
+            "default-weapons": {
+                "1": "Every model is equipped with: Sternguard bolt pistol; Sternguard bolt rifle; close combat weapon."
+            }
+        },
+        "leader": {
+            "rule": "",
+            "special-rule": "",
+            "units": {}
+        },
+        "keywords": {
+            "1": "Infantry",
+            "2": "Grenades",
+            "3": "Imperium",
+            "4": "Tacticus",
+            "5": "Sternguard Veteran Squad"
+        },
+        "faction-keywords": {
+            "1": "Adeptus Astartes"
+        }
+    },
+    {
+        "unit-name": "Judiciar",
+        "uri-name": "judiciar",
+        "unit-description": "Sworn to silence, Judiciars do not preach aloud, but instead their deeds are a litany of fury. Wielding a tempormortis in one hand and an immense blade in the other, they must prove their worth in battle to join the Chaplaincy proper, doing so through acts of devotion and the slaying of enemies.",
+        "profiles": {
+            "M": "6\"",
+            "T": "4",
+            "SV": "3+",
+            "W": "4",
+            "LD": "5+",
+            "OC": "1"
+        },
+        "abilities": {
+            "core": "Leader",
+            "faction": "Oath of Moment",
+            "1": "Tempormortis: While this model is leading a unit, that unit has the Fights First ability.",
+            "2": "Silent Fury: Each time this model destroys an enemy Character model, until the end of the battle, add 1 to the Attacks characteristic of its executioner relic blade."
+        },
+        "wargear abilities": {
+        },
+        "invulnerable-save": "4+",
+        "weapons": {
+            "ranged-weapons": {
+                "1": {
+                    "name": "Absolver bolt pistol [PISTOL]",
+                    "range": "18\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "5",
+                    "AP": "-1",
+                    "D": "2",
+                    "profile-selection": ""
+                }
+            },
+            "melee-weapons": {
+                "1": {
+                    "name": "Executioner relic blade [DEVASTATING WOUNDS, PRECISION]",
+                    "range": "Melee",
+                    "A": "5",
+                    "WS": "2+",
+                    "S": "7",
+                    "AP": "-2",
+                    "D": "2"
+                }
+            }
+        },
+        "wargear-options": {
+        },
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "1 Judiciar"
+            },
+            "default-weapons": {
+                "1": "This model is equipped with: absolvor bolt pistol; executioner relic blade."
+            }
+        },
+        "leader": {
+            "rule": "This model can be attached to the following units:",
+            "special-rule": "",
+            "units": {
+                "1": "Assault Intercessor Squad",
+                "2": "Bladeguard Veteran Squad",
+                "3": "Infernus Squad",
+                "4": "Intercessor Squad",
+                "5": "Sternguard Veteran Squad"
+            }
+        },
+        "keywords": {
+            "1": "Infantry",
+            "2": "Character",
+            "3": "Imperium",
+            "4": "Tacticus",
+            "5": "Judiciar"
+        },
+        "faction-keywords": {
+            "1": "Adeptus Astartes"
+        }
+    },
+    {
+        "unit-name": "Reiver Squad",
+        "uri-name": "reiver-squad",
+        "unit-description": "Rapid-insertion terror troops, Reiver Squads often deploy using grav-chutes and directional fins to land with pinpoint accuracy. Operating with near perfect stealth to reach the optimum location to strike from, when ready they unleash their fury, surging forward with augmented guttural roars and blasts of weapons fire.",
+        "profiles": {
+            "M": "6\"",
+            "T": "4",
+            "SV": "3+",
+            "W": "2",
+            "LD": "6+",
+            "OC": "1"
+        },
+        "abilities": {
+            "core": "Scouts 6\"",
+            "faction": "Oath of Moment",
+            "1": "Fearsome Assault: At the start of the Fight phase, each enemy unit within Engagement Range of one or more units with this ability must take a Battle-shock test. ",
+            "2": "Terror Troops (Aura): While an enemy unit is within 6\" of this unit, each time that unit takes a Battle-shock or Leadership test, subtract 1 from that test."
+        },
+        "wargear abilities": {
+            "1": "Grapnel Launcher: Each time the bearer's unit makes aNormal, Advance, Fall Back or Charge move, ignore any vertical distance when determining the total distance the bearer can be moved during that move.",
+            "2": "Reiver Grav-chute: The bearer has the Deep Strike ability."
+        },
+        "invulnerable-save": "",
+        "weapons": {
+            "ranged-weapons": {
+                "1": {
+                    "name": "Bolt carbine [PRECISION]",
+                    "range": "24\"",
+                    "A": "2",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "2": {
+                    "name": "Special issue bolt pistol [PISTOL, PRECISION]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "-1",
+                    "D": "1",
+                    "profile-selection": ""
+                }
+            },
+            "melee-weapons": {
+                "1": {
+                    "name": "Close combat weapon",
+                    "range": "Melee",
+                    "A": "3",
+                    "WS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1"
+                },
+                "2": {
+                    "name": "Combat knife [PRECISION]",
+                    "range": "Melee",
+                    "A": "4",
+                    "WS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1"
+                }
+            }
+        },
+        "wargear-options": {
+            "1": {
+                "description": "All models in this unit can each have their combat knife replaced with 1 bolt carbine and 1 close combat weapon."
+            },
+            "2": {
+                "description": "If the Reiver Sergeant is equipped with 1 bolt carbine, it can be equipped with 1 combat knife."
+            },
+            "3": {
+                "description": "All models in this unit can each be equipped with 1 Reiver grav-chute"
+            },
+            "4": {
+                "description": "All models in this unit can each be equipped with 1 grapnel launcher."
+            }
+        },
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "1 Reiver Sergeant",
+                "2": "4-9 Reivers"
+            },
+            "default-weapons": {
+                "1": "Every model is equipped with: special issue bolt pistol; combat knife."
+            }
+        },
+        "leader": {
+            "rule": "",
+            "special-rule": "",
+            "units": {}
+        },
+        "keywords": {
+            "1": "Infantry",
+            "2": "Grenades",
+            "3": "Smoke",
+            "4": "Imperium",
+            "5": "Phobos",
+            "6": "Reiver Squad"
+        },
+        "faction-keywords": {
+            "1": "Adeptus Astartes"
+        }
+    },
+    {
+        "unit-name": "Aggressor Squad",
+        "uri-name": "aggressor-squad",
+        "unit-description": "Capable of spearheading devastating offensives or shattering the most determined enemy assaults, Aggressors are walking ceramite strongpoints. They excel at close-quarters combat and laying down torrents of devastating fire before crushing their foes beneath their energised fists.",
+        "profiles": {
+            "M": "5\"",
+            "T": "6",
+            "SV": "3+",
+            "W": "3",
+            "LD": "6+",
+            "OC": "1"
+        },
+        "abilities": {
+            "core": "",
+            "faction": "Oath of Moment",
+            "1": "Close-quarters Firepower: Each time a model in this unit makes a ranged attack that targets the closest eligible target, improve the Armour Penetration characteristic of that attack by 1."
+        },
+        "wargear abilities": {
+        },
+        "invulnerable-save": "",
+        "weapons": {
+            "ranged-weapons": {
+                "1": {
+                    "name": "Auto boltstorm gauntlets [TWIN-LINKED]",
+                    "range": "18\"",
+                    "A": "3",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "2": {
+                    "name": "Flamestorm gauntlets [IGNORES COVER, TORRENT, TWIN-LINKED]",
+                    "range": "12\"",
+                    "A": "D6+1",
+                    "BS": "n/a",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "3": {
+                    "name": "Fragstorm grenade launcher [BLAST]",
+                    "range": "18\"",
+                    "A": "D6",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                }
+            },
+            "melee-weapons": {
+                "1": {
+                    "name": "Power fist",
+                    "range": "Melee",
+                    "A": "3",
+                    "WS": "4+",
+                    "S": "8",
+                    "AP": "-2",
+                    "D": "2"
+                }
+            }
+        },
+        "wargear-options": {
+            "1": {
+                "description": "All models in this unit can each have their flamestorm gauntlets replaced with 1 auto boltstorm gauntlets and 1 fragstorm grenade launcher."
+            }
+        },
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "1 Aggressor Sergeant",
+                "2": "2-5 Aggressors"
+            },
+            "default-weapons": {
+                "1": "Every model is equipped with: flamestorm gauntlets; power fist."
+            }
+        },
+        "leader": {
+            "rule": "",
+            "special-rule": "",
+            "units": {}
+        },
+        "keywords": {
+            "1": "Infantry",
+            "2": "Imperium",
+            "3": "Gravis",
+            "4": "Aggressor Squad"
+        },
+        "faction-keywords": {
+            "1": "Adeptus Astartes"
+        }
+    },
+    {
+        "unit-name": "Terminator Assault Squad",
+        "uri-name": "terminator-assault-squad",
+        "unit-description": "Terminator Assault Squads are armed with devastating close-combat weaponry perfect for ferocious vanguard assaults and savage boarding actions. They rush to engage the enemy's greatest warriors, shredding the foe with lightning claws or shattering their skulls with thunder hammers.",
+        "profiles": {
+            "M": "5\"",
+            "T": "5",
+            "SV": "2+",
+            "W": "3",
+            "LD": "6+",
+            "OC": "1"
+        },
+        "abilities": {
+            "core": "Deep Strike",
+            "faction": "Oath of Moment",
+            "1": "Teleport Homer: At the start of the battle, you can set up one Teleport Homer token for this unit anywhere on the battlefield that is not in your opponent's deployment zone. If you do, once per battle, you can target this unit with the Rapid Ingress Stratagem for 0CP, but when resolving that Stratagem, you must set this unit up within 3\" horizontally of that token and not within 9\" horizontally of any enemy models. That token is then removed.",
+            "2": "Terminatus Assault: Each time this unit ends a Charge move, each enemy unit within Engagement Range of this unit must take a Battle-shock test."
+        },
+        "wargear abilities": {
+            "1": "Storm Shield: The bearer has a Wounds characteristic of 4."
+        },
+        "invulnerable-save": "4+",
+        "weapons": {
+            "ranged-weapons": {},
+            "melee-weapons": {
+                "1": {
+                    "name": "Thunder hammer [DEVASTATING WOUNDS]",
+                    "range": "Melee",
+                    "A": "3",
+                    "WS": "4+",
+                    "S": "8",
+                    "AP": "-2",
+                    "D": "2"
+                },
+                "2": {
+                    "name": "Twin lightning claws [TWIN-LINKED]",
+                    "range": "Melee",
+                    "A": "5",
+                    "WS": "3+",
+                    "S": "5",
+                    "AP": "-2",
+                    "D": "1"
+                }
+            }
+        },
+        "wargear-options": {
+            "1": {
+                "description": "Any number of models can each have their thunder hammer and storm shield replaced with 1 twin lightning claws."
+            }
+        },
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "1 Assault Terminator Sergeant",
+                "2": "4-9 Assault Terminators"
+            },
+            "default-weapons": {
+                "1": "Every model is equipped with: thunder hammer; storm shield."
+            }
+        },
+        "leader": {
+            "rule": "",
+            "special-rule": "",
+            "units": {}
+        },
+        "keywords": {
+            "1": "Infantry",
+            "2": "Imperium",
+            "3": "Terminator",
+            "4": "Terminator Assault Squad"
+        },
+        "faction-keywords": {
+            "1": "Adeptus Astartes"
+        }
+    },
+    {
+        "unit-name": "Terminator Squad",
+        "uri-name": "terminator-squad",
+        "unit-description": "Terminator armour is a marvel of technology that enables its wearer to survive anything, from the stresses of teleportation to earth-shaking artillery bombardments. So equipped, Terminator Squads can appear in the midst of the foe or stride unstoppably across the field towards them, firing their weapons all the while.",
+        "profiles": {
+            "M": "5\"",
+            "T": "5",
+            "SV": "2+",
+            "W": "3",
+            "LD": "6+",
+            "OC": "1"
+        },
+        "abilities": {
+            "core": "Deep Strike",
+            "faction": "Oath of Moment",
+            "1": "Teleport Homer: At the start of the battle, you can set up one Teleport Homer token for this unit anywhere on the battlefield that is not in your opponent's deployment zone. If you do, once per battle, you can target this unit with the Rapid Ingress Stratagem for 0CP, but when resolving that Stratagem, you must set this unit up within 3\" horizontally of that token and not within 9\" horizontally of any enemy models. That token is then removed.",
+            "2": "Fury of the First: Each time a model in this unit makes an attack, you can ignore any or all modifiers to that attack's Ballistic Skill or Weapon Skill characteristic and/or to the Hit roll. In addition, each time a model in this unit makes an attack that targets the enemy unit you selected for the Oath of Moment ability this turn, add 1 to the Hit roll."
+        },
+        "wargear abilities": {
+        },
+        "invulnerable-save": "4+",
+        "weapons": {
+            "ranged-weapons": {
+                "1": {
+                    "name": "Assault cannon [DEVASTATING WOUNDS]",
+                    "range": "24\"",
+                    "A": "6",
+                    "WS": "3+",
+                    "S": "6",
+                    "AP": "0",
+                    "D": "1"
+                },
+                "2": {
+                    "name": "Cyclone missile launcher - frag [BLAST]",
+                    "range": "36\"",
+                    "A": "2D6",
+                    "WS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1"
+                },
+                "3": {
+                    "name": "Cyclone missile launcher - krak",
+                    "range": "36\"",
+                    "A": "2",
+                    "WS": "3+",
+                    "S": "9",
+                    "AP": "-2",
+                    "D": "D6"
+                },
+                "4": {
+                    "name": "Heavy flamer [IGNORES COVER, TORRENT]",
+                    "range": "12\"",
+                    "A": "D6",
+                    "WS": "n/a",
+                    "S": "5",
+                    "AP": "-1",
+                    "D": "1"
+                },
+                "5": {
+                    "name": "Storm bolter [RAPID FIRE 2]",
+                    "range": "24\"",
+                    "A": "2",
+                    "WS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1"
+                }
+            },
+            "melee-weapons": {
+                "1": {
+                    "name": "Chainfist [ANTI-VEHICLE 3+]",
+                    "range": "Melee",
+                    "A": "3",
+                    "WS": "4+",
+                    "S": "8",
+                    "AP": "-2",
+                    "D": "2"
+                },
+                "2": {
+                    "name": "Power fist",
+                    "range": "Melee",
+                    "A": "3",
+                    "WS": "3+",
+                    "S": "8",
+                    "AP": "-2",
+                    "D": "2"
+                },
+                "3": {
+                    "name": "Power weapon",
+                    "range": "Melee",
+                    "A": "4",
+                    "WS": "3+",
+                    "S": "5",
+                    "AP": "-2",
+                    "D": "1"
+                }
+            }
+        },
+        "wargear-options": {
+            "1": {
+                "description": "For every 5 models in this unit, 1 Terminator's storm bolter can be replaced with one of the following:",
+                "option1": "1 assault cannon",
+                "option2": "1 heavy flamer",
+                "option3": "1 cyclone missile launcher and 1 storm bolter [This model's storm bolter cannot be replaced]"
+            },
+            "2": {
+                "description": "Any number of models can each have their power fist replaced with 1 chainfist."
+            }
+        },
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "1 Terminator Sergeant",
+                "2": "4-9 Terminators"
+            },
+            "default-weapons": {
+                "1": "The Terminator Sergeant is equipped with: storm bolter; power weapon.",
+                "2": "Every Terminator is equipped with: storm bolter; power fist."
+            }
+        },
+        "leader": {
+            "rule": "",
+            "special-rule": "",
+            "units": {}
+        },
+        "keywords": {
+            "1": "Infantry",
+            "2": "Imperium",
+            "3": "Terminator",
+            "4": "Terminator Squad"
+        },
+        "faction-keywords": {
+            "1": "Adeptus Astartes"
+        }
+    },
+    {
+        "unit-name": "Relic Terminator Squad",
+        "uri-name": "relic-terminator-squad",
+        "unit-description": "Many Chapters possess suits of Terminator armour - such as those of the Cataphractii or Tartaros variety - that date back to the Great Crusade. Each is revered as a relic of the Chapter, and those privileged enough to wear them fight all the harder knowing the legacy of glory and sacrifice they bear",
+        "profiles": {
+            "M": "5\"",
+            "T": "5",
+            "SV": "2+",
+            "W": "3",
+            "LD": "6+",
+            "OC": "1"
+        },
+        "abilities": {
+            "core": "Deep Strike",
+            "faction": "Oath of Moment",
+            "1": "Fury of the First: Each time a model in this unit makes an attack, you can ignore any or all modifiers to that attack's Ballistic Skill or Weapon Skill characteristic and/or to the Hit roll. In addition, each time a model in this unit makes an attack that targets the enemy unit you selected for the Oath of Moment ability this turn, add 1 to the Hit roll."
+        },
+        "wargear abilities": {
+            "1": "Grenade Harness: The bearer has the Grenades keyword."
+        },
+        "invulnerable-save": "4+",
+        "weapons": {
+            "ranged-weapons": {
+                "1": {
+                    "name": "Combi-bolter [RAPID FIRE 2]",
+                    "range": "24\"",
+                    "A": "2",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "2": {
+                    "name": "Heavy flamer [IGNORES COVER, TORRENT]",
+                    "range": "12\"",
+                    "A": "D6",
+                    "BS": "n/a",
+                    "S": "5",
+                    "AP": "-1",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "3": {
+                    "name": "Plasma blaster - standard",
+                    "range": "18\"",
+                    "A": "2",
+                    "BS": "3+",
+                    "S": "7",
+                    "AP": "-2",
+                    "D": "1",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+                },
+                "4": {
+                    "name": "Plasma blaster - supercharge [HAZARDOUS]",
+                    "range": "18\"",
+                    "A": "2",
+                    "BS": "3+",
+                    "S": "8",
+                    "AP": "-3",
+                    "D": "2",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+                },
+                "5": {
+                    "name": "Reaper autocannon [DEVASTATING WOUNDS, SUSTAINED HITS 1]",
+                    "range": "18\"",
+                    "A": "2",
+                    "BS": "3+",
+                    "S": "5",
+                    "AP": "0",
+                    "D": "2",
+                    "profile-selection": ""
+                },
+                "6": {
+                    "name": "Volkite charger [DEVASTATING WOUNDS]",
+                    "range": "18\"",
+                    "A": "2",
+                    "BS": "3+",
+                    "S": "5",
+                    "AP": "0",
+                    "D": "2",
+                    "profile-selection": ""
+                }
+            },
+            "melee-weapons": {
+                "1": {
+                    "name": "Chainfist [ANTI-VEHICLE 3+]",
+                    "range": "Melee",
+                    "A": "3",
+                    "WS": "4+",
+                    "S": "8",
+                    "AP": "-2",
+                    "D": "2"
+                },
+                "2": {
+                    "name": "Power fist",
+                    "range": "Melee",
+                    "A": "3",
+                    "WS": "3+",
+                    "S": "8",
+                    "AP": "-2",
+                    "D": "1"
+                },
+                "3": {
+                    "name": "Power weapon",
+                    "range": "Melee",
+                    "A": "4",
+                    "WS": "3+",
+                    "S": "5",
+                    "AP": "-2",
+                    "D": "1"
+                },
+                "4": {
+                    "name": "Twin lightning claws [TWIN-LINKED]",
+                    "range": "Melee",
+                    "A": "5",
+                    "WS": "3+",
+                    "S": "5",
+                    "AP": "-2",
+                    "D": "1"
+                }
+            }
+        },
+        "wargear-options": {
+            "1": {
+                "description": "The Relic Terminator Sergeant's combi-bolter can be replaced with one of the following: ",
+                "option1": "1 plasma blaster",
+                "option2": "1 volkite charger"
+            },
+            "2": {
+                "description": "For every 5 models in this unit, 1 Relic Terminator's combi-bolter can be replaced with one of the following: ",
+                "option1": "1 heavy flamer",
+                "option2": "1 reaper autocannon"
+            },
+            "3": {
+                "description": "For every 5 models in this unit, 1 model can be equipped with 1 grenade harness."
+            },
+            "4": {
+                "description": "Any number of models can each have their power fist replaced with 1 power weapon."
+            },
+            "5": {
+                "description": "Any number of models can each have their power fist replaced with one 1 chainfist."
+            },
+            "6": {
+                "description": "Any number of models can each have their combi-bolter and power fist replaced with 1 twin lightning claws."
+            }
+        },
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "1 Relic Terminator Sergeant",
+                "2": "4-9 Relic Terminators"
+            },
+            "default-weapons": {
+                "1": "Every model is equipped with: combi-bolter; power fist."
+            }
+        },
+        "leader": {
+            "rule": "",
+            "special-rule": "",
+            "units": {}
+        },
+        "keywords": {
+            "1": "Infantry",
+            "2": "Imperium",
+            "3": "Terminator",
+            "4": "Relic Terminator Squad"
+        },
+        "faction-keywords": {
+            "1": "Adeptus Astartes"
+        }
+    },
+    {
+        "unit-name": "Centurion Assault Squad",
+        "uri-name": "centurion-assault-squad",
+        "unit-description": "There are few technologies better adapted for siege warfare than the Centurion Warsuit. Wading into thunderous storms of enemy fire, Centurion Assault Squads use their roaring siege drills to crack open armoured bunkers and tear apart tanks.",
+        "profiles": {
+            "M": "4\"",
+            "T": "7",
+            "SV": "2+",
+            "W": "4",
+            "LD": "6+",
+            "OC": "2"
+        },
+        "abilities": {
+            "core": "",
+            "faction": "Oath of Moment",
+            "1": "Annihilator Protocols: Melee weapons equipped by models in this unit have the [SUSTAINED HITS 2] ability when targeting Monster, Vehicle or Fortification units."
+        },
+        "wargear abilities": {
+            "1": "Centurion Assault Launcher: The bearer has the Grenades keyword."
+        },
+        "invulnerable-save": "",
+        "weapons": {
+            "ranged-weapons": {
+                "1": {
+                    "name": "Centurion bolters [RAPID FIRE 3, TWIN-LINKED]",
+                    "range": "24\"",
+                    "A": "3",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "2": {
+                    "name": "Twin flamer [IGNORES COVER, TORRENT, TWIN-LINKED]",
+                    "range": "12\"",
+                    "A": "D6",
+                    "BS": "n/a",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "3": {
+                    "name": "Twin meltagun [MELTA 2, TWIN-LINKED]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "9",
+                    "AP": "-4",
+                    "D": "D6",
+                    "profile-selection": ""
+                }
+            },
+            "melee-weapons": {
+                "1": {
+                    "name": "Siege drills [TWIN-LINKED]",
+                    "range": "Melee",
+                    "A": "3",
+                    "WS": "3+",
+                    "S": "10",
+                    "AP": "-2",
+                    "D": "3"
+                }
+            }
+        },
+        "wargear-options": {
+            "1": {
+                "description": "Any number of models can each have their twin flamer replaced with 1 twin meltagun."
+            },
+            "2": {
+                "description": "Any number of models can each have their Centurion bolters replaced with 1 Centurion assault launcher."
+            }
+        },
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "1 Assault Centurion Sergeant",
+                "2": "2-5 Assault Centurions"
+            },
+            "default-weapons": {
+                "1": "Every model is equipped with: twin flamer; siege drills; Centurion bolters."
+            }
+        },
+        "leader": {
+            "rule": "",
+            "special-rule": "",
+            "units": {}
+        },
+        "keywords": {
+            "1": "Infantry",
+            "2": "Imperium",
+            "3": "Centurion",
+            "4": "Centurion Assault Squad"
+        },
+        "faction-keywords": {
+            "1": "Adeptus Astartes"
+        }
+    },
+    {
+        "unit-name": "Centurion Devastator Squad",
+        "uri-name": "centurion-devastator-squad",
+        "unit-description": "Centurion Devastator Squads dominate the field of battle, their presence dictating the flow of action. They frequently operate with Stormraven Gunships, which transport the Space Marines inside their bulky warsuits to the next position, where they function as an armoured firebase to clear enemy-held positions of all opposition.",
+        "profiles": {
+            "M": "4\"",
+            "T": "7",
+            "SV": "2+",
+            "W": "4",
+            "LD": "6+",
+            "OC": "2"
+        },
+        "abilities": {
+            "core": "",
+            "faction": "Oath of Moment",
+            "1": "Decimator Protocols: Each time a model in this unit makes a ranged attack, re-roll a Hit roll of 1. If the target of that attack is an enemy unit within range of an objective marker, you can re-roll the Hit roll instead."
+        },
+        "wargear abilities": {},
+        "invulnerable-save": "",
+        "weapons": {
+            "ranged-weapons": {
+                "1": {
+                    "name": "Centurion bolters [RAPID FIRE 3, TWIN-LINKED]",
+                    "range": "24\"",
+                    "A": "3",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "2": {
+                    "name": "Centurion missile launcher [BLAST]",
+                    "range": "36\"",
+                    "A": "D3",
+                    "BS": "3+",
+                    "S": "9",
+                    "AP": "-2",
+                    "D": "D3",
+                    "profile-selection": ""
+                },
+                "3": {
+                    "name": "Grav-cannon [ANTI-VEHICLE 2+]",
+                    "range": "24\"",
+                    "A": "3",
+                    "BS": "3+",
+                    "S": "6",
+                    "AP": "-1",
+                    "D": "3",
+                    "profile-selection": ""
+                },
+                "4": {
+                    "name": "Twin heavy bolter [SUSTAINED HITS 1, TWIN-LINKED]",
+                    "range": "36\"",
+                    "A": "3",
+                    "BS": "3+",
+                    "S": "5",
+                    "AP": "-1",
+                    "D": "2",
+                    "profile-selection": ""
+                },
+                "5": {
+                    "name": "Twin lascannon [TWIN-LINKED]",
+                    "range": "48\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "12",
+                    "AP": "-3",
+                    "D": "D6+1",
+                    "profile-selection": ""
+                }
+            },
+            "melee-weapons": {
+                "1": {
+                    "name": "Centurion fists",
+                    "range": "Melee",
+                    "A": "3",
+                    "WS": "4+",
+                    "S": "5",
+                    "AP": "-1",
+                    "D": "2"
+                }
+            }
+        },
+        "wargear-options": {
+            "1": {
+                "description": "Any number of models can each have their Centurion bolters replaced with 1 Centurion missile launcher."
+            },
+            "2": {
+                "description": "Any number of models can each have their grav-cannon replaced with one of the following:",
+                "option1": "1 twin heavy bolter",
+                "option2": "1 twin lascannon"
+            }
+        },
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "1 Devastator Centurion Sergeant",
+                "2": "2-5 Devastator Centurions"
+            },
+            "default-weapons": {
+                "1": "Every model is equipped with: grav-cannon; Centurion bolters; Centurion fists."
+            }
+        },
+        "leader": {
+            "rule": "",
+            "special-rule": "",
+            "units": {}
+        },
+        "keywords": {
+            "1": "Infantry",
+            "2": "Imperium",
+            "3": "Centurion",
+            "4": "Centurion Devastator Squad"
+        },
+        "faction-keywords": {
+            "1": "Adeptus Astartes"
+        }
+    },
+    {
+        "unit-name": "Invictor Tactical Warsuit",
+        "uri-name": "invictor-tactical-warsuit",
+        "unit-description": "Outfitted with silent reactors and servos, the Invictor Tactical Warsuit is a combat walker ideally suited to supporting Vanguard operations and functioning independently from a main Space Marine strike force. In battle they are piloted by hand-picked warriors dedicated to defending their battle-brothers.",
+        "profiles": {
+            "M": "8\"",
+            "T": "8",
+            "SV": "3+",
+            "W": "12",
+            "LD": "6+",
+            "OC": "4"
+        },
+        "abilities": {
+            "core": "Deadly Demise D3, Scouts 8\"",
+            "faction": "Oath of Moment",
+            "1": "Combat Support: Once per turn, in your opponent's Shooting phase, when a friendly Adeptus Astartes Phobos Infantry unit within 6\" of this model is selected as the target of an attack, this model can use this ability. If it does, after that enemy model's unit has finished making its attacks, this model can shoot as if it were your Shooting phase, but when resolving those attacks it can only target that enemy unit (and only if it is an eligible target)."
+        },
+        "damaged": "While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.",
+        "invulnerable-save": "",
+        "weapons": {
+            "ranged-weapons": {
+                "1": {
+                    "name": "Fragstorm grenade launcher [BLAST]",
+                    "range": "18\"",
+                    "A": "D6",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "2": {
+                    "name": "Heavy bolter [SUSTAINED HITS 1]",
+                    "range": "36\"",
+                    "A": "3",
+                    "BS": "3+",
+                    "S": "5",
+                    "AP": "-1",
+                    "D": "2",
+                    "profile-selection": ""
+                },
+                "3": {
+                    "name": "Incendium cannon [IGNORES COVER, TORRENT]",
+                    "range": "12\"",
+                    "A": "D6+3",
+                    "BS": "n/a",
+                    "S": "6",
+                    "AP": "-1",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "4": {
+                    "name": "Twin ironhail autocannon [TWIN-LINKED]",
+                    "range": "48\"",
+                    "A": "3",
+                    "BS": "3+",
+                    "S": "9",
+                    "AP": "-1",
+                    "D": "3",
+                    "profile-selection": ""
+                },
+                "5": {
+                    "name": "Twin ironhail heavy stubber",
+                    "range": "36\"",
+                    "A": "3",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                }
+            },
+            "melee-weapons": {
+                "1": {
+                    "name": "Invictor fist",
+                    "range": "Melee",
+                    "A": "5",
+                    "WS": "3+",
+                    "S": "14",
+                    "AP": "-2",
+                    "D": "3"
+                }
+            }
+        },
+        "wargear-options": {
+            "1": {
+                "description": "This model's incendium cannon can be replaced with 1 twin ironhail autocannon"
+            }
+        },
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "1 Invictor Tactical Warsuit"
+            },
+            "default-weapons": {
+                "1": "This model is equipped with: fragstorm grenade launcher; heavy bolter; incendium cannon; twin ironhail heavy stubber; Invictor fist."
+            }
+        },
+        "leader": {
+            "rule": "",
+            "special-rule": "",
+            "units": {}
+        },
+        "keywords": {
+            "1": "Vehicle",
+            "2": "Walker",
+            "3": "Imperium",
+            "4": "Phobos",
+            "5": "Invictor Tactical Warsuit"
+        },
+        "faction-keywords": {
+            "1": "Adeptus Astartes"
+        }
+    },
+    {
+        "unit-name": "Dreadnought",
+        "uri-name": "dreadnought",
+        "unit-description": "Dreadnoughts are bipedal combat walkers piloted by centuries-old fallen heroes of the Chapter, kept alive by esoteric technologies in an ancient sarcophagus at the Dreadnought's heart. Equipped with devastating heavy weapons, they can annihilate the enemy from afar or crush them to paste in brutal melee.",
+        "profiles": {
+            "M": "6\"",
+            "T": "9",
+            "SV": "2+",
+            "W": "8",
+            "LD": "6+",
+            "OC": "3"
+        },
+        "abilities": {
+            "core": "Deadly Demise 1",
+            "faction": "Oath of Moment",
+            "1": "Wisdom of the Ancients (Aura): While a friendly Adeptus Astartes Infantry unit is within 6\" of this model, each time a model in that unit makes an attack, re-roll a Hit roll of 1."
+        },
+        "wargear abilities": {},
+        "invulnerable-save": "",
+        "weapons": {
+            "ranged-weapons": {
+                "1": {
+                    "name": "Assault cannon [DEVASTATING WOUNDS]",
+                    "range": "24\"",
+                    "A": "6",
+                    "BS": "3+",
+                    "S": "6",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "2": {
+                    "name": "Heavy flamer [IGNORES COVER, TORRENT]",
+                    "range": "12\"",
+                    "A": "D6",
+                    "BS": "n/a",
+                    "S": "5",
+                    "AP": "-1",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "3": {
+                    "name": "Heavy plasma cannon - standard [BLAST]",
+                    "range": "36\"",
+                    "A": "D3",
+                    "BS": "3+",
+                    "S": "7",
+                    "AP": "-2",
+                    "D": "2",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with"
+                },
+                "4": {
+                    "name": "Heavy plasma cannon - supercharge [BLAST, HAZARDOUS]",
+                    "range": "36\"",
+                    "A": "D3",
+                    "BS": "3+",
+                    "S": "8",
+                    "AP": "-3",
+                    "D": "3",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with"
+                },
+                "5": {
+                    "name": "Missile launcher - frag [BLAST]",
+                    "range": "48\"",
+                    "A": "D6",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with"
+                },
+                "6": {
+                    "name": "Missile launcher - krak",
+                    "range": "48\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "9",
+                    "AP": "-2",
+                    "D": "D6",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with"
+                },
+                "7": {
+                    "name": "Multi-melta [MELTA 2]",
+                    "range": "18\"",
+                    "A": "2",
+                    "BS": "3+",
+                    "S": "9",
+                    "AP": "-4",
+                    "D": "D6",
+                    "profile-selection": ""
+                },
+                "8": {
+                    "name": "Storm bolter [RAPID FIRE 2]",
+                    "range": "24\"",
+                    "A": "2",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "9": {
+                    "name": "Twin lascannon [TWIN-LINKED]",
+                    "range": "48\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "12",
+                    "AP": "-3",
+                    "D": "D6+1",
+                    "profile-selection": ""
+                }
+            },
+            "melee-weapons": {
+                "1": {
+                    "name": "Close combat weapon",
+                    "range": "Melee",
+                    "A": "5",
+                    "WS": "3+",
+                    "S": "6",
+                    "AP": "0",
+                    "D": "1"
+                },
+                "2": {
+                    "name": "Dreadnought combat weapon",
+                    "range": "Melee",
+                    "A": "5",
+                    "WS": "3+",
+                    "S": "12",
+                    "AP": "-2",
+                    "D": "3"
+                }
+            }
+        },
+        "wargear-options": {
+            "1": {
+                "description": "This model's assault cannon can be replaced with one of the following:",
+                "option1": "1 heavy plasma cannon",
+                "option2": "1 multi-melta",
+                "option3": "1 twin lascannon"
+            },
+            "2": {
+                "description": "This model's Dreadnought combat weapon and storm bolter can be replaced with one of the following:",
+                "option1": "1 missile launcher and 1 close combat weapon",
+                "option2": "1 heavy flamer and 1 Dreadnought combat weapon"
+            }
+        },
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "1 Dreadnought"
+            },
+            "default-weapons": {
+                "1": "This model is equipped with: assault cannon; storm bolter; Dreadnought combat weapon."
+            }
+        },
+        "leader": {
+            "rule": "",
+            "special-rule": "",
+            "units": {}
+        },
+        "keywords": {
+            "1": "Vehicle",
+            "2": "Walker",
+            "3": "Smoke",
+            "4": "Imperium",
+            "5": "Dreadnought"
+        },
+        "faction-keywords": {
+            "1": "Adeptus Astartes"
+        }
+    },
+    {
+        "unit-name": "Contemptor Dreadnought",
+        "uri-name": "contemptor-dreadnought",
+        "unit-description": "During the Great Crusade, hundreds of Contemptor Dreadnoughts strode the battlefield in the Emperor's name. Now but a handful remain. They are no less powerful for this, fitted with atomantic field generators that shield them from harm while wielding weapons that can annihilate infantry and armour alike.",
+        "profiles": {
+            "M": "6\"",
+            "T": "9",
+            "SV": "2+",
+            "W": "10",
+            "LD": "6+",
+            "OC": "3"
+        },
+        "abilities": {
+            "core": "Deadly Demise 1",
+            "faction": "Oath of Moment",
+            "1": "Even In Death, I Serve: The first time this model is destroyed, remove it from play without resolving its Deadly Demise ability. Then, at the end of the phase, roll one D6: on a 2+, set this model back up on the battlefield as close as possible to where it was destroyed and not within Engagement Range of any enemy units, with D6 wounds remaining."
+        },
+        "wargear abilities": {},
+        "invulnerable-save": "5+",
+        "weapons": {
+            "ranged-weapons": {
+                "1": {
+                    "name": "Combi-bolter [RAPID FIRE 2]",
+                    "range": "24\"",
+                    "A": "2",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "2": {
+                    "name": "Kheres-pattern assault cannon",
+                    "range": "24\"",
+                    "A": "6",
+                    "BS": "3+",
+                    "S": "7",
+                    "AP": "-1",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "3": {
+                    "name": "Multi-melta [MELTA 2]",
+                    "range": "18\"",
+                    "A": "2",
+                    "BS": "3+",
+                    "S": "9",
+                    "AP": "-4",
+                    "D": "D6",
+                    "profile-selection": ""
+                }
+            },
+            "melee-weapons": {
+                "1": {
+                    "name": "Dreadnought combat weapon",
+                    "range": "Melee",
+                    "A": "5",
+                    "WS": "3+",
+                    "S": "12",
+                    "AP": "-2",
+                    "D": "3"
+                }
+            }
+        },
+        "wargear-options": {
+            "1": {
+                "description": "This model's multi-melta can be replaced with 1 Kheres-pattern assault cannon."
+            }
+        },
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "1 Contemptor Dreadnought"
+            },
+            "default-weapons": {
+                "1": "This model is equipped with: combi-bolter; multi-melta; Dreadnought combat weapon."
+            }
+        },
+        "leader": {
+            "rule": "",
+            "special-rule": "",
+            "units": {}
+        },
+        "keywords": {
+            "1": "Vehicle",
+            "2": "Walker",
+            "3": "Imperium",
+            "4": "Dreadnought",
+            "5": "Contemptor Dreadnought"
+        },
+        "faction-keywords": {
+            "1": "Adeptus Astartes"
+        }
+    },
+    {
+        "unit-name": "Ironclad Dreadnought",
+        "uri-name": "ironclad-dreadnought",
+        "unit-description": "Clad with slabs of ceramite plating and equipped to rend ferrocrete or reduce thick walls to rubble, the Ironclad Dreadnought has been perfected for siege warfare. It is akin to a giant battering ram, pummelling through enemy positions while flooding them with burning promethium and torrents of mass-reactive bolts.",
+        "profiles": {
+            "M": "6\"",
+            "T": "10",
+            "SV": "2+",
+            "W": "8",
+            "LD": "6+",
+            "OC": "3"
+        },
+        "abilities": {
+            "core": "Deadly Demise 1",
+            "faction": "Oath of Moment",
+            "1": "Siege-breaker Protocols: Each time this model makes a melee attack that targets a Vehicle or Fortification unit, add 1 to the Hit roll and add 1 to the Wound roll."
+        },
+        "wargear abilities": {
+            "1": "Ironclad Assault Launchers: The bearer has the Grenades keyword."
+        },
+        "invulnerable-save": "",
+        "weapons": {
+            "ranged-weapons": {
+                "1": {
+                    "name": "Heavy flamer [IGNORES COVER, TORRENT]",
+                    "range": "12\"",
+                    "A": "D6",
+                    "BS": "n/a",
+                    "S": "5",
+                    "AP": "-1",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "2": {
+                    "name": "Hunter-killer missile [ONE SHOT]",
+                    "range": "48\"",
+                    "A": "1",
+                    "BS": "2+",
+                    "S": "14",
+                    "AP": "-3",
+                    "D": "D6",
+                    "profile-selection": "One Shot: The bearer can only shoot with this weapon once per battle."
+                },
+                "3": {
+                    "name": "Hurricane bolter [RAPID FIRE 6, TWIN-LINKED]",
+                    "range": "24\"",
+                    "A": "6",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "4": {
+                    "name": "Meltagun [MELTA 2]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "9",
+                    "AP": "-4",
+                    "D": "D6",
+                    "profile-selection": ""
+                },
+                "5": {
+                    "name": "Storm bolter [RAPID FIRE 2]",
+                    "range": "24\"",
+                    "A": "2",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                }
+            },
+            "melee-weapons": {
+                "1": {
+                    "name": "Dreadnought chainfist [ANTI-VEHICLE 3+]",
+                    "range": "Melee",
+                    "A": "4",
+                    "WS": "3+",
+                    "S": "12",
+                    "AP": "-2",
+                    "D": "3"
+                },
+                "2": {
+                    "name": "Dreadnought combat weapon",
+                    "range": "Melee",
+                    "A": "5",
+                    "WS": "3+",
+                    "S": "12",
+                    "AP": "-2",
+                    "D": "3"
+                },
+                "3": {
+                    "name": "Seismic hammer",
+                    "range": "Melee",
+                    "A": "3",
+                    "WS": "3+",
+                    "S": "14",
+                    "AP": "-3",
+                    "D": "D6+2"
+                }
+            }
+        },
+        "wargear-options": {
+            "1": {
+                "description": "This model's seismic hammer can be replaced with 1 Dreadnought chainfist."
+            },
+            "2": {
+                "description": "This model's Dreadnought combat weapon and storm bolter can be replaced with 1 hurricane bolter"
+            },
+            "3": {
+                "description": "This model's storm bolter can be replaced with 1 heavy flamer."
+            },
+            "4": {
+                "description": "This model's meltagun can be replaced with 1 heavy flamer."
+            },
+            "5": {
+                "description": "This model can be equipped with up to 2 hunter-killer missiles."
+            },
+            "6": {
+                "description": "This model can be equipped with 1 Ironclad assault launchers."
+            }
+        },
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "1 Ironclad Dreadnought"
+            },
+            "default-weapons": {
+                "1": "This model is equipped with: meltagun; storm bolter; Dreadnought combat weapon; seismic hammer."
+            }
+        },
+        "leader": {
+            "rule": "",
+            "special-rule": "",
+            "units": {}
+        },
+        "keywords": {
+            "1": "Vehicle",
+            "2": "Walker",
+            "3": "Smoke",
+            "4": "Imperium",
+            "5": "Dreadnought",
+            "6": "Ironclad Dreadnought"
+        },
+        "faction-keywords": {
+            "1": "Adeptus Astartes"
+        }
+    },
+    {
+        "unit-name": "Redemptor Dreadnought",
+        "uri-name": "redemptor-dreadnought",
+        "unit-description": "Redemptor Dreadnoughts are some of the largest of their kind ever fielded by the Adeptus Astartes. Armed to the teeth, they can be equipped to utterly destroy virtually any kind of battlefield target with hails of solid shot or super-heated plasma.",
+        "profiles": {
+            "M": "8\"",
+            "T": "10",
+            "SV": "2+",
+            "W": "12",
+            "LD": "6+",
+            "OC": "4"
+        },
+        "abilities": {
+            "core": "Deadly Demise D3",
+            "faction": "Oath of Moment",
+            "1": "Duty Eternal: Each time an attack is allocated to this model, subtract 1 from the Damage characteristic of that attack."
+        },
+        "damaged": "While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.",
+        "invulnerable-save": "",
+        "weapons": {
+            "ranged-weapons": {
+                "1": {
+                    "name": "Heavy flamer [IGNORES COVER, TORRENT]",
+                    "range": "12\"",
+                    "A": "D6",
+                    "BS": "n/a",
+                    "S": "5",
+                    "AP": "-1",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "2": {
+                    "name": "Heavy onslaught gatling cannon [DEVASTATING WOUNDS]",
+                    "range": "24\"",
+                    "A": "12",
+                    "BS": "3+",
+                    "S": "6",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "3": {
+                    "name": "Icarus rocket pod [ANTI-FLY 2+]",
+                    "range": "24\"",
+                    "A": "D3",
+                    "BS": "3+",
+                    "S": "8",
+                    "AP": "-1",
+                    "D": "2",
+                    "profile-selection": ""
+                },
+                "4": {
+                    "name": "Macro plasma incinerator - standard [BLAST]",
+                    "range": "36\"",
+                    "A": "D6+1",
+                    "BS": "3+",
+                    "S": "8",
+                    "AP": "-3",
+                    "D": "2",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+                },
+                "5": {
+                    "name": "Macro plasma incinerator - supercharge [BLAST, HAZARDOUS]",
+                    "range": "36\"",
+                    "A": "D6+1",
+                    "BS": "3+",
+                    "S": "9",
+                    "AP": "-4",
+                    "D": "3",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+                },
+                "6": {
+                    "name": "Onslaught gatling cannon [DEVASTATING WOUNDS]",
+                    "range": "24\"",
+                    "A": "8",
+                    "BS": "3+",
+                    "S": "5",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "7": {
+                    "name": "Twin fragstorm grenade launcher [BLAST, TWIN-LINKED]",
+                    "range": "18\"",
+                    "A": "D6",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "8": {
+                    "name": "Twin storm bolter [RAPID FIRE 2, TWIN-LINKED]",
+                    "range": "24\"",
+                    "A": "2",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                }
+            },
+            "melee-weapons": {
+                "1": {
+                    "name": "Redemptor fist",
+                    "range": "Melee",
+                    "A": "5",
+                    "WS": "3+",
+                    "S": "12",
+                    "AP": "-2",
+                    "D": "3"
+                }
+            }
+        },
+        "wargear-options": {
+            "1": {
+                "description": "This model can be equipped with 1 Icarus rocket pod."
+            },
+            "2": {
+                "description": "This model's heavy flamer can be replaced with 1 onslaught gatling cannon."
+            },
+            "3": {
+                "description": "This model's heavy onslaught gatling cannon can be replaced with 1 macro plasma incinerator."
+            },
+            "4": {
+                "description": "This model's twin fragstorm grenade launcher can be replaced with 1 twin storm bolter."
+            }
+        },
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "1 Redemptor Dreadnought"
+            },
+            "default-weapons": {
+                "1": "This model is equipped with: twin fragstorm grenade launcher; heavy flamer; heavy onslaught gatling cannon; Redemptor fist."
+            }
+        },
+        "leader": {
+            "rule": "",
+            "special-rule": "",
+            "units": {}
+        },
+        "keywords": {
+            "1": "Vehicle",
+            "2": "Walker",
+            "3": "Imperium",
+            "4": "Dreadnought",
+            "5": "Redemptor Dreadnought"
+        },
+        "faction-keywords": {
+            "1": "Adeptus Astartes"
+        }
+    },
+    {
+        "unit-name": "Brutalis Dreadnought",
+        "uri-name": "brutalis-dreadnought",
+        "unit-description": "The Brutalis Dreadnought is a line-breaker and a terror weapon. As it storms towards the enemy lines it lays down a hail of anti-personnel fire. Yet the greatest threat lies in its massive ceramite-sheathed fists or talons, which can crush an armoured warrior like spoiled fruit or punch through a bunker wall like parchment.",
+        "profiles": {
+            "M": "8\"",
+            "T": "10",
+            "SV": "2+",
+            "W": "12",
+            "LD": "6+",
+            "OC": "4"
+        },
+        "abilities": {
+            "core": "Deadly Demise D3",
+            "faction": "Oath of Moment",
+            "1": "Brutalis Charge: Each time this model ends a Charge move, select one enemy unit within Engagement Range of it and roll one D6: on a 2-3, that enemy unit suffers D3 mortal wounds; on a 4-5, that enemy unit suffers 3 mortal wounds; on a 6, that enemy unit suffers D3+3 mortal wounds."
+        },
+        "damaged": "",
+        "invulnerable-save": "While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.",
+        "weapons": {
+            "ranged-weapons": {
+                "1": {
+                    "name": "Brutalis bolt rifles [TWIN-LINKED]",
+                    "range": "24\"",
+                    "A": "4",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "-1",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "2": {
+                    "name": "Twin heavy bolter [SUSTAINED HITS 1, TWIN-LINKED]",
+                    "range": "36\"",
+                    "A": "3",
+                    "BS": "3+",
+                    "S": "5",
+                    "AP": "-1",
+                    "D": "2",
+                    "profile-selection": ""
+                },
+                "3": {
+                    "name": "Twin Icarus ironhail heavy stubber [ANTI-FLY 4+, RAPID FIRE 3, TWIN-LINKED]",
+                    "range": "36\"",
+                    "A": "3",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "-1",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "4": {
+                    "name": "Twin multi-melta [MELTA 2, TWIN-LINKED]",
+                    "range": "18\"",
+                    "A": "2",
+                    "BS": "3+",
+                    "S": "9",
+                    "AP": "-4",
+                    "D": "D6",
+                    "profile-selection": ""
+                }
+            },
+            "melee-weapons": {
+                "1": {
+                    "name": "Brutalis fists [TWIN-LINKED]",
+                    "range": "Melee",
+                    "A": "6",
+                    "WS": "3+",
+                    "S": "12",
+                    "AP": "-2",
+                    "D": "3"
+                },
+                "2": {
+                    "name": "Brutalis talons - strike [TWIN-LINKED]",
+                    "range": "Melee",
+                    "A": "6",
+                    "WS": "3+",
+                    "S": "12",
+                    "AP": "-2",
+                    "D": "3",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+                },
+                "3": {
+                    "name": "Brutalis talons - sweep [TWIN-LINKED]",
+                    "range": "Melee",
+                    "A": "10",
+                    "WS": "3+",
+                    "S": "7",
+                    "AP": "-2",
+                    "D": "1",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+                }
+            }
+        },
+        "wargear-options": {
+            "1": {
+                "description": "This model's twin heavy bolter can be replaced with 1 twin multi-melta."
+            },
+            "2": {
+                "description": "This model's Brutalis fists and Brutalis bolt rifles can be replaced with 1 Brutalis talons."
+            }
+        },
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "1 Brutalis Dreadnought"
+            },
+            "default-weapons": {
+                "1": "This model is equipped with: twin Icarus ironhail heavy stubber; twin heavy bolter; Brutalis bolt rifles; Brutalis fists."
+            }
+        },
+        "leader": {
+            "rule": "",
+            "special-rule": "",
+            "units": {}
+        },
+        "keywords": {
+            "1": "Vehicle",
+            "2": "Walker",
+            "3": "Imperium",
+            "4": "Dreadnought",
+            "5": "Brutalis Dreadnought"
+        },
+        "faction-keywords": {
+            "1": "Adeptus Astartes"
+        }
+    },
+    {
+        "unit-name": "Ballistus Dreadnought",
+        "uri-name": "ballistus-dreadnought",
+        "unit-description": "Ballistus Dreadnoughts are walking gun emplacements. Within a shielded sarcophagus at these combat walkers' core lies the mortal remains of a fallen Chapter hero. Through webs of neural links, he pilots the war engine, targeting enemy armour or elite infantry with banks of devastating heavy weapons.",
+        "profiles": {
+            "M": "8\"",
+            "T": "10",
+            "SV": "2+",
+            "W": "12",
+            "LD": "6+",
+            "OC": "4"
+        },
+        "abilities": {
+            "core": "Deadly Demise D3",
+            "faction": "Oath of Moment",
+            "1": "Ballistus Strike: Each time this model makes a ranged attack that targets a unit that is not Below Half-strength, you can re-roll the Hit roll."
+        },
+        "damaged": "While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.",
+        "invulnerable-save": "",
+        "weapons": {
+            "ranged-weapons": {
+                "1": {
+                    "name": "Ballistus missile launcher - frag [BLAST]",
+                    "range": "48\"",
+                    "A": "2D6",
+                    "BS": "3+",
+                    "S": "5",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with"
+                },
+                "2": {
+                    "name": "Ballistus missile launcher - krak",
+                    "range": "48\"",
+                    "A": "2",
+                    "BS": "3+",
+                    "S": "10",
+                    "AP": "-2",
+                    "D": "D6",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with"
+                },
+                "3": {
+                    "name": "Ballistus lascannon",
+                    "range": "48\"",
+                    "A": "2",
+                    "BS": "3+",
+                    "S": "12",
+                    "AP": "-3",
+                    "D": "D6+1",
+                    "profile-selection": ""
+                },
+                "4": {
+                    "name": "Twin storm bolter [RAPID FIRE 2, TWIN-LINKED]",
+                    "range": "24\"",
+                    "A": "2",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                }
+            },
+            "melee-weapons": {
+                "1": {
+                    "name": "Armoured feet",
+                    "range": "Melee",
+                    "A": "5",
+                    "WS": "3+",
+                    "S": "7",
+                    "AP": "0",
+                    "D": "1"
+                }
+            }
+        },
+        "wargear-options": {},
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "1 Ballistus Dreadnought"
+            },
+            "default-weapons": {
+                "1": "This model is equipped with: Ballistus missile launcher; Ballistus lascannon; twin storm bolter; armoured feet."
+            }
+        },
+        "leader": {
+            "rule": "",
+            "special-rule": "",
+            "units": {}
+        },
+        "keywords": {
+            "1": "Vehicle",
+            "2": "Walker",
+            "3": "Imperium",
+            "4": "Dreadnought",
+            "5": "Ballistus Dreadnought"
+        },
+        "faction-keywords": {
+            "1": "Adeptus Astartes"
+        }
+    },
+    {
+        "unit-name": "Assault Squad",
+        "uri-name": "assault-squad",
+        "unit-description": "Experts in brutal close-quarters fighting, Assault Squads take pride in drawing the most gruelling battlefield assignments. On foot they are merciless trench-clearers, bunker-purgers and charge-breakers, slaughtering all before them with gouts of flamer fire and roaring chainswords.",
+        "profiles": {
+            "M": "6\"",
+            "T": "4",
+            "SV": "3+",
+            "W": "2",
+            "LD": "6+",
+            "OC": "1"
+        },
+        "abilities": {
+            "core": "",
+            "faction": "Oath of Moment",
+            "1": "Chainsword Doctrines: Each time this unit is selected to fight, select one of the following abilities to apply to all Astartes chainswords equipped by models in this unit until the end of the phase:\n[SUSTAINED HITS 1]\n[LETHAL HITS]\n[LANCE] "
+        },
+        "wargear abilities": {
+            "1": "Astartes Shield: The bearer has a 4+ invulnerable save"
+        },
+        "invulnerable-save": "",
+        "weapons": {
+            "ranged-weapons": {
+                "1": {
+                    "name": "Bolt Pistol [PISTOL]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "2": {
+                    "name": "Flamer [IGNORES COVER, TORRENT]",
+                    "range": "12\"",
+                    "A": "D6",
+                    "BS": "n/a",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "3": {
+                    "name": "Meltagun [MELTA 2]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "9",
+                    "AP": "-4",
+                    "D": "D6",
+                    "profile-selection": ""
+                },
+                "4": {
+                    "name": "Plasma gun - standard [RAPID FIRE 1]",
+                    "range": "24\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "7",
+                    "AP": "-2",
+                    "D": "1",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+                },
+                "5": {
+                    "name": "Plasma gun - supercharge [HAZARDOUS, RAPID FIRE 1]",
+                    "range": "24\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "8",
+                    "AP": "-3",
+                    "D": "2",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+                },
+                "6": {
+                    "name": "Plasma pistol - standard [PISTOL]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "7",
+                    "AP": "-2",
+                    "D": "1",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+                },
+                "7": {
+                    "name": "Plasma pistal - supercharge [HAZARDOUS, PISTOL]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "8",
+                    "AP": "-3",
+                    "D": "2",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+                }
+            },
+            "melee-weapons": {
+                "1": {
+                    "name": "Astartes chainsword",
+                    "range": "Melee",
+                    "A": "4",
+                    "WS": "3+",
+                    "S": "4",
+                    "AP": "-1",
+                    "D": "1"
+                },
+                "2": {
+                    "name": "Close combat weapon",
+                    "range": "Melee",
+                    "A": "2",
+                    "WS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1"
+                },
+                "3": {
+                    "name": "Eviscerator [SUSTAINED HITS 1]",
+                    "range": "Melee",
+                    "A": "3",
+                    "WS": "4+",
+                    "S": "7",
+                    "AP": "-2",
+                    "D": "2"
+                },
+                "4": {
+                    "name": "Power fist",
+                    "range": "Melee",
+                    "A": "3",
+                    "WS": "3+",
+                    "S": "8",
+                    "AP": "-2",
+                    "D": "2"
+                },
+                "5": {
+                    "name": "Power weapon",
+                    "range": "Melee",
+                    "A": "4",
+                    "WS": "3+",
+                    "S": "5",
+                    "AP": "-2",
+                    "D": "1"
+                },
+                "6": {
+                    "name": "Thunder hammer [DEVASTATING WOUNDS]",
+                    "range": "Melee",
+                    "A": "3",
+                    "WS": "4+",
+                    "S": "8",
+                    "AP": "-2",
+                    "D": "2"
+                },
+                "7": {
+                    "name": "Twin lightning claws [TWIN-LINKED]",
+                    "range": "Melee",
+                    "A": "5",
+                    "WS": "3+",
+                    "S": "4",
+                    "AP": "-2",
+                    "D": "1"
+                }
+            }
+        },
+        "wargear-options": {
+            "1": {
+                "description": "The Assault Sergeant's bolt pistol can be replaced with one of the following:",
+                "option1": "1 grav-pistol [The profile for this weapon can be found on the Adeptus Astartes Armoury card.]",
+                "option2": "1 hand flamer [The profile for this weapon can be found on the Adeptus Astartes Armoury card.]",
+                "option3": "1 inferno pistol [The profile for this weapon can be found on the Adeptus Astartes Armoury card.]",
+                "option4": "1 plasma pistol"
+            },
+            "2": {
+                "description": "The Assault Sergeant's Astartes chainsword can be replaced with one of the following:",
+                "option1": "1 power fist",
+                "option2": "1 power weapon",
+                "option3": "1 thunder hammer"
+            },
+            "3": {
+                "description": "The Assault Sergeant can do one of the following:",
+                "option1": "Replace its bolt pistol and Astartes chainsword with 1 twin lightning claws. ",
+                "option2": "Be equipped with 1 Astartes shield."
+            },
+            "4": {
+                "description": "Up to 2 Assault Marines can each have their bolt pistol and Astartes chainsword replaced with one of the following:",
+                "option1": "1 plasma pistol and 1 Astartes chainsword",
+                "option2": "1 flamer and 1 close combat weapon",
+                "option3": "1 meltagun and 1 close combat weapon",
+                "option4": "1 plasma gun and 1 close combat weapon"
+            },
+            "5": {
+                "description": "For every 5 models in this unit, 1 model's Astartes chainsword can be replaced with 1 eviscerator."
+            }
+        },
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "1 Assault Sergeant",
+                "2": "4-9 Assault Marines"
+            },
+            "default-weapons": {
+                "1": "Every model is equipped with: bolt pistol; Astartes chainsword."
+            }
+        },
+        "leader": {
+            "rule": "",
+            "special-rule": "",
+            "units": {}
+        },
+        "keywords": {
+            "1": "Infantry",
+            "2": "Grenades",
+            "3": "Imperium",
+            "4": "Assault Squad"
+        },
+        "faction-keywords": {
+            "1": "Adeptus Astartes"
+        }
+    },
+    {
+        "unit-name": "Assault Squad - With Jump Packs",
+        "uri-name": "assault-squad-with-jump-packs",
+        "unit-description": "Thanks to their powerful jump packs, these warriors soar over the battlefield, slamming into the foe and cutting them down with point-blank bolt pistol fire and furious chainsword hacks before shooting off to their next target.",
+        "profiles": {
+            "M": "12\"",
+            "T": "4",
+            "SV": "3+",
+            "W": "2",
+            "LD": "6+",
+            "OC": "1"
+        },
+        "abilities": {
+            "core": "Deep Strike",
+            "faction": "Oath of Moment",
+            "1": "Hammer of Wrath: Each time this unit ends a Charge move, select one enemy unit within Engagement Range of it and roll one D6 for each model in this unit: for each 4+, that enemy unit suffers 1 mortal wound."
+        },
+        "wargear abilities": {
+            "1": "Astartes Shield: The bearer has a 4+ invulnerable save."
+        },
+        "invulnerable-save": "",
+        "weapons": {
+            "ranged-weapons": {
+                "1": {
+                    "name": "Bolt pistol [PISTOL]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "2": {
+                    "name": "Flamer [IGNORES COVER, TORRENT]",
+                    "range": "12\"",
+                    "A": "D6",
+                    "BS": "n/a",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "3": {
+                    "name": "Meltagun [MELTA 2]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "9",
+                    "AP": "-4",
+                    "D": "D6",
+                    "profile-selection": ""
+                },
+                "4": {
+                    "name": "Plasma gun - standard [RAPID FIRE 1]",
+                    "range": "24\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "7",
+                    "AP": "-2",
+                    "D": "1",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+                },
+                "5": {
+                    "name": "Plasma gun - supercharge [HAZARDOUS, RAPID FIRE 1]",
+                    "range": "24\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "8",
+                    "AP": "-3",
+                    "D": "2",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+                },
+                "6": {
+                    "name": "Plasma pistol - standard [PISTOL]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "7",
+                    "AP": "-2",
+                    "D": "1",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+                },
+                "7": {
+                    "name": "Plasma Pistol - supercharge [HAZARDOUS, PISTOL]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "8",
+                    "AP": "-3",
+                    "D": "2",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+                }
+            },
+            "melee-weapons": {
+                "1": {
+                    "name": "Astartes chainsword",
+                    "range": "Melee",
+                    "A": "4",
+                    "WS": "3+",
+                    "S": "4",
+                    "AP": "-1",
+                    "D": "1"
+                },
+                "2": {
+                    "name": "Close combat weapon",
+                    "range": "Melee",
+                    "A": "2",
+                    "WS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1"
+                },
+                "3": {
+                    "name": "Eviscerator [SUSTAINED HITS 1]",
+                    "range": "Melee",
+                    "A": "3",
+                    "WS": "4+",
+                    "S": "7",
+                    "AP": "-2",
+                    "D": "2"
+                },
+                "4": {
+                    "name": "Power fist",
+                    "range": "Melee",
+                    "A": "3",
+                    "WS": "3+",
+                    "S": "8",
+                    "AP": "-2",
+                    "D": "2"
+                },
+                "5": {
+                    "name": "Power weapon",
+                    "range": "Melee",
+                    "A": "4",
+                    "WS": "3+",
+                    "S": "5",
+                    "AP": "-2",
+                    "D": "1"
+                },
+                "6": {
+                    "name": "Thunder hammer [DEVASTATING WOUNDS]",
+                    "range": "Melee",
+                    "A": "3",
+                    "WS": "4+",
+                    "S": "8",
+                    "AP": "-2",
+                    "D": "1"
+                },
+                "7": {
+                    "name": "Twin lightning claws [TWIN-LINKED]",
+                    "range": "Melee",
+                    "A": "5",
+                    "WS": "3+",
+                    "S": "4",
+                    "AP": "-2",
+                    "D": "1"
+                }
+            }
+        },
+        "wargear-options": {
+            "1": {
+                "description": "The Assault Sergeant with Jump Pack's bolt pistol can be replaced with one of the following:",
+                "option1": "1 grav-pistol [The profile for this weapon can be found on the Adeptus Astartes Armoury card.]",
+                "option2": "1 hand flamer [The profile for this weapon can be found on the Adeptus Astartes Armoury card.]",
+                "option3": "1 inferno pistol [The profile for this weapon can be found on the Adeptus Astartes Armoury card.]",
+                "option4": "1 plasma pistol"
+            },
+            "2": {
+                "description": "The Assault Sergeant with Jump Pack's Astartes chainsword can be replaced with one of",
+                "option1": "1 power fist",
+                "option2": "1 power weapon",
+                "option3": "1 thunder hammer"
+            },
+            "3": {
+                "description": "The Assault Sergeant with Jump Pack can do one of the following:",
+                "option1": "Replace its bolt pistol and Astartes chainsword with 1 twin lightning claws. ",
+                "option2": "Be equipped with 1 Astartes shield."
+            },
+            "4": {
+                "description": "Up to 2 Assault Marines with Jump Packs can each have their bolt pistol and Astartes chainsword replaced with one of the following:",
+                "option1": "1 plasma pistol and 1 Astartes chainsword",
+                "option2": "1 flamer and 1 close combat weapon",
+                "option3": "1 meltagun and 1 close combat weapon",
+                "option4": "1 plasma gun and 1 close combat weapon"
+            },
+            "5": {
+                "description": "For every 5 models in this unit, 1 model's Astartes chainsword can be replaced with 1 eviscerator."
+            }
+        },
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "1 Assault Sergeant with Jump Pack",
+                "2": "4-9 Assault Marines with Jump Packs"
+            },
+            "default-weapons": {
+                "1": "Every model is equipped with: bolt pistol; Astartes chainsword."
+            }
+        },
+        "leader": {
+            "rule": "",
+            "special-rule": "",
+            "units": {}
+        },
+        "keywords": {
+            "1": "Infantry",
+            "2": "Grenades",
+            "3": "Jump Pack",
+            "4": "Fly",
+            "5": "Imperium",
+            "6": "Assault Squad With Jump Packs"
+        },
+        "faction-keywords": {
+            "1": "Adeptus Astartes"
+        }
+    },
+    {
+        "unit-name": "Outrider Squad",
+        "uri-name": "outrider-squad",
+        "unit-description": "Outrider Squads advance ahead of the main Space Marine lines, guard flanks of larger formations and hunt down enemy infiltrators. When battle is joined, they conduct lightning-fast hit-and-run attacks on defended positions, and run down those who would try to escape the vengeance of the Chapter.",
+        "profiles": {
+            "1": {
+                "name": "Outrider",
+                "M": "12\"",
+                "T": "5",
+                "SV": "3+",
+                "W": "4",
+                "LD": "6+",
+                "OC": "2"
+            },
+            "2": {
+                "name": "Invader ATV",
+                "M": "12\"",
+                "T": "5",
+                "SV": "3+",
+                "W": "8",
+                "LD": "6+",
+                "OC": "2"
+            }
+        },
+        "abilities": {
+            "core": "",
+            "faction": "Oath of Moment",
+            "1": "Turbo-boost: Each time this unit Advances, do not make an Advance roll for it. Instead, until the end of the phase, add 6\" to the Move characteristic of models in this unit."
+        },
+        "wargear abilities": {},
+        "invulnerable-save": "",
+        "weapons": {
+            "ranged-weapons": {
+                "1": {
+                    "name": "Heavy bolt pistol [PISTOL]",
+                    "range": "18\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "-1",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "2": {
+                    "name": "Multi-melta [MELTA 2]",
+                    "range": "18\"",
+                    "A": "2",
+                    "BS": "3+",
+                    "S": "9",
+                    "AP": "-4",
+                    "D": "D6",
+                    "profile-selection": ""
+                },
+                "3": {
+                    "name": "Onslaught gatling cannon [DEVASTATING WOUNDS]",
+                    "range": "24\"",
+                    "A": "8",
+                    "BS": "3+",
+                    "S": "5",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "4": {
+                    "name": "Twin bolt rifle [TWIN-LINKED]",
+                    "range": "24\"",
+                    "A": "2",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "-1",
+                    "D": "1",
+                    "profile-selection": ""
+                }
+            },
+            "melee-weapons": {
+                "1": {
+                    "name": "Astartes chainsword",
+                    "range": "Melee",
+                    "A": "4",
+                    "WS": "3+",
+                    "S": "4",
+                    "AP": "-1",
+                    "D": "1"
+                },
+                "2": {
+                    "name": "Close combat weapon",
+                    "range": "Melee",
+                    "A": "5",
+                    "WS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1"
+                }
+            }
+        },
+        "wargear-options": {
+            "1": {
+                "description": "An Invader ATV's onslaught gatling cannon can be replaced with 1 multi-melta."
+            }
+        },
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "1 Outrider Sergeant",
+                "2": "2-5 Outriders",
+                "3": "0-1 Invader ATV"
+            },
+            "default-weapons": {
+                "1": "The Outrider Sergeant and every Outrider is equipped with: heavy bolt pistol; twin bolt rifle; Astartes chainsword.",
+                "2": "An Invader ATV is equipped with: heavy bolt pistol; twin bolt rifle, onslaught gatling cannon; close combat weapon."
+            }
+        },
+        "leader": {
+            "rule": "",
+            "special-rule": "",
+            "units": {}
+        },
+        "keywords": {
+            "1": "Mounted",
+            "2": "Grenades",
+            "3": "Imperium",
+            "4": "Outrider Squad"
+        },
+        "faction-keywords": {
+            "1": "Adeptus Astartes"
+        }
+    },
+    {
+        "unit-name": "Invader ATV",
+        "uri-name": "invader-atv",
+        "unit-description": "The Invader is a highly flexible all-terrain vehicle, perfectly adapted to an aggressive reconnaissance role. Outfitted with either a multi-melta or onslaught gatling cannon, it can rapidly deliver punishing fire against vulnerable parts of the enemy line, or swiftly engage and destroy scouting elements of opposing forces.",
+        "profiles": {
+            "M": "12\"",
+            "T": "5",
+            "SV": "3+",
+            "W": "8",
+            "LD": "6+",
+            "OC": "2"
+        },
+        "abilities": {
+            "core": "",
+            "faction": "Oath of Moment",
+            "1": "Outrider Escort: Once per turn, in your opponent's Shooting phase, when a friendly Adeptus Astartes Mounted unit within 6\" of this model is selected as the target of an attack, this model can use this ability. If it does, after that enemy unit has finished making its attacks, this model can shoot as if it were your Shooting phase, but when resolving those attacks it can only target that enemy unit (and only if it is an eligible target)."
+        },
+        "wargear abilities": {},
+        "invulnerable-save": "",
+        "weapons": {
+            "ranged-weapons": {
+                "1": {
+                    "name": "",
+                    "range": "",
+                    "A": "",
+                    "BS": "",
+                    "S": "",
+                    "AP": "",
+                    "D": "",
+                    "profile-selection": ""
+                }
+            },
+            "melee-weapons": {
+                "1": {
+                    "name": "",
+                    "range": "",
+                    "A": "",
+                    "WS": "",
+                    "S": "",
+                    "AP": "",
+                    "D": ""
+                }
+            }
+        },
+        "wargear-options": {
+            "1": {
+                "description": "This model's onslaught gatling cannon can be replaced with 1 multi-melta"
+            }
+        },
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "1 Invader ATV"
+            },
+            "default-weapons": {
+                "1": "This model is equipped with: heavy bolt pistol; twin bolt rifle, onslaught gatling cannon; close combat weapon"
+            }
+        },
+        "leader": {
+            "rule": "",
+            "special-rule": "",
+            "units": {}
+        },
+        "keywords": {
+            "1": "Mounted",
+            "2": "Grenades",
+            "3": "Imperium",
+            "4": "Invader ATV"
+        },
+        "faction-keywords": {
+            "1": "Adeptus Astartes"
+        }
+    },
+    {
+        "unit-name": "Bike Squad",
+        "uri-name": "bike-squad",
+        "unit-description": "Deployed in rapid assault missions based on intelligence gathered by Scouts and Vanguard forces, Bikers can smash through enemy lines, battlefield obstacles and even ferrocrete walls due to the raw fury of their mounts' engines. Their sheer bulk belies their phenomenal power, speed and manoeuvrability.",
+        "profiles": {
+            "1": {
+                "name": "Space Marine Bike",
+                "M": "12\"",
+                "T": "5",
+                "SV": "3+",
+                "W": "3",
+                "LD": "6+",
+                "OC": "2"
+            },
+            "2": {
+                "name": "Attack Bike",
+                "M": "12\"",
+                "T": "5",
+                "SV": "3+",
+                "W": "5",
+                "LD": "6+",
+                "OC": "2"
+            }
+        },
+        "abilities": {
+            "core": "",
+            "faction": "Oath of Moment",
+            "1": "Turbo-boost: Each time this unit Advances, do not make an Advance roll for it. Instead, until the end of the phase, add 6\" to the Move characteristic of models in this unit."
+        },
+        "wargear abilities": {},
+        "invulnerable-save": "",
+        "weapons": {
+            "ranged-weapons": {
+                "1": {
+                    "name": "Bolt Pistol [PISTOL]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "2": {
+                    "name": "Grav-pistol [ANTI-VEHICLE 2+, PISTOL]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "-1",
+                    "D": "2",
+                    "profile-selection": ""
+                },
+                "3": {
+                    "name": "Hand flamer [IGNORES COVER, PISTOL, TORRENT]",
+                    "range": "12\"",
+                    "A": "D6",
+                    "BS": "n/a",
+                    "S": "3",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "4": {
+                    "name": "Heavy bolter [SUSTAINED HITS 1]",
+                    "range": "36\"",
+                    "A": "3",
+                    "BS": "3+",
+                    "S": "5",
+                    "AP": "-1",
+                    "D": "2",
+                    "profile-selection": ""
+                },
+                "5": {
+                    "name": "Inferno pistol [MELTA 2, PISTOL]",
+                    "range": "6\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "8",
+                    "AP": "-4",
+                    "D": "D3",
+                    "profile-selection": ""
+                },
+                "6": {
+                    "name": "Multi-melta [MELTA 2]",
+                    "range": "18\"",
+                    "A": "2",
+                    "BS": "3+",
+                    "S": "9",
+                    "AP": "-4",
+                    "D": "D6",
+                    "profile-selection": ""
+                },
+                "7": {
+                    "name": "Plasma pistol - standard [PISTOL]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "7",
+                    "AP": "-2",
+                    "D": "1",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+                },
+                "8": {
+                    "name": "Plasma pistol - supercharge [HAZARDOUS, PISTOL]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "8",
+                    "AP": "-3",
+                    "D": "2",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+                },
+                "9": {
+                    "name": "Twin boltgun [TWIN-LINKED]",
+                    "range": "24\"",
+                    "A": "2",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                }
+            },
+            "melee-weapons": {
+                "1": {
+                    "name": "Astartes chainsword",
+                    "range": "Melee",
+                    "A": "3",
+                    "WS": "3+",
+                    "S": "4",
+                    "AP": "-1",
+                    "D": "1"
+                },
+                "2": {
+                    "name": "Close combat weapon",
+                    "range": "Melee",
+                    "A": "2",
+                    "WS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1"
+                },
+                "3": {
+                    "name": "Power fist",
+                    "range": "Melee",
+                    "A": "2",
+                    "WS": "3+",
+                    "S": "8",
+                    "AP": "-2",
+                    "D": "1"
+                },
+                "4": {
+                    "name": "Power weapon",
+                    "range": "Melee",
+                    "A": "3",
+                    "WS": "3+",
+                    "S": "5",
+                    "AP": "-2",
+                    "D": "1"
+                },
+                "5": {
+                    "name": "Thunder hammer [DEVASTATING WOUNDS]",
+                    "range": "Melee",
+                    "A": "2",
+                    "WS": "4+",
+                    "S": "8",
+                    "AP": "-2",
+                    "D": "2"
+                }
+            }
+        },
+        "wargear-options": {
+            "1": {
+                "description": "The Biker Sergeant's bolt pistol can be replaced with one of the following:",
+                "option1": "1 Astartes chainsword",
+                "option2": "1 boltgun [The profile for this weapon can be found on the Adeptus Astartes Armoury card]",
+                "option3": "1 combi-weapon [The profile for this weapon can be found on the Adeptus Astartes Armoury card.]",
+                "option4": "1 hand flamer",
+                "option5": "1 grav-pistol",
+                "option6": "1 inferno pistol",
+                "option7": "1 plasma pistol",
+                "option8": "1 storm bolter [The profile for this weapon can be found on the Adeptus Astartes Armoury card]",
+                "option9": "1 power fist",
+                "option10": "1 power weapon",
+                "option11": "1 thunder hammer"
+            },
+            "2": {
+                "description": "Any number of Space Marine Bikers can each have their bolt pistol replaced with 1 Astartes chainsword."
+            },
+            "3": {
+                "description": "Up to 2 Space Marine Bikers can each have their bolt pistol replaced with one of the following:",
+                "option1": "1 flamer [The profile for this weapon can be found on the Adeptus Astartes Armoury card.]",
+                "option2": "1 grav-gun [The profile for this weapon can be found on the Adeptus Astartes Armoury card.]",
+                "option3": "1 meltagun [The profile for this weapon can be found on the Adeptus Astartes Armoury card.]",
+                "option4": "1 plasma gun [The profile for this weapon can be found on the Adeptus Astartes Armoury card.]",
+                "option5": "1 plasma pistol"
+            },
+            "4": {
+                "description": "An Attack Bike's heavy bolter can be replaced with 1 multi-melta."
+            }
+        },
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "1 Biker Sergeant",
+                "2": "2-5 Space Marine Bikers",
+                "3": "0-1 Attack Bike"
+            },
+            "default-weapons": {
+                "1": "The Biker Sergeant and every Space Marine Biker is equipped with: bolt pistol; twin boltgun; close combat weapon.",
+                "2": "An Attack Bike is equipped with: bolt pistol; heavy bolter; twin boltgun; close combat weapon."
+            }
+        },
+        "leader": {
+            "rule": "",
+            "special-rule": "",
+            "units": {}
+        },
+        "keywords": {
+            "1": "Mounted",
+            "2": "Grenades",
+            "3": "Imperium",
+            "4": "Bike Squad"
+        },
+        "faction-keywords": {
+            "1": "Adeptus Astartes"
+        }
+    },
+    {
+        "unit-name": "Scout Bike Squad",
+        "uri-name": "scout-bike-squad",
+        "unit-description": "Fast-moving recon and disruption units, Scout Bike Squads operate far beyond friendly lines. They booby trap neutral ground, sever the foe's communications links, burn enemy supplies, seek out weaknesses in defences and set up locator beacons to draw down the Space Marines' fearsome orbital strikes.",
+        "profiles": {
+            "M": "12\"",
+            "T": "5",
+            "SV": "4+",
+            "W": "3",
+            "LD": "6+",
+            "OC": "2"
+        },
+        "abilities": {
+            "core": "Scouts 9\"",
+            "faction": "Oath of Moment",
+            "1": "Outflank: When this unit arrives from Strategic Reserves, it can be set up within your opponent's deployment zone (all other restrictions still apply)."
+        },
+        "wargear abilities": {},
+        "invulnerable-save": "",
+        "weapons": {
+            "ranged-weapons": {
+                "1": {
+                    "name": "Astartes grenade launcher - frag [BLAST]",
+                    "range": "24\"",
+                    "A": "D3",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+                },
+                "2": {
+                    "name": "Astartes grenade launcher - krak",
+                    "range": "24\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "9",
+                    "AP": "-2",
+                    "D": "D3",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+                },
+                "3": {
+                    "name": "Astartes shotgun [ASSAULT]",
+                    "range": "18\"",
+                    "A": "2",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "4": {
+                    "name": "Bolt pistol [PISTOL]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "5": {
+                    "name": "Hand flamer [IGNORES COVER, PISTOL, TORRENT]",
+                    "range": "12\"",
+                    "A": "D6",
+                    "BS": "n/a",
+                    "S": "3",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "6": {
+                    "name": "Inferno pistol [MELTA 2, PISTOL]",
+                    "range": "6\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "8",
+                    "AP": "-4",
+                    "D": "D3",
+                    "profile-selection": ""
+                },
+                "7": {
+                    "name": "Plasma pistol - standard [PISTOL]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "7",
+                    "AP": "-2",
+                    "D": "1",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+                },
+                "8": {
+                    "name": "Plasma pistol - supercharge [HAZARDOUS, PISTOL]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "8",
+                    "AP": "-3",
+                    "D": "2",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+                },
+                "9": {
+                    "name": "Twin boltgun [TWIN-LINKED]",
+                    "range": "24\"",
+                    "A": "2",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                }
+            },
+            "melee-weapons": {
+                "1": {
+                    "name": "Astartes chainsword",
+                    "range": "Melee",
+                    "A": "4",
+                    "WS": "3+",
+                    "S": "4",
+                    "AP": "-1",
+                    "D": "1"
+                },
+                "2": {
+                    "name": "Combat knife",
+                    "range": "Melee",
+                    "A": "3",
+                    "WS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1"
+                },
+                "3": {
+                    "name": "Power fist",
+                    "range": "Melee",
+                    "A": "2",
+                    "WS": "3+",
+                    "S": "8",
+                    "AP": "-2",
+                    "D": "2"
+                },
+                "4": {
+                    "name": "Power weapon",
+                    "range": "Melee",
+                    "A": "3",
+                    "WS": "3+",
+                    "S": "5",
+                    "AP": "-2",
+                    "D": "1"
+                },
+                "5": {
+                    "name": "Thunder hammer [DEVASTATING WOUNDS]",
+                    "range": "Melee",
+                    "A": "2",
+                    "WS": "4+",
+                    "S": "8",
+                    "AP": "-2",
+                    "D": "2"
+                }
+            }
+        },
+        "wargear-options": {
+            "1": {
+                "description": "The Scout Biker Sergeant's bolt pistol can be replaced with one of the following:",
+                "option1": "1 Astartes chainsword",
+                "option2": "1 boltgun [The profile for this weapon can be found on the Adeptus Astartes Armoury card]",
+                "option3": "1 combi-weapon [The profile for this weapon can be found on the Adeptus Astartes Armoury card.]",
+                "option4": "1 hand flamer [The profile for this weapon can be found on the Adeptus Astartes Armoury card.]",
+                "option5": "1 grav-pistol [The profile for this weapon can be found on the Adeptus Astartes Armoury card.]",
+                "option6": "1 inferno pistol",
+                "option7": "1 plasma pistol",
+                "option8": "1 storm bolter [The profile for this weapon can be found on the Adeptus Astartes Armoury card]",
+                "option9": "1 power fist",
+                "option10": "1 power weapon",
+                "option11": "1 thunder hammer"
+            },
+            "2": {
+                "description": "Any number of models can each have their twin boltgun replaced with 1 Astartes grenade launcher"
+            }
+        },
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "1 Scout Biker Sergeant",
+                "2": "2-5 Scout Bikers"
+            },
+            "default-weapons": {
+                "1": "Every model is equipped with: Astartes shotgun; bolt pistol; twin boltgun; combat knife."
+            }
+        },
+        "leader": {
+            "rule": "",
+            "special-rule": "",
+            "units": {}
+        },
+        "keywords": {
+            "1": "Mounted",
+            "2": "Grenades",
+            "3": "Smoke",
+            "4": "Imperium",
+            "5": "Scout Bike Squad"
+        },
+        "faction-keywords": {
+            "1": "Adeptus Astartes"
+        }
+    },
+    {
+        "unit-name": "Attack Bike Squad",
+        "uri-name": "attack-bike-squad",
+        "unit-description": "For those missions where a Space Marine Bike Squad is insufficient, an Attack Bike joins them. Capable of mauling infantry squads or reducing tanks to molten ruin, they render bike formations all the more deadly. So effective are these rapidly moving hunters that many Chapters field them as squads in their own right.",
+        "profiles": {
+            "M": "12\"",
+            "T": "5",
+            "SV": "3+",
+            "W": "5",
+            "LD": "6+",
+            "OC": "2"
+        },
+        "abilities": {
+            "core": "",
+            "faction": "Oath of Moment",
+            "1": "Outrider Escort: Once per turn, in your opponent's Shooting phase, when a friendly Adeptus Astartes Mounted unit within 6\" of this unit is selected as the target of an attack, this unit can use this ability. If it does, after that enemy unit has finished making its attacks, this unit can shoot as if it were your Shooting phase, but when resolving those attacks it can only target that enemy unit (and only if it is an eligible target)."
+        },
+        "wargear abilities": {},
+        "invulnerable-save": "",
+        "weapons": {
+            "ranged-weapons": {
+                "1": {
+                    "name": "Bolt pistol [PISTOL]",
+                    "range": "12\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "2": {
+                    "name": "Heavy bolter [SUSTAINED HITS 1]",
+                    "range": "36\"",
+                    "A": "3",
+                    "BS": "3+",
+                    "S": "5",
+                    "AP": "-1",
+                    "D": "2",
+                    "profile-selection": ""
+                },
+                "3": {
+                    "name": "Multi-melta [MELTA 2]",
+                    "range": "18\"",
+                    "A": "2",
+                    "BS": "3+",
+                    "S": "9",
+                    "AP": "-4",
+                    "D": "D6",
+                    "profile-selection": ""
+                },
+                "4": {
+                    "name": "Twin boltgun [TWIN-LINKED]",
+                    "range": "24\"",
+                    "A": "2",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                }
+            },
+            "melee-weapons": {
+                "1": {
+                    "name": "Close combat weapon",
+                    "range": "Melee",
+                    "A": "3",
+                    "WS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1"
+                }
+            }
+        },
+        "wargear-options": {
+            "1": {
+                "description": "Any number of models can each have their heavy bolter replaced with 1 multi-melta."
+            }
+        },
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "1-3 Attack Bikes"
+            },
+            "default-weapons": {
+                "1": "Every model is equipped with: bolt pistol; heavy bolter; twin boltgun; close combat weapon."
+            }
+        },
+        "leader": {
+            "rule": "",
+            "special-rule": "",
+            "units": {}
+        },
+        "keywords": {
+            "1": "Mounted",
+            "2": "Grenades",
+            "3": "Imperium",
+            "4": "Attack Bike Squad"
+        },
+        "faction-keywords": {
+            "1": "Adeptus Astartes"
+        }
+    },
+    {
+        "unit-name": "Suppressor Squad",
+        "uri-name": "suppressor-squad",
+        "unit-description": "Girded in armour that can tolerate the vicious recoil of their weapons and the terrible stresses of grav-drops, Suppressors rapidly take up key positions on the battlefield. From there, they unleash deluges of armour-piercing rounds that decimate enemy infantry and force the survivors to dive for cover.",
+        "profiles": {
+            "M": "",
+            "T": "",
+            "SV": "",
+            "W": "",
+            "LD": "",
+            "OC": ""
+        },
+        "abilities": {
+            "core": "",
+            "faction": "",
+            "1": "",
+            "2": ""
+        },
+        "wargear abilities": {
+            "1": "",
+            "2": ""
+        },
+        "invulnerable-save": "",
+        "weapons": {
+            "ranged-weapons": {
+                "1": {
+                    "name": "",
+                    "range": "",
+                    "A": "",
+                    "BS": "",
+                    "S": "",
+                    "AP": "",
+                    "D": "",
+                    "profile-selection": ""
+                }
+            },
+            "melee-weapons": {
+                "1": {
+                    "name": "",
+                    "range": "",
+                    "A": "",
+                    "WS": "",
+                    "S": "",
+                    "AP": "",
+                    "D": ""
+                }
+            }
+        },
+        "wargear-options": {
+            "1": {
+                "description": "",
+                "option1": "",
+                "option2": ""
+            },
+            "2": {
+                "description": "",
+                "option1": "",
+                "option2": ""
+            }
+        },
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "",
+                "2": ""
+            },
+            "default-weapons": {
+                "1": "",
+                "2": ""
+            }
+        },
+        "leader": {
+            "rule": "",
+            "special-rule": "",
+            "units": {
+                "1": "",
+                "2": "",
+                "3": "",
+                "4": "",
+                "5": "",
+                "6": ""
+            }
+        },
+        "keywords": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": ""
+        },
+        "faction-keywords": {
+            "1": "",
+            "2": ""
         }
     }
 ]

@@ -20,6 +20,7 @@
         "1": "",
         "2": ""
     },
+    "damaged": "",
     "invulnerable-save": "",
     "weapons": {
         "ranged-weapons": {
@@ -63,7 +64,10 @@
             "1": "",
             "2": ""
         },
-        "default-weapons": ""
+        "default-weapons": {
+            "1": "",
+            "2": ""
+        }
     },
     "leader": {
         "rule": "",
