@@ -20,6 +20,7 @@
         "wargear abilities": {
             "1": "Relic Shield: The bearer has a Wounds characteristic of 6"
         },
+        "damaged": "",
         "invulnerable-save": "4+",
         "weapons": {
             "ranged-weapons": {
@@ -168,6 +169,7 @@
         },
         "wargear abilities": {
         },
+        "damaged": "",
         "invulnerable-save": "4+",
         "weapons": {
             "ranged-weapons": {
@@ -300,6 +302,7 @@
             "1": "",
             "2": ""
         },
+        "damaged": "",
         "invulnerable-save": "4+",
         "weapons": {
             "ranged-weapons": {
@@ -392,6 +395,7 @@
             "1": "Auxiliary Grenade Launcher: The bearer has the Grenades keyword.",
             "2": "Relic Shield: The bearer has a Wounds characteristic of 7."
         },
+        "damaged": "",
         "invulnerable-save": "4+",
         "weapons": {
             "ranged-weapons": {
@@ -536,6 +540,7 @@
         "wargear abilities": {
             "1": "Relic Shield: The bearer has a Wounds characteristic of 6."
         },
+        "damaged": "",
         "invulnerable-save": "4+",
         "weapons": {
             "ranged-weapons": {
@@ -739,6 +744,7 @@
         "wargear abilities": {
             "1": "Relic Shield: The bearer has a Wounds characteristic of 6."
         },
+        "damaged": "",
         "invulnerable-save": "4+",
         "weapons": {
             "ranged-weapons": {
@@ -945,6 +951,7 @@
         "wargear abilities": {
             "1": "Relic Shield: The bearer has a Wounds characteristic of 7"
         },
+        "damaged": "",
         "invulnerable-save": "4+",
         "weapons": {
             "ranged-weapons": {
@@ -1155,6 +1162,7 @@
         "wargear abilities": {
             "1": "Storm Shield: The bearer has a 4+ invulnerable save."
         },
+        "damaged": "",
         "invulnerable-save": "",
         "weapons": {
             "ranged-weapons": {
@@ -1320,6 +1328,7 @@
         },
         "wargear abilities": {
         },
+        "damaged": "",
         "invulnerable-save": "",
         "weapons": {
             "ranged-weapons": {
@@ -1396,6 +1405,7 @@
         },
         "wargear abilities": {
         },
+        "damaged": "",
         "invulnerable-save": "",
         "weapons": {
             "ranged-weapons": {
@@ -1484,6 +1494,7 @@
         "wargear abilities": {
             "1": "Storm Shield: The bearer has a 4+ invulnerable save"
         },
+        "damaged": "",
         "invulnerable-save": "",
         "weapons": {
             "ranged-weapons": {
@@ -1697,6 +1708,7 @@
         },
         "wargear abilities": {
         },
+        "damaged": "",
         "invulnerable-save": "",
         "weapons": {
             "ranged-weapons": {
@@ -1798,6 +1810,7 @@
         },
         "wargear abilities": {
         },
+        "damaged": "",
         "invulnerable-save": "",
         "weapons": {
             "ranged-weapons": {
@@ -1897,6 +1910,7 @@
         },
         "wargear abilities": {
         },
+        "damaged": "",
         "invulnerable-save": "4+",
         "weapons": {
             "ranged-weapons": {
@@ -2009,6 +2023,7 @@
         },
         "wargear abilities": {
         },
+        "damaged": "",
         "invulnerable-save": "",
         "weapons": {
             "ranged-weapons": {
@@ -2197,6 +2212,7 @@
         },
         "wargear abilities": {
         },
+        "damaged": "",
         "invulnerable-save": "4+",
         "weapons": {
             "ranged-weapons": {
@@ -2277,6 +2293,7 @@
         },
         "wargear abilities": {
         },
+        "damaged": "",
         "invulnerable-save": "4+",
         "weapons": {
             "ranged-weapons": {
@@ -2366,6 +2383,7 @@
         },
         "wargear abilities": {
         },
+        "damaged": "",
         "invulnerable-save": "4+",
         "weapons": {
             "ranged-weapons": {
@@ -2449,8 +2467,8 @@
             "1": "Litany of Hate: While this model is leading a unit, each time a model in that unit makes a melee attack, add 1 to the Wound roll.",
             "2": "Spiritual Leader: Once per battle, at the start of any phase, you can select one friendly Adeptus Astartes unit that is Battle-shocked and within 12\" of this model. That unit is no longer Battle-shocked."
         },
-        "wargear abilities": {
-        },
+        "wargear abilities": {},
+        "damaged": "",
         "invulnerable-save": "4+",
         "weapons": {
             "ranged-weapons": {
@@ -2626,8 +2644,8 @@
             "1": "Litany of Hate: While this model is leading a unit, each time a model in that unit makes a melee attack, add 1 to the Wound roll.",
             "2": "Exhortation of Rage: Each time this model's unit is selected to fight, you can select one enemy unit within Engagement Range of this model's unit and roll one D6: on a 4-5, that enemy unit suffers D3 mortal wounds; on a 6, that enemy unit suffers 3 mortal wounds."
         },
-        "wargear abilities": {
-        },
+        "wargear abilities": {},
+        "damaged": "",
         "invulnerable-save": "4+",
         "weapons": {
             "ranged-weapons": {
@@ -2803,8 +2821,8 @@
             "2": "Blessing of the Omnissiah: In your Command phase, you can select one friendly Adeptus Astartes Vehicle model within 3\" of this model. That model regains up to D3 lost wounds and, until the start of your next Command phase, each time that Vehicle model makes an attack, add 1 to the Hit roll. Each model can only be selected for this ability once per turn.",
             "3": "Vengeance of the Omnissiah: If a friendly Adeptus Astartes Vehicle model is destroyed within 12\" of this model, until the end of the battle, this model's Omnissian power axe has an Attacks characteristic of 7."
         },
-        "wargear abilities": {
-        },
+        "wargear abilities": {},
+        "damaged": "",
         "invulnerable-save": "",
         "weapons": {
             "ranged-weapons": {
@@ -2900,8 +2918,8 @@
             "2": "Blessing of the Omnissiah: In your Command phase, you can select one friendly Adeptus Astartes Vehicle model within 3\" of this model. That model regains up to D3 lost wounds and, until the start of your next Command phase, each time that Vehicle model makes an attack, add 1 to the Hit roll. Each model can only be selected for this ability once per turn.",
             "3": "Vengeance of the Omnissiah: If a friendly Adeptus Astartes Vehicle model is destroyed within 12” of this model, until the end of the battle, this model's Omnissian power axe has an Attacks characteristic of 7."
         },
-        "wargear abilities": {
-        },
+        "wargear abilities": {},
+        "damaged": "",
         "invulnerable-save": "",
         "weapons": {
             "ranged-weapons": {
@@ -3108,8 +3126,8 @@
             "faction": "",
             "1": "Mindlock: While a Techmarine model is leading this unit, improve the Ballistic Skill and Weapon Skill characteristics of ranged and melee weapons equipped by Astartes Servitor models in this unit by 1."
         },
-        "wargear abilities": {
-        },
+        "wargear abilities": {},
+        "damaged": "",
         "invulnerable-save": "6+",
         "weapons": {
             "ranged-weapons": {
@@ -3218,8 +3236,8 @@
             "faction": "Oath of Moment",
             "1": "Objective Secured: If you control an objective marker at the end of your Command phase and this unit is within range of that objective marker, that objective marker remains under your control, even if you have no models within range of it, until your opponent controls it at the start or end of any turn."
         },
-        "wargear abilities": {
-        },
+        "wargear abilities": {},
+        "damaged": "",
         "invulnerable-save": "",
         "weapons": {
             "ranged-weapons": {
@@ -3405,8 +3423,8 @@
             "faction": "Oath of Moment",
             "1": "Purge the Foe: In your Shooting phase, after this unit has shot, you can select one enemy Infantry unit hit by one or more of those attacks made with a pyreblaster. That enemy unit must take a Battle-shock test."
         },
-        "wargear abilities": {
-        },
+        "wargear abilities": {},
+        "damaged": "",
         "invulnerable-save": "",
         "weapons": {
             "ranged-weapons": {
@@ -3487,8 +3505,8 @@
             "faction": "Oath of Moment",
             "1": "Shock Assault: Each time a model in this unit targets an enemy unit with a melee attack, re-roll a Wound roll of 1. If that enemy unit is within range of an objective marker, you can re-roll the Wound roll instead."
         },
-        "wargear abilities": {
-        },
+        "wargear abilities": {},
+        "damaged": "",
         "invulnerable-save": "",
         "weapons": {
             "ranged-weapons": {
@@ -3629,8 +3647,8 @@
             "1": "Psychic Hood: While this model is leading a unit, models in that unit have the Feel No Pain 4+ ability against Psychic Attacks.",
             "2": "Might of Heroes (Psychic): While this model is leading a unit, improve the Armour Penetration characteristic of melee weapons equipped by models in that unit by 1."
         },
-        "wargear abilities": {
-        },
+        "wargear abilities": {},
+        "damaged": "",
         "invulnerable-save": "",
         "weapons": {
             "ranged-weapons": {
@@ -3817,8 +3835,8 @@
             "1": "Priority Objective Identified (Aura): At the start of the first battle round, if your army contains one or more models with this ability, you can select one objective marker on the battlefield to be the Priority Objective. Until the end of the battle, while a friendly Adeptus Astartes unit is within 6\" of this model, each time a model in that unit makes an attack that targets an enemy unit that is within range of the Priority Target, re-roll a Wound roll of 1.",
             "2": "Evade and Survive: Once per turn, when an enemy unit ends a Normal, Advance or Fall Back move within 9\" of this unit, if this unit is not within Engagement Range of one or more enemy units, it can make a Normal move."
         },
-        "wargear abilities": {
-        },
+        "wargear abilities": {},
+        "damaged": "",
         "invulnerable-save": "",
         "weapons": {
             "ranged-weapons": {
@@ -3891,8 +3909,8 @@
             "faction": "Oath of Moment",
             "1": "Unyielding in the Face of the Foe: While this unit is within range of an objective marker you control, each time an attack with a Damage characteristic of 1 is allocated to a model in this unit, add 1 to any armour saving throw made against that attack."
         },
-        "wargear abilities": {
-        },
+        "wargear abilities": {},
+        "damaged": "",
         "invulnerable-save": "",
         "weapons": {
             "ranged-weapons": {
@@ -3991,6 +4009,7 @@
             "1": "Helix Gauntlet: Models in the bearer's unit have the Feel No Pain 6+ ability.",
             "2": "Infiltrator Comms Array: Each time you target the bearer's unit with a Stratagem, roll one D6: on a 5+, you gain 1CP"
         },
+        "damaged": "",
         "invulnerable-save": "",
         "weapons": {
             "ranged-weapons": {
@@ -4081,6 +4100,7 @@
         "wargear abilities": {
             "1": "Haywire Mine: Once per battle, at the start of any phase, you can select one enemy unit within 3\" of the bearer and roll one D6: on a 2+, that enemy unit suffers D3 mortal wounds, or 2D3 mortal wounds instead if it is a Vehicle unit."
         },
+        "damaged": "",
         "invulnerable-save": "",
         "weapons": {
             "ranged-weapons": {
@@ -4165,8 +4185,8 @@
             "faction": "Oath of Moment",
             "1": "Tactical Flexibility: This unit is eligible to shoot and declare a charge in a turn in which it Fell Back."
         },
-        "wargear abilities": {
-        },
+        "wargear abilities": {},
+        "damaged": "",
         "invulnerable-save": "",
         "weapons": {
             "ranged-weapons": {
@@ -4378,8 +4398,8 @@
             "faction": "Oath of Moment",
             "1": "Guerrilla Tactics: At the end of your opponent's turn, if this unit is more than 6\" away from all enemy models, you can remove this unit from the battlefield and place it into Strategic Reserves."
         },
-        "wargear abilities": {
-        },
+        "wargear abilities": {},
+        "damaged": "",
         "invulnerable-save": "",
         "weapons": {
             "ranged-weapons": {
@@ -4570,8 +4590,8 @@
             "faction": "Oath of Moment",
             "1": "Concealed Positions: This unit can only be selected as the target of a ranged attack if the attacking model is within 12\"."
         },
-        "wargear abilities": {
-        },
+        "wargear abilities": {},
+        "damaged": "",
         "invulnerable-save": "",
         "weapons": {
             "ranged-weapons": {
@@ -4676,8 +4696,8 @@
             "1": "Honour or Death: While this model is leading a unit, add 1 to Advance and Charge rolls made for that unit and you can target that unit with the Heroic Intervention Stratagem for 0CP, even if you have already used that Stratagem on a different unit this phase.",
             "2": "Martial Superiority: Each time this model makes a melee attack that targets a Character unit, you can re-roll the Hit roll and you can re-roll the Wound roll."
         },
-        "wargear abilities": {
-        },
+        "wargear abilities": {},
+        "damaged": "",
         "invulnerable-save": "",
         "weapons": {
             "ranged-weapons": {
@@ -4755,8 +4775,8 @@
             "1": "Narthecium: While this model is leading a unit, in your Command phase, you can return 1 destroyed model (excluding Character models) to that unit.",
             "2": "Gene-seed Recovery: When this model's Bodyguard unit is destroyed, roll one D6: on a 2+, you gain 1CP."
         },
-        "wargear abilities": {
-        },
+        "wargear abilities": {},
+        "damaged": "",
         "invulnerable-save": "",
         "weapons": {
             "ranged-weapons": {
@@ -4845,8 +4865,8 @@
             "1": "Surgical Precision: While this model is leading a unit, weapons equipped by models in that unit have the [LETHAL HITS] ability.",
             "2": "Vivispectrum: If this model’s unit destroys an enemy unit as the result of a melee attack, until the end of the battle, this model has an Objective Control characteristic of 9."
         },
-        "wargear abilities": {
-        },
+        "wargear abilities": {},
+        "damaged": "",
         "invulnerable-save": "",
         "weapons": {
             "ranged-weapons": {
@@ -4921,8 +4941,8 @@
             "1": "Astartes Banner: While this model is leading a unit, add 1 to the Objective Control characteristic of models in that unit.",
             "2": "Unbreakable Duty: While this model is within range of an objective marker and/or within 6\" of the centre of the battlefield, this model has the Feel No Pain 4+ ability."
         },
-        "wargear abilities": {
-        },
+        "wargear abilities": {},
+        "damaged": "",
         "invulnerable-save": "",
         "weapons": {
             "ranged-weapons": {
@@ -5023,8 +5043,8 @@
             "1": "Astartes Banner: While this model is leading a unit, add 1 to the Objective Control characteristic of models in that unit.",
             "2": "Deeds of Heroism: Once per battle, when this model is selected to fight, it can use this ability. If it does, until the end of the phase, add 1 to the Attacks characteristic of melee weapons equipped by models in this model's unit."
         },
-        "wargear abilities": {
-        },
+        "wargear abilities": {},
+        "damaged": "",
         "invulnerable-save": "4+",
         "weapons": {
             "ranged-weapons": {
@@ -5102,6 +5122,7 @@
         "wargear abilities": {
             "1": "Terminator Storm Shield: The bearer has a Wounds characteristic of 6."
         },
+        "damaged": "",
         "invulnerable-save": "4+",
         "weapons": {
             "ranged-weapons": {
@@ -5232,8 +5253,8 @@
             "faction": "Oath of Moment",
             "1": "Bladeguard: At the start of the Fight phase, you can select one of the following abilities to apply to models in this unit until the end of the phase:\nSwords of the Imperium: Each time a model in this unit makes a melee attack, re-roll a Hit roll of 1.\nShields of the Imperium: Each time an invulnerable saving throw is made for a model in this unit, re-roll a saving throw of 1."
         },
-        "wargear abilities": {
-        },
+        "wargear abilities": {},
+        "damaged": "",
         "invulnerable-save": "4+",
         "weapons": {
             "ranged-weapons": {
@@ -5345,6 +5366,7 @@
         "wargear abilities": {
             "1": "Astartes Shield: The bearer has a 4+ invulnerable save."
         },
+        "damaged": "",
         "invulnerable-save": "",
         "weapons": {
             "ranged-weapons": {
@@ -5575,6 +5597,7 @@
         "wargear abilities": {
             "1": "Storm Shield: The bearer has a 4+ invulnerable save."
         },
+        "damaged": "",
         "invulnerable-save": "",
         "weapons": {
             "ranged-weapons": {
@@ -5705,6 +5728,7 @@
         "wargear abilities": {
             "1": "Storm Shield: The bearer has a 4+ invulnerable save."
         },
+        "damaged": "",
         "invulnerable-save": "",
         "weapons": {
             "ranged-weapons": {
@@ -5834,8 +5858,8 @@
             "faction": "Oath of Moment",
             "1": "Bolter Drill: Once per battle, in your Shooting phase, after this unit has shot, if one or more enemy units were destroyed as a result of those attacks, this unit can shoot again."
         },
-        "wargear abilities": {
-        },
+        "wargear abilities": {},
+        "damaged": "",
         "invulnerable-save": "",
         "weapons": {
             "ranged-weapons": {
@@ -5943,8 +5967,8 @@
             "1": "Tempormortis: While this model is leading a unit, that unit has the Fights First ability.",
             "2": "Silent Fury: Each time this model destroys an enemy Character model, until the end of the battle, add 1 to the Attacks characteristic of its executioner relic blade."
         },
-        "wargear abilities": {
-        },
+        "wargear abilities": {},
+        "damaged": "",
         "invulnerable-save": "4+",
         "weapons": {
             "ranged-weapons": {
@@ -6025,6 +6049,7 @@
             "1": "Grapnel Launcher: Each time the bearer's unit makes aNormal, Advance, Fall Back or Charge move, ignore any vertical distance when determining the total distance the bearer can be moved during that move.",
             "2": "Reiver Grav-chute: The bearer has the Deep Strike ability."
         },
+        "damaged": "",
         "invulnerable-save": "",
         "weapons": {
             "ranged-weapons": {
@@ -6127,8 +6152,8 @@
             "faction": "Oath of Moment",
             "1": "Close-quarters Firepower: Each time a model in this unit makes a ranged attack that targets the closest eligible target, improve the Armour Penetration characteristic of that attack by 1."
         },
-        "wargear abilities": {
-        },
+        "wargear abilities": {},
+        "damaged": "",
         "invulnerable-save": "",
         "weapons": {
             "ranged-weapons": {
@@ -6225,6 +6250,7 @@
         "wargear abilities": {
             "1": "Storm Shield: The bearer has a Wounds characteristic of 4."
         },
+        "damaged": "",
         "invulnerable-save": "4+",
         "weapons": {
             "ranged-weapons": {},
@@ -6296,8 +6322,8 @@
             "1": "Teleport Homer: At the start of the battle, you can set up one Teleport Homer token for this unit anywhere on the battlefield that is not in your opponent's deployment zone. If you do, once per battle, you can target this unit with the Rapid Ingress Stratagem for 0CP, but when resolving that Stratagem, you must set this unit up within 3\" horizontally of that token and not within 9\" horizontally of any enemy models. That token is then removed.",
             "2": "Fury of the First: Each time a model in this unit makes an attack, you can ignore any or all modifiers to that attack's Ballistic Skill or Weapon Skill characteristic and/or to the Hit roll. In addition, each time a model in this unit makes an attack that targets the enemy unit you selected for the Oath of Moment ability this turn, add 1 to the Hit roll."
         },
-        "wargear abilities": {
-        },
+        "wargear abilities": {},
+        "damaged": "",
         "invulnerable-save": "4+",
         "weapons": {
             "ranged-weapons": {
@@ -6433,6 +6459,7 @@
         "wargear abilities": {
             "1": "Grenade Harness: The bearer has the Grenades keyword."
         },
+        "damaged": "",
         "invulnerable-save": "4+",
         "weapons": {
             "ranged-weapons": {
@@ -6604,6 +6631,7 @@
         "wargear abilities": {
             "1": "Centurion Assault Launcher: The bearer has the Grenades keyword."
         },
+        "damaged": "",
         "invulnerable-save": "",
         "weapons": {
             "ranged-weapons": {
@@ -6700,6 +6728,7 @@
             "1": "Decimator Protocols: Each time a model in this unit makes a ranged attack, re-roll a Hit roll of 1. If the target of that attack is an enemy unit within range of an objective marker, you can re-roll the Hit roll instead."
         },
         "wargear abilities": {},
+        "damaged": "",
         "invulnerable-save": "",
         "weapons": {
             "ranged-weapons": {
@@ -6817,6 +6846,7 @@
             "faction": "Oath of Moment",
             "1": "Combat Support: Once per turn, in your opponent's Shooting phase, when a friendly Adeptus Astartes Phobos Infantry unit within 6\" of this model is selected as the target of an attack, this model can use this ability. If it does, after that enemy model's unit has finished making its attacks, this model can shoot as if it were your Shooting phase, but when resolving those attacks it can only target that enemy unit (and only if it is an eligible target)."
         },
+        "wargear-abilities": {},
         "damaged": "While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.",
         "invulnerable-save": "",
         "weapons": {
@@ -6931,6 +6961,7 @@
             "1": "Wisdom of the Ancients (Aura): While a friendly Adeptus Astartes Infantry unit is within 6\" of this model, each time a model in that unit makes an attack, re-roll a Hit roll of 1."
         },
         "wargear abilities": {},
+        "damaged": "",
         "invulnerable-save": "",
         "weapons": {
             "ranged-weapons": {
@@ -7101,6 +7132,7 @@
             "1": "Even In Death, I Serve: The first time this model is destroyed, remove it from play without resolving its Deadly Demise ability. Then, at the end of the phase, roll one D6: on a 2+, set this model back up on the battlefield as close as possible to where it was destroyed and not within Engagement Range of any enemy units, with D6 wounds remaining."
         },
         "wargear abilities": {},
+        "damaged": "",
         "invulnerable-save": "5+",
         "weapons": {
             "ranged-weapons": {
@@ -7196,6 +7228,7 @@
         "wargear abilities": {
             "1": "Ironclad Assault Launchers: The bearer has the Grenades keyword."
         },
+        "damaged": "",
         "invulnerable-save": "",
         "weapons": {
             "ranged-weapons": {
@@ -7342,6 +7375,7 @@
             "faction": "Oath of Moment",
             "1": "Duty Eternal: Each time an attack is allocated to this model, subtract 1 from the Damage characteristic of that attack."
         },
+        "wargear-abilities": {},
         "damaged": "While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.",
         "invulnerable-save": "",
         "weapons": {
@@ -7494,6 +7528,7 @@
             "faction": "Oath of Moment",
             "1": "Brutalis Charge: Each time this model ends a Charge move, select one enemy unit within Engagement Range of it and roll one D6: on a 2-3, that enemy unit suffers D3 mortal wounds; on a 4-5, that enemy unit suffers 3 mortal wounds; on a 6, that enemy unit suffers D3+3 mortal wounds."
         },
+        "wargear-abilities": {},
         "damaged": "",
         "invulnerable-save": "While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.",
         "weapons": {
@@ -7620,6 +7655,7 @@
             "faction": "Oath of Moment",
             "1": "Ballistus Strike: Each time this model makes a ranged attack that targets a unit that is not Below Half-strength, you can re-roll the Hit roll."
         },
+        "wargear-abilities": {},
         "damaged": "While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.",
         "invulnerable-save": "",
         "weapons": {
@@ -7722,6 +7758,7 @@
         "wargear abilities": {
             "1": "Astartes Shield: The bearer has a 4+ invulnerable save"
         },
+        "damaged": "",
         "invulnerable-save": "",
         "weapons": {
             "ranged-weapons": {
@@ -7936,6 +7973,7 @@
         "wargear abilities": {
             "1": "Astartes Shield: The bearer has a 4+ invulnerable save."
         },
+        "damaged": "",
         "invulnerable-save": "",
         "weapons": {
             "ranged-weapons": {
@@ -8162,6 +8200,7 @@
             "1": "Turbo-boost: Each time this unit Advances, do not make an Advance roll for it. Instead, until the end of the phase, add 6\" to the Move characteristic of models in this unit."
         },
         "wargear abilities": {},
+        "damaged": "",
         "invulnerable-save": "",
         "weapons": {
             "ranged-weapons": {
@@ -8276,6 +8315,7 @@
             "1": "Outrider Escort: Once per turn, in your opponent's Shooting phase, when a friendly Adeptus Astartes Mounted unit within 6\" of this model is selected as the target of an attack, this model can use this ability. If it does, after that enemy unit has finished making its attacks, this model can shoot as if it were your Shooting phase, but when resolving those attacks it can only target that enemy unit (and only if it is an eligible target)."
         },
         "wargear abilities": {},
+        "damaged": "",
         "invulnerable-save": "",
         "weapons": {
             "ranged-weapons": {
@@ -8360,6 +8400,7 @@
             "1": "Turbo-boost: Each time this unit Advances, do not make an Advance roll for it. Instead, until the end of the phase, add 6\" to the Move characteristic of models in this unit."
         },
         "wargear abilities": {},
+        "damaged": "",
         "invulnerable-save": "",
         "weapons": {
             "ranged-weapons": {
@@ -8576,6 +8617,7 @@
             "1": "Outflank: When this unit arrives from Strategic Reserves, it can be set up within your opponent's deployment zone (all other restrictions still apply)."
         },
         "wargear abilities": {},
+        "damaged": "",
         "invulnerable-save": "",
         "weapons": {
             "ranged-weapons": {
@@ -8780,6 +8822,7 @@
             "1": "Outrider Escort: Once per turn, in your opponent's Shooting phase, when a friendly Adeptus Astartes Mounted unit within 6\" of this unit is selected as the target of an attack, this unit can use this ability. If it does, after that enemy unit has finished making its attacks, this unit can shoot as if it were your Shooting phase, but when resolving those attacks it can only target that enemy unit (and only if it is an eligible target)."
         },
         "wargear abilities": {},
+        "damaged": "",
         "invulnerable-save": "",
         "weapons": {
             "ranged-weapons": {
@@ -8886,6 +8929,7 @@
             "1": "",
             "2": ""
         },
+        "damaged": "",
         "invulnerable-save": "",
         "weapons": {
             "ranged-weapons": {
