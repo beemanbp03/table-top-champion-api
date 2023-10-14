@@ -11799,5 +11799,695 @@
         "faction-keywords": {
             "1": "Adeptus Astartes"
         }
+    },
+    {
+        "unit-name": "Repulsor",
+        "uri-name": "repulsor",
+        "unit-description": "Clad in advanced armour plating and armed for any battlefield situation, the Repulsor not only transports its passengers safely, it also provides superb fire support. Dangerous terrain is little impediment to it, its ventral plates channelling gravitic energies that crush obstacles beneath the vehicle's mass.",
+        "profiles": {
+            "M": "10\"",
+            "T": "12",
+            "SV": "3+",
+            "W": "16",
+            "LD": "6+",
+            "OC": "5"
+        },
+        "abilities": {
+            "core": "Deadly Demise D6",
+            "faction": "Oath of Moment",
+            "1": "Emergency Combat Embarkation: Once per turn, in your opponent's Charge phase, after an enemy unit has selected targets for its charge but before it makes a Charge move, you can select one Adeptus Astartes unit from your army that was selected as a target of that charge. Provided that unit is not within Engagement Range of any enemy units and every model in that unit is within 3\" of this Transport, it can embark within this Transport. The charging unit can then select new targets for its charge."
+        },
+        "wargear abilities": {},
+        "damaged": "While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.",
+        "invulnerable-save": "",
+        "weapons": {
+            "ranged-weapons": {
+                "1": {
+                    "name": "Heavy onslaught gatling cannon [DEVASTATING WOUNDS]",
+                    "range": "24\"",
+                    "A": "12",
+                    "BS": "3+",
+                    "S": "6",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "2": {
+                    "name": "Hunter-slayer missile [INDIRECT FIRE, ONE SHOT]",
+                    "range": "48\"",
+                    "A": "1",
+                    "BS": "2+",
+                    "S": "14",
+                    "AP": "-3",
+                    "D": "D6",
+                    "profile-selection": "One Shot: The bearer can only shoot with this weapon once per battle."
+                },
+                "3": {
+                    "name": "Las-talon",
+                    "range": "36\"",
+                    "A": "2",
+                    "BS": "3+",
+                    "S": "10",
+                    "AP": "-3",
+                    "D": "D6+1",
+                    "profile-selection": ""
+                },
+                "4": {
+                    "name": "Repulsor defensive array",
+                    "range": "24\"",
+                    "A": "18",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "5": {
+                    "name": "Twin heavy bolter [SUSTAINED HITS 1, TWIN-LINKED]",
+                    "range": "36\"",
+                    "A": "3",
+                    "BS": "3+",
+                    "S": "5",
+                    "AP": "-1",
+                    "D": "2",
+                    "profile-selection": ""
+                },
+                "6": {
+                    "name": "Twin lascannon [TWIN-LINKED]",
+                    "range": "48\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "12",
+                    "AP": "-3",
+                    "D": "D6+1",
+                    "profile-selection": ""
+                }
+            },
+            "melee-weapons": {
+                "1": {
+                    "name": "Armoured hull",
+                    "range": "Melee",
+                    "A": "6",
+                    "WS": "4+",
+                    "S": "8",
+                    "AP": "0",
+                    "D": "1"
+                }
+            }
+        },
+        "wargear-options": {
+            "1": {
+                "description": "This model's twin heavy bolter can be replaced with 1 twin lascannon."
+            },
+            "2": {
+                "description": "This model's heavy onslaught gatling cannon can be replaced with 1 las-talon."
+            }
+        },
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "1 Repulsor"
+            },
+            "default-weapons": {
+                "1": "This model is equipped with: heavy onslaught gatling cannon; hunter-slayer missile; Repulsor defensive array; twin heavy bolter; armoured hull."
+            }
+        },
+        "transport": "This model has a transport capacity of 12 Adeptus Astartes Infantry models. Each Jump Pack, Wulfen, Gravis or Terminator model takes up the space of 2 models and each Centurion model takes up the space of 3 models.",
+        "keywords": {
+            "1": "Vehicle",
+            "2": "Smoke",
+            "3": "Transport",
+            "4": "Imperium",
+            "5": "Repulsor"
+        },
+        "faction-keywords": {
+            "1": "Adeptus Astartes"
+        }
+    },
+    {
+        "unit-name": "Repulsor Executioner",
+        "uri-name": "repulsor-executioner",
+        "unit-description": "Based on the Repulsor chassis, the Repulsor Executioner sacrifices some transport capacity to accommodate powerful turret weaponry. Even the largest battle tanks can be crippled by the beam of a heavy laser destroyer, while the incinerating blasts of a macro plasma incinerator can obliterate infantry formations.",
+        "profiles": {
+            "M": "10\"",
+            "T": "12",
+            "SV": "3+",
+            "W": "16",
+            "LD": "6+",
+            "OC": "5"
+        },
+        "abilities": {
+            "core": "Deadly Demise D6",
+            "faction": "Oath of Moment",
+            "1": "Executioner: Each time this model makes an attack that targets a unit that is Below Half-strength, add 1 to the Hit roll"
+        },
+        "damaged": "While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.",
+        "invulnerable-save": "",
+        "weapons": {
+            "ranged-weapons": {
+                "1": {
+                    "name": "Heavy laser destroyer [HEAVY]",
+                    "range": "72\"",
+                    "A": "2",
+                    "BS": "3+",
+                    "S": "16",
+                    "AP": "-4",
+                    "D": "D6+4",
+                    "profile-selection": ""
+                },
+                "2": {
+                    "name": "Heavy onslaught gatling cannon [DEVASTATING WOUNDS]",
+                    "range": "24\"",
+                    "A": "12",
+                    "BS": "3+",
+                    "S": "6",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "3": {
+                    "name": "Icarus rocket pod [ANTI-FLY 2+]",
+                    "range": "24\"",
+                    "A": "D3",
+                    "BS": "3+",
+                    "S": "8",
+                    "AP": "-1",
+                    "D": "2",
+                    "profile-selection": ""
+                },
+                "4": {
+                    "name": "Ironhail heavy stubber [RAPID FIRE 3]",
+                    "range": "36\"",
+                    "A": "3",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "5": {
+                    "name": "Macro plasma incinerator - standard [BLAST]",
+                    "range": "36\"",
+                    "A": "D6+1",
+                    "BS": "3+",
+                    "S": "8",
+                    "AP": "-3",
+                    "D": "2",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+                },
+                "6": {
+                    "name": "Macro plasma incinerator - supercharge [BLAST, HAZARDOUS]",
+                    "range": "36\"",
+                    "A": "D6+1",
+                    "BS": "3+",
+                    "S": "9",
+                    "AP": "-4",
+                    "D": "3",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+                },
+                "7": {
+                    "name": "Repulsor executioner defensive array",
+                    "range": "24\"",
+                    "A": "10",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "8": {
+                    "name": "Twin heavy bolter [SUSTAINED HITS 1, TWIN-LINKED]",
+                    "range": "36\"",
+                    "A": "3",
+                    "BS": "3+",
+                    "S": "5",
+                    "AP": "-1",
+                    "D": "2",
+                    "profile-selection": ""
+                },
+                "9": {
+                    "name": "Twin Icarus ironhail stubber [ANTI-FLY 4+, RAPID FIRE 3, TWIN-LINKED]",
+                    "range": "36\"",
+                    "A": "3",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                }
+            },
+            "melee-weapons": {
+                "1": {
+                    "name": "Armoured hull",
+                    "range": "Melee",
+                    "A": "6",
+                    "WS": "4+",
+                    "S": "8",
+                    "AP": "0",
+                    "D": "1"
+                }
+            }
+        },
+        "wargear-options": {
+            "1": {
+                "description": "This model's macro plasma incinerator can be replaced with 1 heavy laser destroyer."
+            },
+            "2": {
+                "description": "This model can be equipped with 1 ironhail heavy stubber."
+            },
+            "3": {
+                "description": "This model can be equipped with 1 Icarus rocket pod."
+            }
+        },
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "1 Repulsor Executioner"
+            },
+            "default-weapons": {
+                "1": "This model is equipped with: heavy onslaught gatling cannon; macro plasma incinerator; Repulsor Executioner defensive array; twin heavy bolter; twin Icarus ironhail heavy stubber; armoured hull."
+            }
+        },
+        "transport": "This model has a transport capacity of 6 Adeptus Astartes Infantry models. Each Jump Pack, Wulfen, Gravis or Terminator model takes up the space of 2 models and each Centurion model takes up the space of 3 models",
+        "keywords": {
+            "1": "Vehicle",
+            "2": "Smoke",
+            "3": "Transport",
+            "4": "Imperium",
+            "5": "Repulsor Executioner"
+        },
+        "faction-keywords": {
+            "1": "Adeptus Astartes"
+        }
+    },
+    {
+        "unit-name": "Rhino",
+        "uri-name": "rhino",
+        "unit-description": "The Rhino transport has served the Space Marines for ten thousand years, and forms a part of many of their strike forces. With robust self-repair systems, the Rhino is a rugged vehicle that can swiftly navigate nightmare battlefields to deliver its deadly cargo of Space Marines into the heart of battle.",
+        "profiles": {
+            "M": "12\"",
+            "T": "9",
+            "SV": "3+",
+            "W": "10",
+            "LD": "6+",
+            "OC": "2"
+        },
+        "abilities": {
+            "core": "Deadly Demise D3, Firing Deck 2",
+            "faction": "Oath of Moment",
+            "1": "Self Repair: At the end of your Command phase, this model regains 1 lost wound."
+        },
+        "wargear abilities": {},
+        "damaged": "",
+        "invulnerable-save": "",
+        "weapons": {
+            "ranged-weapons": {
+                "1": {
+                    "name": "Hunter-killer missile [ONE SHOT]",
+                    "range": "48\"",
+                    "A": "1",
+                    "BS": "2+",
+                    "S": "14",
+                    "AP": "-3",
+                    "D": "D6",
+                    "profile-selection": "One Shot: The bearer can only shoot with this weapon once per battle."
+                },
+                "2": {
+                    "name": "Storm bolter [RAPID FIRE 2]",
+                    "range": "24\"",
+                    "A": "2",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                }
+            },
+            "melee-weapons": {
+                "1": {
+                    "name": "Armoured tracks",
+                    "range": "Melee",
+                    "A": "3",
+                    "WS": "4+",
+                    "S": "6",
+                    "AP": "0",
+                    "D": "1"
+                }
+            }
+        },
+        "wargear-options": {
+            "1": {
+                "description": "This model can be equipped with 1 hunter-killer missile."
+            }
+        },
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "1 Rhino"
+            },
+            "default-weapons": {
+                "1": "This model is equipped with: storm bolter; armoured tracks."
+            }
+        },
+        "transport": "This model has a transport capacity of 12 Adeptus Astartes Infantry models. It cannot transport Jump Pack, Wulfen, Tacticus, Phobos, Gravis, Centurion or Terminator models.",
+        "keywords": {
+            "1": "Vehicle",
+            "2": "Smoke",
+            "3": "Transport",
+            "4": "Dedicated Transport",
+            "5": "Imperium",
+            "6": "Rhino"
+        },
+        "faction-keywords": {
+            "1": "Adeptus Astartes"
+        }
+    },
+    {
+        "unit-name": "Razorback",
+        "uri-name": "razorback",
+        "unit-description": "The Razorback replaces some of the Rhino's transport capacity with a heavy weapon turret, and provides fire support for armoured infantry assaults while delivering its own cargo of warriors to battle. Such is its success that for many Chapters it performs additional functions, notably as a mobile command centre.",
+        "profiles": {
+            "M": "12\"",
+            "T": "9",
+            "SV": "3+",
+            "W": "10",
+            "LD": "6+",
+            "OC": "2"
+        },
+        "abilities": {
+            "core": "Deadly Demise D3",
+            "faction": "Oath of Moment",
+            "1": "Fire Support: In your Shooting phase, after this model has shot, select one enemy unit it scored one or more hits against this phase. Until the end of the phase, each time a friendly model that disembarked from this Transport this turn makes an attack that targets that enemy unit, you can re-roll the Wound roll."
+        },
+        "wargear abilities": {},
+        "damaged": "",
+        "invulnerable-save": "",
+        "weapons": {
+            "ranged-weapons": {
+                "1": {
+                    "name": "Hunter-killer missile [ONE SHOT]",
+                    "range": "48\"",
+                    "A": "1",
+                    "BS": "2+",
+                    "S": "14",
+                    "AP": "-3",
+                    "D": "D6",
+                    "profile-selection": "One Shot: The bearer can only shoot with this weapon once per battle."
+                },
+                "2": {
+                    "name": "Storm bolter [RAPID FIRE 2]",
+                    "range": "24\"",
+                    "A": "2",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "3": {
+                    "name": "Twin assault cannon [DEVASTATING WOUNDS, TWIN-LINKED]",
+                    "range": "24\"",
+                    "A": "6",
+                    "BS": "3+",
+                    "S": "6",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "4": {
+                    "name": "Twin heavy bolter [SUSTAINED HITS 1, TWIN-LINKED]",
+                    "range": "36\"",
+                    "A": "3",
+                    "BS": "3+",
+                    "S": "5",
+                    "AP": "-1",
+                    "D": "2",
+                    "profile-selection": ""
+                },
+                "5": {
+                    "name": "Twin lascannon [TWIN-LINKED]",
+                    "range": "48\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "12",
+                    "AP": "-3",
+                    "D": "D6+1",
+                    "profile-selection": ""
+                }
+            },
+            "melee-weapons": {
+                "1": {
+                    "name": "Armoured tracks",
+                    "range": "Melee",
+                    "A": "3",
+                    "WS": "4+",
+                    "S": "6",
+                    "AP": "0",
+                    "D": "1"
+                }
+            }
+        },
+        "wargear-options": {
+            "1": {
+                "description": "This model's twin heavy bolter can be replaced with one of the following: ",
+                "option1": "1 twin lascannon",
+                "option2": "1 twin assault cannon"
+            },
+            "2": {
+                "description": "This model can be equipped with 1 hunter-killer missile."
+            },
+            "3": {
+                "description": "This model can be equipped with 1 storm bolter."
+            }
+        },
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "1 Razorback"
+            },
+            "default-weapons": {
+                "1": "This model is equipped with: twin heavy bolter; armoured tracks."
+            }
+        },
+        "transport": "This model has a transport capacity of 6 Adeptus Astartes Infantry models. It cannot transport Jump Pack, Wulfen, Tacticus, Phobos, Gravis, Centurion or Terminator models.",
+        "keywords": {
+            "1": "Vehicle",
+            "2": "Smoke",
+            "3": "Transport",
+            "4": "Dedicated Transport",
+            "5": "Imperium",
+            "6": "Razorback"
+        },
+        "faction-keywords": {
+            "1": "Adeptus Astartes"
+        }
+    },
+    {
+        "unit-name": "Impulsor",
+        "uri-name": "impulsor",
+        "unit-description": "Equipped with vectored thrusters that make it faster than any other gravitic tank in the Space Marines' armouries, the Impulsor is a highly adaptable transport used by all Primaris Space Marines for rapid insertion and flanking manoeuvres. It is particularly favoured by Vanguard forces.",
+        "profiles": {
+            "M": "12\"",
+            "T": "9",
+            "SV": "3+",
+            "W": "11",
+            "LD": "6+",
+            "OC": "2"
+        },
+        "abilities": {
+            "core": "Deadly Demise D3, Firing Deck 6",
+            "faction": "Oath of Moment",
+            "1": "Assault Vehicle: Units can disembark from this Transport after it has Advanced. Units that do so count as having made a Normal move, and cannot declare a charge that turn."
+        },
+        "wargear abilities": {
+            "1": "Orbital Comms Array (Aura): While a friendly Adeptus Astartes unit is within 6\" of the bearer, each time you target that unit with a Stratagem, roll one D6: on a 5+, you gain 1CP.",
+            "2": "Shield Dome: The bearer has a 5+ invulnerable save."
+        },
+        "damaged": "",
+        "invulnerable-save": "",
+        "weapons": {
+            "ranged-weapons": {
+                "1": {
+                    "name": "Bellicatus missile array - frag [BLAST]",
+                    "range": "48\"",
+                    "A": "D6",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with"
+                },
+                "2": {
+                    "name": "Bellicatus missile array - Icarus [ANTI-FLY 2+]",
+                    "range": "48\"",
+                    "A": "D3",
+                    "BS": "3+",
+                    "S": "8",
+                    "AP": "-1",
+                    "D": "2",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with"
+                },
+                "3": {
+                    "name": "Bellicatus missile array - krak",
+                    "range": "48\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "8",
+                    "AP": "-2",
+                    "D": "D6",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with"
+                },
+                "4": {
+                    "name": "Fragstorm grenade launcher [BLAST]",
+                    "range": "18\"",
+                    "A": "D6",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "5": {
+                    "name": "Ironhail heavy stubber [RAPID FIRE 3]",
+                    "range": "36\"",
+                    "A": "3",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "6": {
+                    "name": "Ironhail skytalon array [ANTI-FLY 4+, SUSTAINED HITS 1]",
+                    "range": "36\"",
+                    "A": "8",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "7": {
+                    "name": "Storm bolter [RAPID FIRE 2]",
+                    "range": "24\"",
+                    "A": "2",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                }
+            },
+            "melee-weapons": {
+                "1": {
+                    "name": "Armoured hull",
+                    "range": "Melee",
+                    "A": "3",
+                    "WS": "4+",
+                    "S": "6",
+                    "AP": "0",
+                    "D": "1"
+                }
+            }
+        },
+        "wargear-options": {
+            "1": {
+                "description": "This model can be equipped with 1 ironhail heavy stubber."
+            },
+            "2": {
+                "description": "This model's 2 storm bolters can be replaced with 2 fragstorm grenade launchers."
+            },
+            "3": {
+                "description": "This model can be equipped with one of the following:",
+                "option1": "1 bellicatus missile array",
+                "option2": "1 ironhail skytalon array",
+                "option3": "1 orbital comms array",
+                "option4": "1 shield dome"
+            }
+        },
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "1 Impulsor"
+            },
+            "default-weapons": {
+                "1": "This model is equipped with: 2 storm bolters; armoured hull."
+            }
+        },
+        "transport": "This model has a transport capacity of 6 Tacticus or Phobos Infantry models. It cannot transport Jump Pack models.",
+        "keywords": {
+            "1": "Vehicle",
+            "2": "Transport",
+            "3": "Dedicated Transport",
+            "4": "Imperium",
+            "5": "Impulsor"
+        },
+        "faction-keywords": {
+            "1": "Adeptus Astartes"
+        }
+    },
+    {
+        "unit-name": "Drop Pod",
+        "uri-name": "drop-pod",
+        "unit-description": "Launched from ships in low orbit, Drop Pods full of Space Marines slam into the battlefield, their hatches blowing open upon the violent impact. Within seconds, the squad bursts out with weapons firing. Such deadly strikes send the foe into disarray as their lines are torn apart in the furious assault.",
+        "profiles": {
+            "M": "-",
+            "T": "7",
+            "SV": "3+",
+            "W": "8",
+            "LD": "6+",
+            "OC": "2"
+        },
+        "abilities": {
+            "core": "Deadly Demise 1, Deep Strike",
+            "faction": "Oath of Moment",
+            "1": "Drop Pod Assault: This model must start the battle in Reserves, but neither it nor any units embarked within it are counted towards any limits placed on the maximum number of Reserves units you can start the battle with. This model can be set up in the Reinforcements step of your first, second or third Movement phase, regardless of any mission rules. Any units embarked within this model must immediately disembark after it has been set up on the battlefield, and they must be set up more than 9\" away from all enemy models. After this model has been set up on the battlefield, no units can embark within it."
+        },
+        "wargear abilities": {},
+        "damaged": "",
+        "invulnerable-save": "",
+        "weapons": {
+            "ranged-weapons": {
+                "1": {
+                    "name": "Deathwind launcher [BLAST]",
+                    "range": "12\"",
+                    "A": "D6+1",
+                    "BS": "3+",
+                    "S": "5",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "2": {
+                    "name": "Storm bolter [RAPID FIRE 2]",
+                    "range": "24\"",
+                    "A": "2",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                }
+            },
+            "melee-weapons": {}
+        },
+        "wargear-options": {
+            "1": {
+                "description": "This model's storm bolter can be replaced with 1 deathwind launcher."
+            }
+        },
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "1 Drop Pod"
+            },
+            "default-weapons": {
+                "1": "This model is equipped with: storm bolter"
+            }
+        },
+        "transport": "This model has a transport capacity of 10 Adeptus Astartes Infantry models. It cannot transport Jump Pack, Wulfen, Gravis, Centurion or Terminator models.",
+        "keywords": {
+            "1": "Vehicle",
+            "2": "Transport",
+            "3": "Imperium",
+            "4": "Drop Pod"
+        },
+        "faction-keywords": {
+            "1": "Adeptus Astartes"
+        }
     }
 ]
