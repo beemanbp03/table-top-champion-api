@@ -12489,5 +12489,349 @@
         "faction-keywords": {
             "1": "Adeptus Astartes"
         }
+    },
+    {
+        "unit-name": "Land Speeder Storm",
+        "uri-name": "land-speeder-storm",
+        "unit-description": "The Land Speeder Storm is equipped with additional sensor arrays and baffled engines to make it the perfect transport for Scout Squads being secretly inserted into enemy territory. Countless victories in the annals of many Chapters can be attributed to the surprise attacks carried out by this vehicle and its occupants.",
+        "profiles": {
+            "M": "14\"",
+            "T": "7",
+            "SV": "4+",
+            "W": "7",
+            "LD": "6+",
+            "OC": "1"
+        },
+        "abilities": {
+            "core": "Deadly Demise 1, Firing Deck 6",
+            "faction": "Oath of Moment",
+            "1": "Storm Assault: Each time a unit disembarks from this model after it has made a Normal move, that unit is still eligible to declare a charge this turn."
+        },
+        "wargear abilities": {},
+        "damaged": "",
+        "invulnerable-save": "",
+        "weapons": {
+            "ranged-weapons": {
+                "1": {
+                    "name": "Cerberus launcher [BLAST]",
+                    "range": "18\"",
+                    "A": "D6+3",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "2": {
+                    "name": "Heavy bolter [SUSTAINED HITS 1]",
+                    "range": "36\"",
+                    "A": "3",
+                    "BS": "3+",
+                    "S": "5",
+                    "AP": "-1",
+                    "D": "2",
+                    "profile-selection": ""
+                }
+            },
+            "melee-weapons": {
+                "1": {
+                    "name": "Close combat weapon",
+                    "range": "Melee",
+                    "A": "3",
+                    "WS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1"
+                }
+            }
+        },
+        "wargear-options": {},
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "1 Land Speeder Storm"
+            },
+            "default-weapons": {
+                "1": "This model is equipped with: Cerberus launcher; heavy bolter; close combat weapon."
+            }
+        },
+        "transport": "This model has a transport capacity of 6 models. It can only transport Scout Squad, Scout Sniper Squad and Sergeant Telion models.",
+        "keywords": {
+            "1": "Vehicle",
+            "2": "Fly",
+            "3": "Transport",
+            "4": "Dedicated Transport",
+            "5": "Imperium",
+            "6": "Land Speeder Storm"
+        },
+        "faction-keywords": {
+            "1": "Adeptus Astartes"
+        }
+    },
+    {
+        "unit-name": "Stormhawk Interceptor",
+        "uri-name": "stormhawk-interceptor",
+        "unit-description": "Stormhawk Interceptors are high-altitude fighter craft designed solely for achieving aerial supremacy. Dropped from mag-cradles aboard orbiting craft, these ceramite-plated vehicles engage enemy air assets in brutal dogfights and are protected by countermeasures that launch blazing flares.",
+        "profiles": {
+            "M": "20+",
+            "T": "9",
+            "SV": "3+",
+            "W": "10",
+            "LD": "6+",
+            "OC": "0"
+        },
+        "abilities": {
+            "core": "Deadly Demise D3, Hover",
+            "faction": "Oath of Moment",
+            "1": "Interceptor: Each time this model makes a ranged attack that targets a unit that can Fly, add 1 to the Hit roll."
+        },
+        "wargear abilities": {},
+        "damaged": "",
+        "invulnerable-save": "",
+        "weapons": {
+            "ranged-weapons": {
+                "1": {
+                    "name": "Icarus stormcannon [ANTI-FLY 2+, TWIN-LINKED]",
+                    "range": "48\"",
+                    "A": "6",
+                    "BS": "3+",
+                    "S": "7",
+                    "AP": "-1",
+                    "D": "2",
+                    "profile-selection": ""
+                },
+                "2": {
+                    "name": "Las-talon",
+                    "range": "36\"",
+                    "A": "2",
+                    "BS": "3+",
+                    "S": "10",
+                    "AP": "-3",
+                    "D": "D6+1",
+                    "profile-selection": ""
+                },
+                "3": {
+                    "name": "Skyhammer missile launcher [ANTI-FLY 2+]",
+                    "range": "48\"",
+                    "A": "3",
+                    "BS": "3+",
+                    "S": "8",
+                    "AP": "-1",
+                    "D": "D3",
+                    "profile-selection": ""
+                },
+                "4": {
+                    "name": "Twin assault cannon [DEVASTATING WOUNDS, TWIN-LINKED]",
+                    "range": "24\"",
+                    "A": "6",
+                    "BS": "3+",
+                    "S": "6",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "5": {
+                    "name": "Twin heavy bolter [SUSTAINED HITS 1, TWIN-LINKED]",
+                    "range": "36\"",
+                    "A": "3",
+                    "BS": "3+",
+                    "S": "5",
+                    "AP": "-1",
+                    "D": "2",
+                    "profile-selection": ""
+                },
+                "6": {
+                    "name": "Typhoon missile launcher - frag [BLAST]",
+                    "range": "48\"",
+                    "A": "2D6",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+                },
+                "7": {
+                    "name": "Typhoon missile launcher - krak",
+                    "range": "48\"",
+                    "A": "2",
+                    "BS": "3+",
+                    "S": "9",
+                    "AP": "-2",
+                    "D": "D6",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+                }
+            },
+            "melee-weapons": {
+                "1": {
+                    "name": "Armoured hull",
+                    "range": "Melee",
+                    "A": "3",
+                    "WS": "4+",
+                    "S": "6",
+                    "AP": "0",
+                    "D": "1"
+                }
+            }
+        },
+        "wargear-options": {
+            "1": {
+                "description": "This model's skyhammer missile launcher can be replaced with one of the following: ",
+                "option1": "1 twin heavy bolter",
+                "option2": "1 typhoon missile launcher"
+            },
+            "2": {
+                "description": "This model's las-talon can be replaced with 1 Icarus stormcannon."
+            }
+        },
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "1 Stormhawk Interceptor"
+            },
+            "default-weapons": {
+                "1": "This model is equipped with: twin assault cannon; skyhammer missile launcher; las-talon; armoured hull."
+            }
+        },
+        "leader": {
+            "rule": "",
+            "special-rule": "",
+            "units": {}
+        },
+        "keywords": {
+            "1": "Vehicle",
+            "2": "Fly",
+            "3": "Aircraft",
+            "4": "Imperium",
+            "5": "Smoke",
+            "6": "Stormhawk Interceptor"
+        },
+        "faction-keywords": {
+            "1": "Adeptus Astartes"
+        }
+    },
+    {
+        "unit-name": "Stormtalon Gunship",
+        "uri-name": "stormtalon-gunship",
+        "unit-description": "Fast and manoeuvrable, the Stormtalon is an aerial interceptor optimised for escorting Stormraven Gunships. While fast enough to engage in aerial combat, its pilot can switch on the Stormtalon's repulsor systems, making it agile enough to closely support infantry in defence or on the attack.",
+        "profiles": {
+            "M": "20+",
+            "T": "8",
+            "SV": "3+",
+            "W": "10",
+            "LD": "6+",
+            "OC": "0"
+        },
+        "abilities": {
+            "core": "Deadly Demise D3, Hover",
+            "faction": "Oath of Moment",
+            "1": "Strafing Run: Each time this model makes a ranged attack that targets a unit that cannot Fly, add 1 to the Hit roll."
+        },
+        "wargear abilities": {},
+        "damaged": "",
+        "invulnerable-save": "",
+        "weapons": {
+            "ranged-weapons": {
+                "1": {
+                    "name": "Skyhammer missile launcher [ANTI-FLY 2+, TWIN-LINKED]",
+                    "range": "48\"",
+                    "A": "3",
+                    "BS": "3+",
+                    "S": "8",
+                    "AP": "-1",
+                    "D": "D3",
+                    "profile-selection": ""
+                },
+                "2": {
+                    "name": "Twin assault cannon [DEVASTATING WOUNDS, TWIN-LINKED]",
+                    "range": "24\"",
+                    "A": "6",
+                    "BS": "3+",
+                    "S": "6",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "3": {
+                    "name": "Twin heavy bolter [SUSTAINED HITS 1, TWIN-LINKED]",
+                    "range": "36\"",
+                    "A": "3",
+                    "BS": "3+",
+                    "S": "5",
+                    "AP": "-1",
+                    "D": "2",
+                    "profile-selection": ""
+                },
+                "4": {
+                    "name": "Twin lascannon [TWIN-LINKED]",
+                    "range": "48\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "12",
+                    "AP": "-3",
+                    "D": "D6+1",
+                    "profile-selection": ""
+                },
+                "5": {
+                    "name": "Typhoon missile launcher - frag [BLAST]",
+                    "range": "48\"",
+                    "A": "2D6",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "6": {
+                    "name": "Typhoon missile launcher - krak",
+                    "range": "48\"",
+                    "A": "2",
+                    "BS": "3+",
+                    "S": "9",
+                    "AP": "-2",
+                    "D": "D6",
+                    "profile-selection": ""
+                }
+            },
+            "melee-weapons": {
+                "1": {
+                    "name": "Armoured hull",
+                    "range": "Melee",
+                    "A": "3",
+                    "WS": "4+",
+                    "S": "6",
+                    "AP": "0",
+                    "D": "1"
+                }
+            }
+        },
+        "wargear-options": {
+            "1": {
+                "description": "This model's skyhammer missile launcher can be replaced with one of the following:",
+                "option1": "1 twin heavy bolter",
+                "option2": "1 twin lascannon",
+                "option3": "1 typhoon missile launcher"
+            }
+        },
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "1 Stormtalon Gunship"
+            },
+            "default-weapons": {
+                "1": "This model is equipped with: skyhammer missile launcher; twin assault cannon; armoured hull."
+            }
+        },
+        "leader": {
+            "rule": "",
+            "special-rule": "",
+            "units": {}
+        },
+        "keywords": {
+            "1": "Vehicle",
+            "2": "Fly",
+            "3": "Aircraft",
+            "4": "Imperium",
+            "5": "Stormtalon Gunship"
+        },
+        "faction-keywords": {
+            "1": "Adeptus Astartes"
+        }
     }
 ]
