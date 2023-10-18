@@ -12833,5 +12833,270 @@
         "faction-keywords": {
             "1": "Adeptus Astartes"
         }
+    },
+    {
+        "unit-name": "Stormraven Gunship",
+        "uri-name": "stormraven-gunship",
+        "unit-description": "The Stormraven superbly combines the role of reliable combat drop-ship and deadly aerial combatant. A capacious troop bay and thick layers of armour allow it to effectively transport squads of Space Marines - and, thanks to its magna-grapples, even a Dreadnought - into the very heart of battle.",
+        "profiles": {
+            "M": "20+\"",
+            "T": "10",
+            "SV": "3+",
+            "W": "14",
+            "LD": "6+",
+            "OC": "0"
+        },
+        "abilities": {
+            "core": "Deadly Demise D6, Hover",
+            "faction": "Oath of Moment",
+            "1": "Armoured Resilience: Each time an attack is allocated to this model, subtract 1 from the Damage characteristic of that attack."
+        },
+        "wargear abilities": {},
+        "damaged": "While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.",
+        "invulnerable-save": "",
+        "weapons": {
+            "ranged-weapons": {
+                "1": {
+                    "name": "Hurricane bolter [RAPID FIRE 6, TWIN-LINKED]",
+                    "range": "24\"",
+                    "A": "6",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "2": {
+                    "name": "Stormstrike missile launcher",
+                    "range": "48\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "10",
+                    "AP": "-2",
+                    "D": "3",
+                    "profile-selection": ""
+                },
+                "3": {
+                    "name": "Twin assault cannon [DEVASTATING WOUNDS, TWIN-LINKED]",
+                    "range": "24\"",
+                    "A": "6",
+                    "BS": "3+",
+                    "S": "6",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                "4": {
+                    "name": "Twin heavy bolter [SUSTAINED HITS 1, TWIN-LINKED]",
+                    "range": "36\"",
+                    "A": "3",
+                    "BS": "3+",
+                    "S": "5",
+                    "AP": "-1",
+                    "D": "2",
+                    "profile-selection": ""
+                },
+                "5": {
+                    "name": "Twin heavy plasma cannon - standard [BLAST, TWIN-LINKED]",
+                    "range": "36\"",
+                    "A": "D3",
+                    "BS": "3+",
+                    "S": "7",
+                    "AP": "-2",
+                    "D": "2",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with"
+                },
+                "6": {
+                    "name": "Twin heavy plasma cannon - supercharge [BLAST, HAZARDOUS, TWIN-LINKED]",
+                    "range": "36\"",
+                    "A": "D3",
+                    "BS": "3+",
+                    "S": "8",
+                    "AP": "-3",
+                    "D": "3",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with"
+                },
+                "7": {
+                    "name": "Twin lascannon [TWIN-LINKED]",
+                    "range": "48\"",
+                    "A": "1",
+                    "BS": "3+",
+                    "S": "12",
+                    "AP": "-3",
+                    "D": "D6+1",
+                    "profile-selection": ""
+                },
+                "8": {
+                    "name": "Twin multi-melta [MELTA 2, TWIN-LINKED]",
+                    "range": "18\"",
+                    "A": "2",
+                    "BS": "3+",
+                    "S": "9",
+                    "AP": "-4",
+                    "D": "D6",
+                    "profile-selection": ""
+                },
+                "9": {
+                    "name": "Typhoon missile launcher - frag [BLAST]",
+                    "range": "48\"",
+                    "A": "2D6",
+                    "BS": "3+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with"
+                },
+                "10": {
+                    "name": "Typhoon missile launcher - krak",
+                    "range": "48\"",
+                    "A": "2",
+                    "BS": "3+",
+                    "S": "9",
+                    "AP": "-2",
+                    "D": "D6",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with"
+                }
+            },
+            "melee-weapons": {
+                "1": {
+                    "name": "Armoured hull",
+                    "range": "Melee",
+                    "A": "6",
+                    "WS": "4+",
+                    "S": "8",
+                    "AP": "0",
+                    "D": "1"
+                }
+            }
+        },
+        "wargear-options": {
+            "1": {
+                "description": "This model's twin assault cannon can be replaced with one of the following: ",
+                "option1": "1 twin heavy plasma cannon",
+                "option2": "1 twin lascannon"
+            },
+            "2": {
+                "description": "This model's typhoon missile launcher can be replaced with one of the following:",
+                "option1": "1 twin heavy bolter",
+                "option2": "1 twin multi-melta"
+            },
+            "3": {
+                "description": "This model can be equipped with 2 hurricane bolters."
+            }
+        },
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "1 Stormraven Gunship"
+            },
+            "default-weapons": {
+                "1": "This model is equipped with: 2 stormstrike missile launchers; twin assault cannon; typhoon missile launcher; armoured hull."
+            }
+        },
+        "transport": "This model has a transport capacity of 12 Adeptus Astartes Infantry models and 1 Dreadnought model. Each Jump Pack, Wulfen, Gravis or Terminator model takes up the space of 2 models and each Centurion model takes up the space of 3 models.",
+        "keywords": {
+            "1": "Vehicle",
+            "2": "Fly",
+            "3": "Aircraft",
+            "4": "Transport",
+            "5": "Imperium",
+            "6": "Stormraven Gunship"
+        },
+        "faction-keywords": {
+            "1": "Adeptus Astartes"
+        }
+    },
+    {
+        "unit-name": "Hammerfall Bunker",
+        "uri-name": "hammerfall-bunker",
+        "unit-description": "Hammerfall Bunkers are launched from Space Marine warships in the same manner as Drop Pods. Automated area-denial assets crewed by hard-wired servitors, they have all kinds of battlefield roles, including securing beachheads, hampering enemy assaults and wreaking havoc behind the foe's lines.",
+        "profiles": {
+            "M": "-",
+            "T": "12",
+            "SV": "2+",
+            "W": "14",
+            "LD": "6+",
+            "OC": "0"
+        },
+        "abilities": {
+            "core": "Deadly Demise D6",
+            "faction": "Oath of Moment",
+            "1": "Fortification: While an enemy unit is only within Engagement Range of one or more Fortifications from your army: \nThat unit can still be selected as the target of ranged attacks, but each time such an attack is made, unless it is made with a Pistol, subtract 1 from the Hit roll.\nModels in that unit do not need to take Desperate Escape tests due to Falling Back while Battle-shocked, except for those that will move over enemy models when doing so.",
+            "2": "Ceramite Cover: Each time a ranged attack is allocated to a model, if that model is not fully visible to every model in the attacking unit because of this Fortification, that model has the Benefit of Cover against that attack."
+        },
+        "wargear abilities": {},
+        "damaged": "While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.",
+        "invulnerable-save": "",
+        "weapons": {
+            "ranged-weapons": {
+                "1": {
+                    "name": "Hammerfall heavy bolter array [DEFENSIVE ARRAY*, SUSTAINED HITS 1, TWIN-LINKED]",
+                    "range": "36\"",
+                    "A": "6",
+                    "BS": "4+",
+                    "S": "5",
+                    "AP": "-1",
+                    "D": "2",
+                    "profile-selection": "* Defensive Array: Each time an enemy unit is set up or ends a Normal, Advance or Fall Back move within range of this weapon, if that enemy unit is an eligible target, the bearer can shoot this weapon at that target as if it were your Shooting phase. The bearer can shoot up to four times in this way in your opponent's Movement phase."
+                },
+                "2": {
+                    "name": "Hammerfell heavy flamer array [DEFENSIVE ARRAY*, IGNORES COVER, TORRENT, TWIN-LINKED]",
+                    "range": "12\"",
+                    "A": "2D6",
+                    "BS": "n/a",
+                    "S": "5",
+                    "AP": "-1",
+                    "D": "1",
+                    "profile-selection": "* Defensive Array: Each time an enemy unit is set up or ends a Normal, Advance or Fall Back move within range of this weapon, if that enemy unit is an eligible target, the bearer can shoot this weapon at that target as if it were your Shooting phase. The bearer can shoot up to four times in this way in your opponent's Movement phase."
+                },
+                "3": {
+                    "name": "",
+                    "range": "",
+                    "A": "",
+                    "BS": "",
+                    "S": "",
+                    "AP": "",
+                    "D": "",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+                },
+                "4": {
+                    "name": "",
+                    "range": "",
+                    "A": "",
+                    "BS": "",
+                    "S": "",
+                    "AP": "",
+                    "D": "",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+                }
+            },
+            "melee-weapons": {}
+        },
+        "wargear-options": {
+            "1": {
+                "description": "This model's Hammerfall heavy bolter array can be replaced with 1 Hammerfall heavy flamer array."
+            }
+        },
+        "unit-composition": {
+            "model-types-and-numbers": {
+                "1": "1 Hammerfall Bunker"
+            },
+            "default-weapons": {
+                "1": "This model is equipped with: Hammerfall heavy bolter array; Hammerfall missile launcher."
+            }
+        },
+        "leader": {
+            "rule": "",
+            "special-rule": "",
+            "units": {}
+        },
+        "keywords": {
+            "1": "Fortification",
+            "2": "Imperium",
+            "3": "Hammerfall",
+            "4": "Bunker"
+        },
+        "faction-keywords": {
+            "1": "Adeptus Astartes"
+        }
     }
 ]
