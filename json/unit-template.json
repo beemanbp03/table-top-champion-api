@@ -1,0 +1,69 @@
+{
+    "unit-name": "",
+    "uri-name": "unit-name-that-is-hyphenated",
+    "unit-description": "",
+    "profiles": {
+        "M": "",
+        "T": "",
+        "SV": "",
+        "W": "",
+        "LD": "",
+        "OC": ""
+    },
+    "abilities": {
+        "core": "",
+        "faction": "",
+        "items": [
+            "",
+            ""
+        ]
+    },
+    "wargear abilities": [
+        "",
+        ""
+    ],
+    "damaged": "",
+    "invulnerable-save": "",
+    "weapons": {
+        "ranged-weapons": [
+            {
+                "name": "",
+                "range": "",
+                "A": "",
+                "BS": "",
+                "S": "",
+                "AP": "",
+                "D": "",
+                "profile-selection": ""
+            }
+        ],
+        "melee-weapons": [
+            {
+                "name": "",
+                "range": "",
+                "A": "",
+                "WS": "",
+                "S": "",
+                "AP": "",
+                "D": ""
+            } 
+        ]
+    },
+    "wargear-options": [
+        {
+            "description": "",
+            "options": []
+        }
+    ],
+    "unit-composition": {
+        "model-types-and-numbers": [],
+        "default-weapons": []
+    },
+    "leader": {
+        "rule": "",
+        "special-rule": "",
+        "units": []
+    },
+    "keywords": [],
+    "faction-keywords": []
+}

@@ -17,7 +17,7 @@ const readJsonFile = (filePath) => {
     }
 }
 
-const filePath = './json/space-marines/unit-datasheets.json';
+const filePath = './json/space-marines/space-marine-unit-datasheets.json';
 const dataArray = readJsonFile(filePath);
 console.log("unit-datasheets length: " + dataArray.length);
 
