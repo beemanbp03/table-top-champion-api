@@ -502,5 +502,253 @@
             "Tervigon"
         ],
         "faction-keywords": ["Tyranids"]
+    },
+    {
+        "unit-name": "Old One Eye",
+        "uri-name": "old-one-eye",
+        "unit-description": "Known as the Beast of Calth, this unstoppable brute was first seen during the First Tyrannic War. Though many have thought it slain over the centuries, always the scarred monster rises again. Whether it is a Tyranid subgenus or the same unstoppable monster come again is a mystery few in its path live long enough to ponder.",
+        "profiles": {
+            "M": "8\"",
+            "T": "9",
+            "SV": "2+",
+            "W": "9",
+            "LD": "8+",
+            "OC": "3"
+        },
+        "abilities": {
+            "core": "Feel No Pain 5+, Leader",
+            "faction": "Synapse",
+            "items": [
+                "Alpha Leader: While this model is leading a unit, each time a model in that unit makes an attack, you can re-roll the Hit roll.",
+                "Unstoppable Monster: At the start of each player's Command phase, this model regains up to D3 lost wounds."
+            ]
+        },
+        "wargear abilities": [],
+        "damaged": "",
+        "invulnerable-save": "",
+        "weapons": {
+            "ranged-weapons": [],
+            "melee-weapons": [
+                {
+                    "name": "Old One Eye's claws and talons - strike",
+                    "range": "Melee",
+                    "A": "6",
+                    "WS": "3+",
+                    "S": "14",
+                    "AP": "-3",
+                    "D": "D6+1",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+                },
+                {
+                    "name": "Old One Eye's claws and talons - sweep",
+                    "range": "Melee",
+                    "A": "12",
+                    "WS": "3+",
+                    "S": "6",
+                    "AP": "-1",
+                    "D": "1",
+                    "profile-selection": "Before selecting targets for this weapon, select one of its profiles to make attacks with."
+                } 
+            ]
+        },
+        "wargear-options": [],
+        "unit-composition": {
+            "model-types-and-numbers": ["1 Old One Eye - Epic Hero"],
+            "default-weapons": ["This model is equipped with: Old One Eye's claws and talons"]
+        },
+        "leader": {
+            "rule": "This model can be attached to the following unit:",
+            "special-rule": "",
+            "units": ["Carnifexes"]
+        },
+        "keywords": [
+            "Monster",
+            "Character",
+            "Epic Hero",
+            "Great Devourer",
+            "Old One Eye"
+        ],
+        "faction-keywords": ["Tyranids"]
+    },
+    {
+        "unit-name": "Tyranid Warriors - With Ranged Bio-weapons",
+        "uri-name": "tyranids-warriors-with-ranged-bio-weapons",
+        "unit-description": "Strong, swift, independently intelligent and amongst the Hive Mind's most adaptable bioforms, Tyranid Warriors are the backbone of many Tyranid invasions. Their synaptic link imbues them with advanced martial abilities, and also allows them to serve as synaptic linchpins within the wider swarms during battle.",
+        "profiles": {
+            "M": "6\"",
+            "T": "5",
+            "SV": "4+",
+            "W": "3",
+            "LD": "7+",
+            "OC": "2"
+        },
+        "abilities": {
+            "core": "",
+            "faction": "Shadow in the Warp, Synapse",
+            "items": [
+                "Adaptable Predators: This unit is eligible to shoot and declare a charge in a turn in which it Fell Back."
+            ]
+        },
+        "wargear abilities": [],
+        "damaged": "",
+        "invulnerable-save": "",
+        "weapons": {
+            "ranged-weapons": [
+                {
+                    "name": "Barbed strangler [BLAST]",
+                    "range": "36\"",
+                    "A": "D6+1",
+                    "BS": "4+",
+                    "S": "6",
+                    "AP": "-1",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                {
+                    "name": "Deathspitter",
+                    "range": "24\"",
+                    "A": "3",
+                    "BS": "4+",
+                    "S": "5",
+                    "AP": "-1",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                {
+                    "name": "Devourer",
+                    "range": "18\"",
+                    "A": "5",
+                    "BS": "4+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                {
+                    "name": "Spinefists [ASSAULT, PISTOL, TWIN-LINKED]",
+                    "range": "12\"",
+                    "A": "2",
+                    "BS": "4+",
+                    "S": "4",
+                    "AP": "0",
+                    "D": "1",
+                    "profile-selection": ""
+                },
+                {
+                    "name": "Venom cannon [BLAST]",
+                    "range": "36\"",
+                    "A": "D3",
+                    "BS": "4+",
+                    "S": "9",
+                    "AP": "-2",
+                    "D": "2",
+                    "profile-selection": ""
+                }
+            ],
+            "melee-weapons": [
+                {
+                    "name": "Bio-weapon",
+                    "range": "Melee",
+                    "A": "5",
+                    "WS": "3+",
+                    "S": "5",
+                    "AP": "-1",
+                    "D": "1",
+                    "profile-selection": ""
+                } 
+            ]
+        },
+        "wargear-options": [
+            {
+                "description": "Any number of models can each have their devourer replaced with one of the following:",
+                "options": [
+                    "1 deathspitter",
+                    "1 spinefists"
+                ]
+            },
+            {
+                "description": "For every 3 models in this unit, 1 model's devourer can be replaced with 1 barbed strangler.",
+                "options": []
+            },
+            {
+                "description": "For every 3 models in this unit, 1 model's devourer can be replaced with 1 venom cannon",
+                "options": []
+            }
+        ],
+        "unit-composition": {
+            "model-types-and-numbers": [
+                "1 Tyranid Prime",
+                "2-5 Tyranid Warriors"
+            ],
+            "default-weapons": ["Every model is equipped with: devourer; bio-weapons."]
+        },
+        "leader": {
+            "rule": "",
+            "special-rule": "",
+            "units": []
+        },
+        "keywords": [
+            "Infantry",
+            "Synapse",
+            "Tyranid Warriors with Ranged Bio-weapons"
+        ],
+        "faction-keywords": ["Tyranids"]
+    },
+    {
+        "unit-name": "Tyranid Warriors - With Melee Bio-weapons",
+        "uri-name": "tyranid-warriors-with-melee-bio-weapons",
+        "unit-description": "Strong, swift, independently intelligent and amongst the Hive Mind's most adaptable bioforms, Tyranid Warriors are the backbone of many Tyranid invasions. Their synaptic link imbues them with advanced martial abilities, and also allows them to serve as synaptic linchpins within the wider swarms during battle",
+        "profiles": {
+            "M": "6\"",
+            "T": "5",
+            "SV": "4+",
+            "W": "3",
+            "LD": "7+",
+            "OC": "2"
+        },
+        "abilities": {
+            "core": "",
+            "faction": "Shadow in the Warp, Synapse",
+            "items": [
+                "Adrenalised Onslaught: At the start of the Fight phase, you can select one of the following abilities to apply to models in this unit until the end of the phase: \nAggression Imperative: Each time a model in this unit makes a melee attack, re-roll a Hit roll of 1.\nPreservation Imperative: Each time a saving throw is made for a model in this unit, re-roll a saving throw of 1."
+            ]
+        },
+        "wargear abilities": [],
+        "damaged": "",
+        "invulnerable-save": "",
+        "weapons": {
+            "ranged-weapons": [],
+            "melee-weapons": [
+                {
+                    "name": "Bio-weapons [TWIN-LINKED]",
+                    "range": "Melee",
+                    "A": "6",
+                    "WS": "3+",
+                    "S": "5",
+                    "AP": "-2",
+                    "D": "1",
+                    "profile-selection": ""
+                } 
+            ]
+        },
+        "wargear-options": [],
+        "unit-composition": {
+            "model-types-and-numbers": [
+                "1 Tyranid Prime",
+                "2-5 Tyranid Warriors"
+            ],
+            "default-weapons": ["Every model is equipped with: bio-weapons"]
+        },
+        "leader": {
+            "rule": "",
+            "special-rule": "",
+            "units": []
+        },
+        "keywords": [
+            "Infantry",
+            "Synapse",
+            "Tyranid Warriors with Melee Bio-weapons"
+        ],
+        "faction-keywords": ["Tyranids"]
     }
 ]

@@ -16,10 +16,15 @@ const readJsonFile = (filePath) => {
         console.log("Error reading JSON file: " + err);
     }
 }
+//Space Marines Array Length Output
+const spaceMarineFilePath = './json/space-marines/space-marine-unit-datasheets.json';
+const spaceMarineDataArray = readJsonFile(spaceMarineFilePath);
+console.log("\nSpace Marines length: " + spaceMarineDataArray.length);
 
-const filePath = './json/space-marines/space-marine-unit-datasheets.json';
-const dataArray = readJsonFile(filePath);
-console.log("unit-datasheets length: " + dataArray.length);
+//Tyranids Array Length Output
+const tyranidsFilePath = './json/tyranids/tyranids-unit-datasheets.json';
+const tyranidsDataArray = readJsonFile(tyranidsFilePath);
+console.log("Tyranids length: " + tyranidsDataArray.length + "\n");
 
 app.get("/", (req, res) => {
     res.send(`<h1>API for Warhammer 40,000 10th Edition</h1>`);
