@@ -88,7 +88,8 @@
                     "WS": "2+",
                     "S": "4",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Master-crafted power weapon",
@@ -97,7 +98,8 @@
                     "WS": "2+",
                     "S": "5",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Power fist",
@@ -106,7 +108,8 @@
                     "WS": "2+",
                     "S": "8",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -209,7 +212,8 @@
                     "WS": "2+",
                     "S": "5",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Power fist",
@@ -218,7 +222,8 @@
                     "WS": "2+",
                     "S": "8",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Relic blade [EXTRA ATTACKS]",
@@ -227,7 +232,8 @@
                     "WS": "2+",
                     "S": "5",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Relic chainsword [EXTRA ATTACKS]",
@@ -236,7 +242,8 @@
                     "WS": "2+",
                     "S": "4",
                     "AP": "-1",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Relic fist [EXTRA ATTACKS]",
@@ -245,7 +252,8 @@
                     "WS": "2+",
                     "S": "8",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -342,7 +350,8 @@
                     "WS": "2+",
                     "S": "4",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -436,7 +445,8 @@
                     "WS": "3+",
                     "S": "8",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Power fist",
@@ -445,7 +455,8 @@
                     "WS": "2+",
                     "S": "8",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Relic weapon",
@@ -454,7 +465,8 @@
                     "WS": "2+",
                     "S": "5",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Thunder hammer [DEVASTATING WOUNDS]",
@@ -463,7 +475,8 @@
                     "WS": "3+",
                     "S": "8",
                     "AP": "-2",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Twin lightning claws [TWIN-LINKED]",
@@ -472,7 +485,8 @@
                     "WS": "2+",
                     "S": "5",
                     "AP": "-2",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -637,7 +651,8 @@
                     "WS": "2+",
                     "S": "4",
                     "AP": "-1",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Close combat weapon",
@@ -646,7 +661,8 @@
                     "WS": "2+",
                     "S": "4",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Power fist",
@@ -655,7 +671,8 @@
                     "WS": "2+",
                     "S": "8",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Relic weapon",
@@ -664,7 +681,8 @@
                     "WS": "2+",
                     "S": "5",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Thunder hammer [DEVASTATING WOUNDS]",
@@ -673,7 +691,8 @@
                     "WS": "3+",
                     "S": "8",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Twin lightning claws [TWIN-LINKED]",
@@ -682,7 +701,8 @@
                     "WS": "2+",
                     "S": "5",
                     "AP": "-2",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -847,7 +867,8 @@
                     "WS": "2+",
                     "S": "4",
                     "AP": "-1",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Close combat weapon",
@@ -856,7 +877,8 @@
                     "WS": "2+",
                     "S": "4",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Power fist",
@@ -865,7 +887,8 @@
                     "WS": "2+",
                     "S": "8",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Relic weapon",
@@ -874,7 +897,8 @@
                     "WS": "2+",
                     "S": "5",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Thunder hammer [DEVASTATING WOUNDS]",
@@ -883,7 +907,8 @@
                     "WS": "3+",
                     "S": "8",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Twin lightning claws [TWIN-LINKED]",
@@ -892,7 +917,8 @@
                     "WS": "2+",
                     "S": "5",
                     "AP": "-2",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -1070,7 +1096,8 @@
                     "WS": "2+",
                     "S": "4",
                     "AP": "-1",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Close combat weapon",
@@ -1079,7 +1106,8 @@
                     "WS": "2+",
                     "S": "4",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Power fist",
@@ -1088,7 +1116,8 @@
                     "WS": "2+",
                     "S": "8",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Relic weapon",
@@ -1097,7 +1126,8 @@
                     "WS": "2+",
                     "S": "5",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Thunder hammer [DEVASTATING WOUNDS]",
@@ -1106,7 +1136,8 @@
                     "WS": "3+",
                     "S": "8",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Twin lightning claws [TWIN-LINKED]",
@@ -1115,7 +1146,8 @@
                     "WS": "2+",
                     "S": "5",
                     "AP": "-2",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -1267,7 +1299,8 @@
                     "WS": "2+",
                     "S": "4",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Master-crafted power weapon",
@@ -1276,7 +1309,8 @@
                     "WS": "2+",
                     "S": "5",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Power fist",
@@ -1285,7 +1319,8 @@
                     "WS": "2+",
                     "S": "8",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -1388,7 +1423,8 @@
                     "WS": "2+",
                     "S": "4",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -1475,7 +1511,8 @@
                     "WS": "2+",
                     "S": "4",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -1626,7 +1663,8 @@
                     "WS": "2+",
                     "S": "4",
                     "AP": "-1",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Close combat weapon",
@@ -1635,7 +1673,8 @@
                     "WS": "2+",
                     "S": "4",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Power fist",
@@ -1644,7 +1683,8 @@
                     "WS": "2+",
                     "S": "8",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Power weapon",
@@ -1653,7 +1693,8 @@
                     "WS": "2+",
                     "S": "5",
                     "AP": "-2",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Thunder hammer [DEVASTATING WOUNDS]",
@@ -1662,7 +1703,8 @@
                     "WS": "3+",
                     "S": "8",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Twin lightning claws [TWIN-LINKED]",
@@ -1671,7 +1713,8 @@
                     "WS": "2+",
                     "S": "5",
                     "AP": "-2",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -1794,7 +1837,8 @@
                     "WS": "3+",
                     "S": "6",
                     "AP": "-1",
-                    "D": "D3"
+                    "D": "D3",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -1896,7 +1940,8 @@
                     "WS": "3+",
                     "S": "6",
                     "AP": "-1",
-                    "D": "D3"
+                    "D": "D3",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -2006,7 +2051,8 @@
                     "WS": "3+",
                     "S": "6",
                     "AP": "-1",
-                    "D": "D3"
+                    "D": "D3",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -2192,7 +2238,8 @@
                     "WS": "3+",
                     "S": "6",
                     "AP": "-1",
-                    "D": "D3"
+                    "D": "D3",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -2284,7 +2331,8 @@
                     "WS": "2+",
                     "S": "6",
                     "AP": "-1",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -2375,7 +2423,8 @@
                     "WS": "2+",
                     "S": "6",
                     "AP": "-1",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -2466,7 +2515,8 @@
                     "WS": "2+",
                     "S": "6",
                     "AP": "-1",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -2622,7 +2672,8 @@
                     "WS": "2+",
                     "S": "6",
                     "AP": "-1",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Power fist",
@@ -2631,7 +2682,8 @@
                     "WS": "2+",
                     "S": "8",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -2803,7 +2855,8 @@
                     "WS": "2+",
                     "S": "6",
                     "AP": "-1",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Power fist",
@@ -2812,7 +2865,8 @@
                     "WS": "2+",
                     "S": "8",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -2914,7 +2968,8 @@
                     "WS": "3+",
                     "S": "6",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Servo-arm [EXTRA ATTACKS]",
@@ -2923,7 +2978,8 @@
                     "WS": "3+",
                     "S": "8",
                     "AP": "-2",
-                    "D": "3"
+                    "D": "3",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -3072,7 +3128,8 @@
                     "WS": "3+",
                     "S": "4",
                     "AP": "-1",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Omnissian power axe",
@@ -3081,7 +3138,8 @@
                     "WS": "3+",
                     "S": "6",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Plasma cutter [EXTRA ATTACKS]",
@@ -3090,7 +3148,8 @@
                     "WS": "3+",
                     "S": "8",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Power fist",
@@ -3099,7 +3158,8 @@
                     "WS": "3+",
                     "S": "8",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Servo-arm [EXTRA ATTACKS]",
@@ -3108,7 +3168,8 @@
                     "WS": "3+",
                     "S": "8",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Thunder hammer [DEVASTATING WOUNDS]",
@@ -3117,7 +3178,8 @@
                     "WS": "4+",
                     "S": "8",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -3246,7 +3308,8 @@
                     "WS": "5+",
                     "S": "3",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Servitor servo-arm",
@@ -3255,7 +3318,8 @@
                     "WS": "5+",
                     "S": "6",
                     "AP": "-2",
-                    "D": "3"
+                    "D": "3",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -3390,7 +3454,8 @@
                     "WS": "3+",
                     "S": "4",
                     "AP": "-1",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Close combat weapon",
@@ -3399,7 +3464,8 @@
                     "WS": "3+",
                     "S": "4",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Power fist",
@@ -3408,7 +3474,8 @@
                     "WS": "3+",
                     "S": "8",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Power weapon",
@@ -3417,7 +3484,8 @@
                     "WS": "3+",
                     "S": "5",
                     "AP": "-2",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Thunder hammer [DEVASTATING WOUNDS]",
@@ -3426,7 +3494,8 @@
                     "WS": "4+",
                     "S": "8",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -3533,7 +3602,8 @@
                     "WS": "3+",
                     "S": "4",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -3636,7 +3706,8 @@
                     "WS": "3+",
                     "S": "4",
                     "AP": "-1",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Power fist",
@@ -3645,7 +3716,8 @@
                     "WS": "3+",
                     "S": "8",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Power weapon",
@@ -3654,7 +3726,8 @@
                     "WS": "3+",
                     "S": "5",
                     "AP": "-2",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Thunder hammer [DEVASTATING WOUNDS]",
@@ -3663,7 +3736,8 @@
                     "WS": "4+",
                     "S": "8",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -3854,7 +3928,8 @@
                     "WS": "3+",
                     "S": "6",
                     "AP": "-1",
-                    "D": "D3"
+                    "D": "D3",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -3946,7 +4021,8 @@
                     "WS": "2+",
                     "S": "4",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -4041,7 +4117,8 @@
                     "WS": "3+",
                     "S": "4",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -4132,7 +4209,8 @@
                     "WS": "3+",
                     "S": "4",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -4225,7 +4303,8 @@
                     "WS": "3+",
                     "S": "4",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -4363,7 +4442,8 @@
                     "WS": "3+",
                     "S": "4",
                     "AP": "-1",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Close combat weapon",
@@ -4372,7 +4452,8 @@
                     "WS": "3+",
                     "S": "4",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Power fist",
@@ -4381,7 +4462,8 @@
                     "WS": "3+",
                     "S": "8",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Power weapon",
@@ -4390,7 +4472,8 @@
                     "WS": "3+",
                     "S": "5",
                     "AP": "-2",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Thunder hammer [DEVASTATING WOUNDS]",
@@ -4399,7 +4482,8 @@
                     "WS": "4+",
                     "S": "8",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Twin lightning claws [TWIN-LINKED]",
@@ -4408,7 +4492,8 @@
                     "WS": "3+",
                     "S": "4",
                     "AP": "-2",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -4574,7 +4659,8 @@
                     "WS": "3+",
                     "S": "4",
                     "AP": "-1",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Close combat weapon",
@@ -4583,7 +4669,8 @@
                     "WS": "3+",
                     "S": "4",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Combat knife",
@@ -4592,7 +4679,8 @@
                     "WS": "3+",
                     "S": "4",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Power fist",
@@ -4601,7 +4689,8 @@
                     "WS": "3+",
                     "S": "8",
                     "AP": "-2",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Power weapon",
@@ -4610,7 +4699,8 @@
                     "WS": "3+",
                     "S": "5",
                     "AP": "-2",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Thunder hammer [DEVASTATING WOUNDS]",
@@ -4619,7 +4709,8 @@
                     "WS": "4+",
                     "S": "8",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -4754,7 +4845,8 @@
                     "WS": "3+",
                     "S": "4",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -4832,7 +4924,8 @@
                     "WS": "2+",
                     "S": "5",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -4922,7 +5015,8 @@
                     "WS": "3+",
                     "S": "4",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -5003,7 +5097,8 @@
                     "WS": "3+",
                     "S": "4",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -5090,7 +5185,8 @@
                     "WS": "2+",
                     "S": "4",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Power weapon",
@@ -5099,7 +5195,8 @@
                     "WS": "2+",
                     "S": "5",
                     "AP": "-2",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -5184,7 +5281,8 @@
                     "WS": "2+",
                     "S": "4",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -5262,7 +5360,8 @@
                     "WS": "3+",
                     "S": "8",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Close combat weapon",
@@ -5271,7 +5370,8 @@
                     "WS": "2+",
                     "S": "4",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Power fist",
@@ -5280,7 +5380,8 @@
                     "WS": "2+",
                     "S": "4",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Power weapon",
@@ -5289,7 +5390,8 @@
                     "WS": "2+",
                     "S": "5",
                     "AP": "-2",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Thunder hammer [DEVASTATING WOUNDS]",
@@ -5298,7 +5400,8 @@
                     "WS": "3+",
                     "S": "8",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Twin lightning claws [TWIN-LINKED]",
@@ -5307,7 +5410,8 @@
                     "WS": "2+",
                     "S": "5",
                     "AP": "-2",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -5430,7 +5534,8 @@
                     "WS": "3+",
                     "S": "5",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -5575,7 +5680,8 @@
                     "WS": "3+",
                     "S": "4",
                     "AP": "-1",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Close combat weapon",
@@ -5584,7 +5690,8 @@
                     "WS": "3+",
                     "S": "4",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Champion's blade [PRECISION]",
@@ -5593,7 +5700,8 @@
                     "WS": "3+",
                     "S": "5",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Power fist",
@@ -5602,7 +5710,8 @@
                     "WS": "3+",
                     "S": "8",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Power weapon",
@@ -5611,7 +5720,8 @@
                     "WS": "3+",
                     "S": "5",
                     "AP": "-2",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Thunder hammer [DEVASTATING WOUNDS]",
@@ -5620,7 +5730,8 @@
                     "WS": "4+",
                     "S": "8",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Twin lightning claws [TWIN-LINKED]",
@@ -5629,7 +5740,8 @@
                     "WS": "3+",
                     "S": "4",
                     "AP": "-2",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -5804,7 +5916,8 @@
                     "WS": "3+",
                     "S": "5",
                     "AP": "-1",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -5939,7 +6052,8 @@
                     "WS": "3+",
                     "S": "5",
                     "AP": "-1",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -6054,7 +6168,8 @@
                     "WS": "3+",
                     "S": "4",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -6135,7 +6250,8 @@
                     "WS": "2+",
                     "S": "7",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -6227,7 +6343,8 @@
                     "WS": "3+",
                     "S": "4",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Combat knife [PRECISION]",
@@ -6236,7 +6353,8 @@
                     "WS": "3+",
                     "S": "4",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -6343,7 +6461,8 @@
                     "WS": "4+",
                     "S": "8",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -6411,7 +6530,8 @@
                     "WS": "4+",
                     "S": "8",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Twin lightning claws [TWIN-LINKED]",
@@ -6420,7 +6540,8 @@
                     "WS": "3+",
                     "S": "5",
                     "AP": "-2",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -6532,7 +6653,8 @@
                     "WS": "4+",
                     "S": "8",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Power fist",
@@ -6541,7 +6663,8 @@
                     "WS": "3+",
                     "S": "8",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Power weapon",
@@ -6550,7 +6673,8 @@
                     "WS": "3+",
                     "S": "5",
                     "AP": "-2",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -6687,7 +6811,8 @@
                     "WS": "4+",
                     "S": "8",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Power fist",
@@ -6696,7 +6821,8 @@
                     "WS": "3+",
                     "S": "8",
                     "AP": "-2",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Power weapon",
@@ -6705,7 +6831,8 @@
                     "WS": "3+",
                     "S": "5",
                     "AP": "-2",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Twin lightning claws [TWIN-LINKED]",
@@ -6714,7 +6841,8 @@
                     "WS": "3+",
                     "S": "5",
                     "AP": "-2",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -6835,7 +6963,8 @@
                     "WS": "3+",
                     "S": "10",
                     "AP": "-2",
-                    "D": "3"
+                    "D": "3",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -6954,7 +7083,8 @@
                     "WS": "4+",
                     "S": "5",
                     "AP": "-1",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -7077,7 +7207,8 @@
                     "WS": "3+",
                     "S": "14",
                     "AP": "-2",
-                    "D": "3"
+                    "D": "3",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -7233,7 +7364,8 @@
                     "WS": "3+",
                     "S": "6",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Dreadnought combat weapon",
@@ -7242,7 +7374,8 @@
                     "WS": "3+",
                     "S": "12",
                     "AP": "-2",
-                    "D": "3"
+                    "D": "3",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -7350,7 +7483,8 @@
                     "WS": "3+",
                     "S": "12",
                     "AP": "-2",
-                    "D": "3"
+                    "D": "3",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -7468,7 +7602,8 @@
                     "WS": "3+",
                     "S": "12",
                     "AP": "-2",
-                    "D": "3"
+                    "D": "3",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Dreadnought combat weapon",
@@ -7477,7 +7612,8 @@
                     "WS": "3+",
                     "S": "12",
                     "AP": "-2",
-                    "D": "3"
+                    "D": "3",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Seismic hammer",
@@ -7486,7 +7622,8 @@
                     "WS": "3+",
                     "S": "14",
                     "AP": "-3",
-                    "D": "D6+2"
+                    "D": "D6+2",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -7648,7 +7785,8 @@
                     "WS": "3+",
                     "S": "12",
                     "AP": "-2",
-                    "D": "3"
+                    "D": "3",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -7763,7 +7901,8 @@
                     "WS": "3+",
                     "S": "12",
                     "AP": "-2",
-                    "D": "3"
+                    "D": "3",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Brutalis talons - strike [TWIN-LINKED]",
@@ -7892,7 +8031,8 @@
                     "WS": "3+",
                     "S": "7",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -8026,7 +8166,8 @@
                     "WS": "3+",
                     "S": "4",
                     "AP": "-1",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Close combat weapon",
@@ -8035,7 +8176,8 @@
                     "WS": "3+",
                     "S": "4",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Eviscerator [SUSTAINED HITS 1]",
@@ -8044,7 +8186,8 @@
                     "WS": "4+",
                     "S": "7",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Power fist",
@@ -8053,7 +8196,8 @@
                     "WS": "3+",
                     "S": "8",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Power weapon",
@@ -8062,7 +8206,8 @@
                     "WS": "3+",
                     "S": "5",
                     "AP": "-2",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Thunder hammer [DEVASTATING WOUNDS]",
@@ -8071,7 +8216,8 @@
                     "WS": "4+",
                     "S": "8",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Twin lightning claws [TWIN-LINKED]",
@@ -8080,7 +8226,8 @@
                     "WS": "3+",
                     "S": "4",
                     "AP": "-2",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -8251,7 +8398,8 @@
                     "WS": "3+",
                     "S": "4",
                     "AP": "-1",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Close combat weapon",
@@ -8260,7 +8408,8 @@
                     "WS": "3+",
                     "S": "4",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Eviscerator [SUSTAINED HITS 1]",
@@ -8269,7 +8418,8 @@
                     "WS": "4+",
                     "S": "7",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Power fist",
@@ -8278,7 +8428,8 @@
                     "WS": "3+",
                     "S": "8",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Power weapon",
@@ -8287,7 +8438,8 @@
                     "WS": "3+",
                     "S": "5",
                     "AP": "-2",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Thunder hammer [DEVASTATING WOUNDS]",
@@ -8296,7 +8448,8 @@
                     "WS": "4+",
                     "S": "8",
                     "AP": "-2",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Twin lightning claws [TWIN-LINKED]",
@@ -8305,7 +8458,8 @@
                     "WS": "3+",
                     "S": "4",
                     "AP": "-2",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -8458,7 +8612,8 @@
                     "WS": "3+",
                     "S": "4",
                     "AP": "-1",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Close combat weapon",
@@ -8467,7 +8622,8 @@
                     "WS": "3+",
                     "S": "4",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -8545,7 +8701,8 @@
                     "WS": "",
                     "S": "",
                     "AP": "",
-                    "D": ""
+                    "D": "",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -8712,7 +8869,8 @@
                     "WS": "3+",
                     "S": "4",
                     "AP": "-1",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Close combat weapon",
@@ -8721,7 +8879,8 @@
                     "WS": "3+",
                     "S": "4",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Power fist",
@@ -8730,7 +8889,8 @@
                     "WS": "3+",
                     "S": "8",
                     "AP": "-2",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Power weapon",
@@ -8739,7 +8899,8 @@
                     "WS": "3+",
                     "S": "5",
                     "AP": "-2",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Thunder hammer [DEVASTATING WOUNDS]",
@@ -8748,7 +8909,8 @@
                     "WS": "4+",
                     "S": "8",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -8935,7 +9097,8 @@
                     "WS": "3+",
                     "S": "4",
                     "AP": "-1",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Combat knife",
@@ -8944,7 +9107,8 @@
                     "WS": "3+",
                     "S": "4",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Power fist",
@@ -8953,7 +9117,8 @@
                     "WS": "3+",
                     "S": "8",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Power weapon",
@@ -8962,7 +9127,8 @@
                     "WS": "3+",
                     "S": "5",
                     "AP": "-2",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Thunder hammer [DEVASTATING WOUNDS]",
@@ -8971,7 +9137,8 @@
                     "WS": "4+",
                     "S": "8",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -9094,7 +9261,8 @@
                     "WS": "3+",
                     "S": "4",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -9179,7 +9347,8 @@
                     "WS": "3+",
                     "S": "4",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -9274,7 +9443,8 @@
                     "WS": "3+",
                     "S": "4",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -9372,7 +9542,8 @@
                     "WS": "3+",
                     "S": "4",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -9461,7 +9632,8 @@
                     "WS": "3+",
                     "S": "4",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -9552,7 +9724,8 @@
                     "WS": "3+",
                     "S": "4",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -9633,7 +9806,8 @@
                     "WS": "3+",
                     "S": "4",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -9738,7 +9912,8 @@
                     "WS": "3+",
                     "S": "4",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -9846,7 +10021,8 @@
                     "WS": "3+",
                     "S": "4",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -9962,7 +10138,8 @@
                     "WS": "3+",
                     "S": "4",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -10070,7 +10247,8 @@
                     "WS": "3+",
                     "S": "4",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -10174,7 +10352,8 @@
                     "WS": "3+",
                     "S": "4",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -10323,7 +10502,8 @@
                     "WS": "3+",
                     "S": "4",
                     "AP": "-1",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Close combat weapon",
@@ -10332,7 +10512,8 @@
                     "WS": "3+",
                     "S": "4",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Power fist",
@@ -10341,7 +10522,8 @@
                     "WS": "3+",
                     "S": "8",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Power weapon",
@@ -10350,7 +10532,8 @@
                     "WS": "3+",
                     "S": "5",
                     "AP": "-2",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Thunder hammer [DEVASTATING WOUNDS]",
@@ -10359,7 +10542,8 @@
                     "WS": "4+",
                     "S": "8",
                     "AP": "-2",
-                    "D": "2"
+                    "D": "2",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Twin lightning",
@@ -10368,7 +10552,8 @@
                     "WS": "3+",
                     "S": "4",
                     "AP": "-2",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -10513,7 +10698,8 @@
                     "WS": "3+",
                     "S": "4",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -10614,7 +10800,8 @@
                     "WS": "3+",
                     "S": "4",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Gunner's servo-arms [EXTRA ATTACKS]",
@@ -10623,7 +10810,8 @@
                     "WS": "3+",
                     "S": "8",
                     "AP": "-2",
-                    "D": "3"
+                    "D": "3",
+                    "profile-selection": ""
                 },
                 {
                     "name": "Plasma cutter [EXTRA ATTACKS]",
@@ -10632,7 +10820,8 @@
                     "WS": "3+",
                     "S": "8",
                     "AP": "-2",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -10715,7 +10904,8 @@
                     "WS": "3+",
                     "S": "4",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -10810,7 +11000,8 @@
                     "WS": "4+",
                     "S": "6",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -10908,7 +11099,8 @@
                     "WS": "4+",
                     "S": "6",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -11006,7 +11198,8 @@
                     "WS": "4+",
                     "S": "6",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -11124,7 +11317,8 @@
                     "WS": "4+",
                     "S": "6",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -11249,7 +11443,8 @@
                     "WS": "4+",
                     "S": "6",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -11374,7 +11569,8 @@
                     "WS": "4+",
                     "S": "6",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -11485,7 +11681,8 @@
                     "WS": "4+",
                     "S": "6",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -11593,7 +11790,8 @@
                     "WS": "4+",
                     "S": "6",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -11691,7 +11889,8 @@
                     "WS": "4+",
                     "S": "6",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -11809,7 +12008,8 @@
                     "WS": "4+",
                     "S": "8",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -11927,7 +12127,8 @@
                     "WS": "4+",
                     "S": "8",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -12046,7 +12247,8 @@
                     "WS": "4+",
                     "S": "8",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -12175,7 +12377,8 @@
                     "WS": "4+",
                     "S": "8",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -12329,7 +12532,8 @@
                     "WS": "4+",
                     "S": "8",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -12417,7 +12621,8 @@
                     "WS": "4+",
                     "S": "6",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -12530,7 +12735,8 @@
                     "WS": "4+",
                     "S": "6",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -12676,7 +12882,8 @@
                     "WS": "4+",
                     "S": "6",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -12841,7 +13048,8 @@
                     "WS": "3+",
                     "S": "4",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -12970,7 +13178,8 @@
                     "WS": "4+",
                     "S": "6",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -13104,7 +13313,8 @@
                     "WS": "4+",
                     "S": "6",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
@@ -13275,7 +13485,8 @@
                     "WS": "4+",
                     "S": "8",
                     "AP": "0",
-                    "D": "1"
+                    "D": "1",
+                    "profile-selection": ""
                 }
             ]
         },
